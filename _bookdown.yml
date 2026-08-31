@@ -1,0 +1,39 @@
+---
+title: "Contra La Tribu"
+subtitle: "Una relectura crítica de Vargas Llosa y el liberalismo desde el poder de las organizaciones"
+author: "Martín Vargas Estrada"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output:
+  bookdown::pdf_book:
+    base_format: rmarkdown::pdf_document
+    toc: true
+    toc_depth: 3
+    number_sections: false
+    latex_engine: xelatex
+header-includes: |
+  \raggedright
+  \usepackage{titlesec}
+  \newcommand{\sectionbreak}{\clearpage}
+  \usepackage{booktabs}
+  \usepackage{longtable}
+  \usepackage{array}
+  \usepackage{float}
+  \usepackage{colortbl}
+  \usepackage{xcolor}
+  \usepackage{geometry}
+  \geometry{margin=2.5cm}
+  \usepackage{fancyhdr}
+  \pagestyle{fancy}
+  \fancyhead[L]{\small Contra La Tribu}
+  \fancyhead[R]{\small Martín Vargas Estrada}
+  \usepackage{setspace}
+  \doublespacing
+  \renewcommand{\headrulewidth}{0.4pt}
+  \usepackage{caption}
+  \captionsetup{font=small, labelfont=bf}
+  \usepackage{indentfirst}
+  \setlength{\parindent}{1.25cm}
+  \newcommand{\dinkus}{\medskip\begin{center}*\quad*\quad*\end{center}\medskip}
+lang: es
+---

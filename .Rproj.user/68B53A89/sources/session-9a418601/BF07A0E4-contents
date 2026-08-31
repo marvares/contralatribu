@@ -1,0 +1,935 @@
+---
+title: "Contra La Tribu"
+subtitle: "Una relectura crítica de Vargas Llosa y el liberalismo desde el poder de las organizaciones"
+author: "Martín Vargas Estrada"
+date: "`r Sys.Date()`"
+output:
+  pdf_document:
+    toc: true
+    toc_depth: 3
+    number_sections: false
+    latex_engine: xelatex
+header-includes: |
+  \raggedright
+  \usepackage{booktabs}
+  \usepackage{longtable}
+  \usepackage{array}
+  \usepackage{float}
+  \usepackage{colortbl}
+  \usepackage{xcolor}
+  \usepackage{geometry}
+  \geometry{margin=2.5cm}
+  \usepackage{fancyhdr}
+  \pagestyle{fancy}
+  \fancyhead[L]{\small Contra La Tribu}
+  \fancyhead[R]{\small Martín Vargas Estrada}
+  \usepackage{setspace}
+  \doublespacing
+  \renewcommand{\headrulewidth}{0.4pt}
+  \usepackage{caption}
+  \captionsetup{font=small, labelfont=bf}
+  \usepackage{indentfirst}
+  \setlength{\parindent}{1.25cm}
+  \newcommand{\dinkus}{\medskip\begin{center}*\quad*\quad*\end{center}\medskip}
+lang: es
+---
+
+\newpage
+
+# Adam Smith (1723-1790)
+
+Poco o nada se sabe de los primeros años de Smith, salvo que su padre murió antes de que él naciera, y que tuvo una estrechísima relación con su madre. Nunca se casó, y tenía una excelente formación (probablemente autodidacta) en las lenguas clásicas.
+
+Su concentración (que lo llevaba a desconectarse por completo de todo lo que lo rodeaba, por largos lapsos cada vez) era tan intensa que más de una vez se encontró en medio del bosque, solo porque había salido a caminar y se había perdido en sus propios pensamientos, literalmente.
+
+De niño muy enfermizo y distraído, según referiría después el periodo más feliz de su vida fue el transcurrido en sus estudios superiores, entre Glasgow y Oxford. Fue muy amigo de David Hume, pese a que este era mayor que él por doce años; ambos eran escoceses.
+
+Aunque oficialmente nunca renegó en público de su presbiterianismo, luego quedaría claro que, si no era ateo, quizá fuera al menos agnóstico. En contraste, su entrañable Hume parece haber sido uno de los primeros ateos que admitieran públicamente su desafiliación del cristianismo.
+
+Smith nunca se consideró *economista*[^1], sino filósofo. De hecho, fue autor de diversos tratados sobre temas diferentes; en especial uno acerca de la estructura emocional humana, e incluso otro sobre la Historia de la Astronomía.
+
+[^1]: De hecho, el término parece haber tenido por entonces un significado diferente al que le damos hoy, más emparentado con los fisiócratas de Quesnay.
+
+Como Ortega y Gasset siglos más tarde, el escocés encomiaba el uso del lenguaje llano y directo para la exposición filosófica.
+
+En su época no era rara la convicción de que el afán de poseer era un "instinto". Una especie de "ímpetu natural", que estaba en la raíz misma de la generación de sociedades humanas. (Smith, parece, coincidía con esto.) En su consideración, la nobleza latifundista era la peor enemiga de la propiedad privada.[^2]
+
+[^2]: Curioso que en el siglo XVIII, un ilustrado como Smith llegara a la misma (o similar) cadena de ideas que Velasco en el Perú de los años 70.
+
+\dinkus
+
+## La "Historia Conjetural" de Lord Kames
+
+Kames fue parte importante de la Ilustración escocesa, junto con Hume y Smith. En su obra *Historical Law Tracts* (Tratados histórico-legales), propone la existencia de una relación entre la forma en que un pueblo o nación gestiona su sustento, y sus instituciones políticas, legales y morales.[^3]
+
+[^3]: Estas asociaciones o relaciones coincidirían con las de Karl Marx en el siglo XIX.
+
+Para Kames, la sociedad humana se desplegó a través de una serie de etapas, definidas según el modo predominante de subsistencia:
+
+1.  **Etapa de cazadores-recolectores**: sin casi leyes ni propiedad.
+
+2.  **Etapa de los pastores**: cuando se empieza a asumir el ganado como propiedad privada, y por lo tanto, surgen los primeros ordenamientos jurídicos.
+
+3.  **Etapa de los agricultores**: al asentarse en un terreno, la propiedad inmobiliaria se define. A fin de preservar y administrar este nuevo elemento fundamental de la vida social, la ley se hace más compleja y el razonamiento legal más intrincado (Kames era abogado; de hecho, "Lord" era un título legal).
+
+4.  **Etapa de los comerciantes**: como suele pasar con los historiadores, el punto del tiempo en que un autor se encuentra es asumido como la "culminación histórica." Para Kames, la etapa de los comerciantes lo era: la existencia de la moneda, los contratos y los procesos de manufactura genera un orden jurídico de alta formalización y enorme avance.
+
+Este esquema de "sociología evolutiva" fue tomado casi al pie de la letra por Adam Smith, quien se apropió de él y lo usó para enmarcar sus famosas conferencias de la década de 1760, así como su monumental *"De La Riqueza de las Naciones"*.
+
+\dinkus
+
+AS, presbiteriano en las costumbres aunque no tanto en sus creencias, pasó años enseñando en Glasgow, adonde llevó a vivir consigo a su madre y a una prima, quien le llevaba los cuidados prácticos de su hogar. Según MVLL, era austero, abstemio, y probablemente célibe. Nunca se casó ni tuvo novia.[^4]
+
+[^4]: Para quien quisiera ejercer la *Psicología ligera*: si bien Smith cumple con el estereotipo moderno de un "gay enclosetado" (ausencia paterna, devoción filial extrema a la madre, ninguna pareja), habrá que recordar que ese tipo de diagnóstico anacrónico no tendría base histórica alguna. A diferencia de otros casos, anteriores al igual que posteriores, en los que la predilección homoerótica es más o menos evidente, nuestro filósofo jamás evidencia tal tipo de conductas. Además, es necesario entender que antes del siglo XX en Europa, la castidad y la soltería permanente en hombres y mujeres no era extraordinaria ni implicaba necesariamente razones de orientación sexual. Para ellas, era más bien sensato no correr el riesgo de embarazos potencialmente mortales, y para ellos --sobre todo los *ellos* más acomodados y/o capaces, salvo que sobrellevasen las cargas de la primogenitura-- implicaba la posibilidad de una vida dedicada en exclusiva al estudio.
+
+Glasgow era en ese momento una ciudad de señalada prosperidad, debida, entre otras cosas, al comercio con las colonias norteamericanas. Esta excelente marcha de los negocios pronto llamaría la atención de Adam y se convertiría en objeto de su poderosa inteligencia.
+
+## La Teoría de los Sentimientos Morales (1759)
+
+Fue el primer libro que publicó Smith. Generado a partir del contenido de sus clases. El problema en que se centra es doble: *¿Por qué existe la sociedad humana?*, y *¿Cómo progresa?*[^5]
+
+[^5]: Este interés de Smith no es por entero ajeno a mis propias inquietudes en relación a lo que permite (o no) la vigencia sostenida de las sociedades humanas. La respuesta a ese dilema, por mi lado, pasa por el concepto de las *Entidades Colectivas Organizacionales* (en lo sucesivo usaremos con frecuencia el acrónimo ECO). Tan solo para evitar confusiones, y hcr más inteligibles algunas de mis acotaciones: mi propuesta teórica conjetura la existencia de tales entidades colectivas de carácter corporativo, para las cuales usaré igualmente el término *organizaciones*. Las *ECOs* se diferencian de los grupos, entre otras cosas, por la intercambiabilidad de sus integrantes. *ECOs* u *organizaciones* serán no solo las empresas, sino las instituciones, los Estados, y todo colectivo organizado cuyo alcance y constitución sobrepasen las características de un grupo y, por supuesto, de los individuos. Como es obvio, hay muchísimo más que discutir sobre esto, pero este no es el lugar para hacerlo.
+
+He aquí una esquematización (enteramente propia, no propuesta por Vargas Llosa, y ciertamente tampoco por Smith) de una de las ideas centrales del libro:
+
+$$SOCIABILIDAD = IMAGINACION + SIMPATIA$$
+
+A continuación, el modo en que entiendo algunos de los conceptos que a en este aspecto usa el filósofo escocés:
+
+**Sociabilidad**: es el "pegamento" que permite mantener unida a una sociedad.
+
+**Imaginación**: la teoría de la mente. Consiste en asumir que mi *alter* —mi interlocutor, en especial—, posee una mente por entero similar a la mía.
+
+**Simpatía**: según MVLL, en Smith esta palabra tiene "el sentido de la empatía".
+
+Si usamos la equivalencia arriba definida, podemos entender —con asombro— que Smith fue profético en su *insight*, el cual coincide con el *mainstream* psicológico actual. (Por supuesto, también es posible que solo esté yo proyectando la investigación psicológica actual sobre la filosofía de un intelectual antiguo.)
+
+Otro *insight* asombroso (que anticipa la idea de Steven Pinker en *How The Mind Works*) es que, para el escocés, esta combinación de teoría de la mente y motivación altruista se contrapone y supera a la razón como esencia de la vida social humana. Si la razón fuera, en serio, el motor exclusivo de la psique humana, no estaríamos motivados prosocialmente.
+
+Para propósitos de esclarecimiento, veamos por un momento la explicación del psicólogo canadiense.
+
+Pinker usa al personaje *Data* de *Viaje a Estrellas: Nueva Generación*[^6] para ilustrar su punto: si en realidad estuviera guiado en exclusiva por la racionalidad, le daría igual quedarse sentado calculando el billonésimo dígito de la secuencia de $\pi$, o derivando las últimas consecuencias de la filosofía de Heidegger. El hecho de que Data se levante de su asiento y se digne no solo a interactuar, sino a trabajar en equipo y proteger a sus camaradas es lo más asombroso y contradictorio en él. El hecho de que los espectadores no lo vean así es porque, quizás, dan la simpatía smithsoniana por sentado, al entender a Data simplemente como una réplica cibernética humana, y asumen que las emociones solo sirven para dejarse llevar por arranques afectivos de los que el androide carece. El punto aquí es que la afectividad es la base de la motivación y también del comportamiento moral.
+
+[^6]: En la serie de ciencia ficción de Roddenberry, *Data* es un androide que replica en apariencia (y en buena parte de su funcionalidad) a los seres humanos, con una diferencia saltante: se asume que no experimenta estados emocionales. Es decir, *Data* piensa, pero no *siente.*
+
+Para Smith, la bondad prevalece por sobre la maldad en la escena moral. Yo también creo que es así, a nivel interpersonal, no tanto por optimismo principista sino porque una sociedad donde se diera lo contrario no sería viable por mucho tiempo. El humano necesita confiar en las personas, ya que depende de ellas literalmente para sobrevivir; esta interdependencia mutua genera una solidaridad "de fondo", que permite la vida en común.
+
+Mi inquietud y mi cuestionamiento es: ¿sucede lo mismo a nivel inter-organizacional[^io]? ¿Y entre organización e individuo?
+
+[^io]: Entiéndase, en lo sucesivo, que el término *organizacional* y sus derivados se refieren a las ECOs, salvo indicación en contrario. 
+
+Creo que estos tipos de interrelación poseen cada uno su propio conjunto de reglas, y creo también que mucha desdicha ha surgido en la Historia como resultado de haber confundido los tres niveles.
+
+| Tipos de Interacción | Dinámica |
+|------------------------------------|------------------------------------|
+| ORGANIZACIÓN $\Longleftrightarrow$ ORGANIZACIÓN | Negociación / Consolidación / Competencia |
+| ORGANIZACIÓN $\Longleftrightarrow$ INDIVIDUO | Imposición / Paternalismo / Subordinación |
+| PERSONA $\Longleftrightarrow$ PERSONA | Solidaridad / Sanción social |
+
+\dinkus
+
+MVLL cita a Smith, cuando este hipotetiza que una persona que de pronto se encontrara despojado de toda credibilidad social —es decir, siendo considerado un embustero irredimible— "moriría de desesperación", y piensa que tal idea viene de un exceso de severidad moral por parte de Smith, y que en el mundo contemporáneo muchos sobrellevan tal mala fama respecto de sí sin excesiva dificultad o angustia.
+
+Me sorprende su cortedad intelectual: está claro que Smith postula que la existencia humana se da en un contexto de relación solidaria con el otro, y en ese sentido, *ser tomado por embustero equivaldría a perder el privilegio de la comunicación.* La persona tachada de mentirosa es seccionada funcionalmente del contacto con los demás; sin posibilidad de interrelación, esa vida se vaciaría de sentido humano. De ahí la insondable desesperación postulada en el párrafo de Smith; no se trata de una mera descalificación parcial y moral. AS es un filósofo y por ende sus conjeturas son planteadas desde el territorio de los absolutos y no de lo contingente.
+
+El escocés formula ya en el siglo XVIII las bases de un entendimiento del ser humano desde la vida social: *La Naturaleza ha generado en el hombre el impulso a ser considerado positivamente por su semejante.*
+
+\dinkus
+
+MVLL afirma que por pasajes este libro parece, alternativamente, "un manual de buenas maneras, un tratado ético, y un análisis de sociología". Bueno pues, tal multiplicidad es lógica dado que Smith escribía en una época anterior a esas categorías, y en su mente no estaban aún planteadas las distinciones artificiales de hoy.
+
+El filósofo escocés estaba en contra del nacionalismo; parece haber notado que, al dejarse llevar por tal sentimiento, las personas pueden llegar a negar lo que es cierto (por distorsión patriotera), o experimentar celos y otras emociones negativas frente a la prosperidad de países cercanos y rivales.
+
+Según MVLL, es en los escritos de este filósofo donde encontramos la primera proposición de la sociedad entendida como una entidad con dinámica propia, independiente de la simple suma de las voluntades de sus integrantes. Esa poderosa voluntad colectiva debe respetarse, si no se quiere el riesgo de la anarquía.
+
+Asimismo, innova mencionando o postulando la existencia de una especie de "juez interior"[^7], o consciencia: habla de "el gran recluso"; "el egregio residente dentro del pecho"; "el juez interior". Para AS este observador interno es imparcial, pero luego queda claro que en realidad no es más que el yo o *self* del individuo, al que somete a sentencias demasiado severas o, por el contrario, en exceso indulgentes, más de lo que cabría esperar de una entidad verdaderamente objetiva.
+
+[^7]: ¿No es acaso este concepto un precursor del *Superyó* freudiano?
+
+AS es, en este aspecto, esencial para el encuadre filosófico del pensamiento liberal, ya que permite postular al individuo como el "punto de origen" ético de toda colectividad, habida cuenta de que estas no serían más que agregaciones basadas en un conjunto de individuos.[^8]
+
+[^8]: Ojo, Smith habla de colectividades en el sentido amplio, no solo o no necesariamente de lo que podría considerarse como ECOs.
+
+En su visión filosófica, una acción virtuosa tiene un valor estético, además y más allá de su valor moral.[^9]
+
+[^9]: Curiosa "sinestesia conceptual", la de Smith. Quizás se deba a un exceso de santurronería, como parece implicar Vargas Llosa, ya que según este, el escocés escribe universalmente con elegancia y precisión, y no sería característico de un filósofo de su calibre la confusión en las ideas.
+
+Este libro fue considerado por el autor como la "niña de sus ojos", de entre todo lo que produjo. Puede que ello se deba a que nunca previó el enorme impacto de *La Riqueza...* en la posteridad del mundo occidental. Tenía buenos motivos para el orgullo: colegas como Voltaire, Kant, Hume y Edmund Burke aplaudieron la obra. Además, el resonante éxito del libro le consiguió un empleo que le permitiría dedicarse de lleno a la actividad intelectual y viajar a las zonas de Europa que más le interesaban  por su prestigio cultural.
+
+Tal prosperidad de Smith se debió al mecenazgo de un noble, quien le encargaría la formación de uno de sus hijos y, luego, como agradecimiento, le otorgaría una pensión vitalicia.[^10]
+
+[^10]: De nuevo aquí la importancia de tener la dimensión material resuelta. Cf. *A Room of One's Own*, de Woolf.
+
+\dinkus
+
+## Una Investigación sobre la Naturaleza y Causas de la Riqueza de las Naciones (1776)
+
+Se ocupa de muchos temas, más allá de lo estrictamente económico, y fue publicada al mismo tiempo que *Historia de la decadencia y caída del Imperio romano*, de Edward Gibbon.
+
+Célebre por ser la exposición más académicamente coherente y temprana acerca del libre mercado. Se enfatiza que el libre mercado no es una invención de nadie en particular, sino tan solo una característica emergente de las sociedades en que se desarrolla sanamente el comercio.
+
+Releo lo escrito y me queda claro que *sanamente* tal vez no sea el adverbio adecuado. Porque el motor de la economía así entendida es, sin discusión, el egoísmo, la codicia y la voluntad excluyente de las seres humanos, empezando desde el individuo.
+
+Lo cual me lleva al cuestionamiento de base: ¿Es posible que la propiedad emergente de un vicio —a saber, la codicia— sea moralmente bueno, sano y socialmente conveniente? *Does evil ever beget goodness?*
+
+¿Es acaso siquiera concebible que el egoísmo a nivel individual genere la virtud de la prosperidad a nivel organizacional? ¿Significa esto que "lo que es malo para el individuo, es bueno para la colectividad organizada"? ¿Implica esto que hay un divorcio radical entre el sentido moral y las finalidades entre individuos, grupos y ECOs?
+
+"El vicio egoísta de muchos individuos acaba generando la prosperidad de la sociedad." (No es una cita literal, solo parafraseo la idea.) Es un poco como decir que la paz en una comunidad es generada por el miedo general a la violencia homicida de cada individuo.
+
+¿Soy yo quien se equivoca? Según la mayoría de testimonios de quienes lo conocieron, Adam Smith fue un hombre moralmente correctísimo, y regularmente caritativo. Pues bien: si todos fuéramos como él, el libre mercado no existiría y la sociedad entraría en decadencia, al menos en lo económico.
+
+Un ejemplo: yo trabajo en una empresa, vendiéndole básicamente mi tiempo. Por una serie de eventos afortunados (sic), hoy me han concedido múltiples lapsos libres remunerados, lo cual redunda en la posibilidad de escribir este análisis. Eso es bueno para mí. Pero si estos "eventos afortunados" se reprodujeran para todos los demás individuos que trabajamos aquí, la empresa probablemente acabaría quebrando o retirándose del mercado.
+
+En otras palabras: una vez más, lo que es bueno para el individuo, es malo para la ECO; y al revés. Son entidades teleológicamente incompatibles, y a menudo opuestas y contradictorias. 
+
+Si yo quiero, por ejemplo, que la empresa en que laboro prospere, y la empresa, en tanto ECO, lo quiere también, el motivo es por entero distinto. Para mí, se trata de supervivencia personal, para la cual la prosperidad es mero instrumento. Para la empresa, es la supervivencia propia, y en consecuencia es un fin y un imperativo existencial. En tal sentido, será mucho más urgente para la ECO que para mí, y si es necesario, esta última no dudará en sacrificarme a mí si se desde el caso. Esta oposición o independencia, se da si hablamos del tipo religioso o nacional: la razón es que, incluso si el individuo decidiera, en cuanto miembro de la ECO, sacrificarlo todo, hasta su propia vida, por ella, su concepción de la finalidad de la ECO es inconmensurable con su posibilidad de concepción individual. Es decir, morirá por el sentido que él le da a la ECO, lo cual no srá —no puede ser—, el que la ECO se da a sí misma. Esa última concepción sería inimitable, inimaginable, múltiple y multívoca de una forma cualitativamente diferente de cualquier cosa que el individuo, en cuanto tal, podría concebir.
+
+\dinkus
+
+El hecho que el libre mercado permita que unas ECOs prosperen oprimiendo a otras ECOs, y a muchos individuos, es solo un subproducto de esta contraposición moral de base.
+
+Al menos hasta aquí, tenemos que aceptar que, consideradas desde el nivel de los individuos y la moral individual, el libre mercado es procedimentalmente y económicamente eficiente, pero ética y moralmente deletéreo.
+
+El hecho de que haya individuos que logran traducir en riqueza particular la opresión y gran ventaja económica de una o más ECO es solo otro subproducto de este orden o régimen social.
+
+MVLL defiende apasionadamente la libertad económica, en la creencia de que esta posibilita la realización y prosperidad del individuo en libertad, pero acabamos de ver que la libertad de las ECOs solo puede generar opresión para el individuo, y que en la dimensión moral, individuo y organización usualmente se oponen y siempre divergen.
+
+Si al hablar de la "mano invisible", Smith habla del efecto acumulativo de la codicia y el egoísmo coordinados de millones de individuos, esa "mano invisible" es además una mano culpable, inmoral y pecaminosa, que por propia admisión de Smith, no tiene en mente ni busca como objetivo el bien común, siendo un simple efecto de la marcha de las cosas.
+
+Hayek llamaría a este estado de cosas, mucho tiempo después, *orden espontáneo*. Surge, además de la codicia y del egoísmo, de la división de labores y de la aparición del Estado. Es decir, el libre mercado, la famosa "mano invisible", la división del trabajo, y otros aspectos del régimen económico liberal, son fenómenos de índole organizacional.
+
+Como corresponde a un liberal, MVLL aborrece los controles, los subsidios y el monopolio; es decir, los factores que puedan distorsionar la dinámica libérrima de los individuos desplegando su codicia y egoísmo. La verdad es que, más temprano que tarde, tal dinámica viciosa acaba desembocando en la formación de empresas, es decir, subdivisiones más o menos espontáneas de la sociedad como conjunto. Y son esas empresas (y otras variedades de ECO) las que terminan devorando y oprimiendo los elementos de valor económico presentes en los individuos. Y es entonces que la regulación del Estado debe intervenir.
+
+Quizás para compensar por esta acción económica sobre la sociedad AS predicaba la educación, incluso para los más humildes. Ciertamente, su tierno corazón se estrujaba ante la visión de los pobres; pero incluso la Educación gratuita[^11] es incapaz de asegurar la igualdad de estándar de vida, precisamente porque el mérito del libre mercado está en traducir la desigualdad en riqueza, de cualquier tipo.
+
+[^11]: ¿Lo llegó a formular en esos términos?
+
+La riqueza puede distribuirse según la competencia y capacidad, pero el valor asignado a las diferentes capacidades no es nunca ni exhaustivo ni complementario, sino arbitrario y socialmente definido y permanentemente regenerado, lo que equivale a decir que la pobreza y la desigualdad son parte consustancial del modelo; no accidentes que suprimir, sino el espinazo mismo de él.
+
+Smith fue un genio explicativo y descriptivo; intentó justificar sus hallazgos criticando el monopolio e implicando la necesidad de controles legales en el mínimo necesario, y deploró la miseria de tantos. Pero aun así, queda muy claro para todo lector aguzado que lo que describe es un modelo que funciona bien, que está verificado por la realidad, pero que tiene un costo: la miseria (absoluta y/o relativa) de muchos, y que premia la habilidad diferencial de unos cuantos (mientras menos sean, más ricos se volverán). De nuevo: todos los buenos deseos de Smith, todas las recapitulaciones de MVLL, no son suficientes para maquillar la realidad brutal del libre mercado humano.
+
+La libre competencia incrementa la calidad de lo vendido, y evita que las organizaciones lucren sin ofrecer algo valioso a cambio. El problema es que esto requiere, para desplegarse de forma ética, de un vacío social aséptico que en la realidad jamás se da[^haya].
+
+[^haya]: Cf. Haya de la Torre, V. R. (1936). El antiimperialismo y el APRA. Editorial Ercilla. Ni siquiera en su inicio histórico existió en Europa algo así como una tabla rasa donde la diferencia de capacidad fuera traducida limpiamente en asignación de riqueza mediante los mecanismos del libre mercado. Y ciertamente fuera de los países industrializados, ese libre mercado engarzado en el capitalismo fue incapaz de reproducir la lógica teórica propuesta por los liberales. Por el contrario, sólo consagró una dinámica imperialista que distorsionó sin remedio cualquier posibilidad de un liberalismo sin inequidades.
+
+Según MVLL, "los grandes beneficiarios de la Teoría de Adam Smith son los consumidores." (cita literal). Aún más que los productores, aunque estos también se benefician. Pero como yo lo veo, los mayores y más perdurables beneficios los gozan las ECOs. Son ellas las únicas capaces de "metabolizar" los márgenes de utilidad que el capitalismo genera, y sostener la producción dentro de los estándares de calidad y perdurabilidad que el libre mercado exige.
+
+Es el peligro de intelectualizar lo que es tan contingente.
+
+\dinkus
+
+> La propiedad que cada hombre tiene de su propio trabajo es la más sagrada e inviolable, puesto que es la base de todas las demás. ("De La Riqueza de las Naciones", Libro I, Cap. X, Parte II)
+
+Y sin embargo, el libre mercado fuerza a todo ser humano a vender esa propiedad sagrada que es su propio tiempo y su propio trabajo. *No hacerlo no es una opción.* En otras palabras, el libre mercado confisca el trabajo de las personas, y la única opción real que tiene el individuo es tratar de alinear al comprador de su trabajo con sus propias metas, motivaciones y prioridades, con escaso poder de negociación la mayor parte de las veces[^incomuni].
+
+[^incomuni]: Como ya hemos visto en párrafos previos, esta incomunicación esencial entre las finalidades y metas de individuos y de ECOs (recordemos que casi en exclusiva son las ECOs las grandes compradoras de la labor individual) no es ni resoluble ni negociable.
+
+En otras palabras: como individuo soy incapaz de negarme a vender mi trabajo. *Debo hacerlo.* Lo único que puedo elegir (y eso es muy relativo, habida cuenta de las innumerables restricciones y limitaciones que se dan en la "vida real" cotidiana) es *a quién* se lo vendo. Pero si mis circunstancias me son adversas, solo podré vender en condiciones desventajosas para mí.
+
+¡De alguna manera el libre mercado es compulsivo y confiscatorio!
+
+Nos dice Adam:
+
+> El patrimonio de un hombre pobre consiste en la fuerza y habilidad de sus manos, e impedirle el empleo de su fuerza y habilidad en la forma que considere apropiada, sin perjudicar a nadie, es una violación flagrante de la más sagrada de las propiedades. ("De La Riqueza de las Naciones", Libro I, Cap. X, Parte II)
+
+Y sin embargo, ¡Cualquiera que haya puesto un pie en la calle sabe que ningún individuo puede ejercer con absoluta libertad (incluyendo la opción de no venta) su fuerza de trabajo![^12]
+
+[^12]: Estoy consciente de que, en buena parte, incurro en anacronismo: el Smith despotrica aquí contra las disposiciones de su época, que le cedían a los gremios o *corporations* el control de cuándo y en qué términos ciertos tipos de trabajadores podían ofrecer sus habilidades al mercado. Sin embargo, sus afirmaciones, más allá de las particularidades, sí que aspiraban a enunciar principios generales, y es así que se asumen por sus lectores desde que fueron escritas.
+
+No estoy diciendo que las restricciones a la libertad de trabajo se deban necesariamente a la voluntad adversa de alguien (o de "algo"); lo que digo es que es lógicamente incorrecto lanzar un principio de este tipo y esperar que coincida con los hechos prácticos.
+
+¿Smith está acaso describiendo o *prescribiendo* la realidad?
+
+\dinkus
+
+**La División del Trabajo** existe —o no—, según la magnitud del mercado. En una localidad pequeña, disminuirá hasta casi desaparecer; por ello, para AS, residir en una ciudad es un beneficio, ya que permite a los individuos especializarse en una función u otra. Luego describe la emergencia del dinero como recurso, a partir de sociedades agropecuarias que luego pasan a ser sociedades mercantiles.
+
+El autor de "La Riqueza de las Naciones" dice que las mercancías tienen valor en función del trabajo que ha sido necesario para fabricarlas[^13]
+
+[^13]: ¿Y los recursos materiales consumidos y/o transformados?
+
+Cuando habla del precio, indica que el precio real es distinto al nominal; este último se fija en función de la abundancia relativa de "los metales invertidos en su producción".[^14]
+
+[^14]: ¿Y la demanda del mercado? ¿Y el precio de la oferta? MVLL parece delatar poca afición a los detalles económicos.
+
+Supuestamente, el autor de "La Riqueza de las Naciones" señala que los trabajadores bien pagados suelen trabajar con mayor satisfacción y eficiencia.[^15]
+
+[^15]: A mí me suena a que sabía el monstruo que existía y que debía describir, y trataba de suavizar su fiera apariencia con apelaciones a la deseabilidad social.
+
+"Los grandes enemigos del mercado libre son los privilegios", sintetiza el escritor peruano. Pero los privilegios son justamente uno de los principales subproductos del libre mercado. Sin restricciones, la acumulación del capital termina generando poder adquisitivo, social y político sobre los demás.
+
+"El mercado es frío, pues premia el éxito y castiga el fracaso de manera implacable" añade Don Mario. La bonhomía de Smith terminó, por ello, dedicando múltiples acciones caritativas para remediar la miseria de más de un pobre. ¿No veía acaso la enorme ironía de sus propias acciones? ¿No entendía que ese orden liberal generaba necesariamente la miseria que solo puede aplacarse con la limosna y el asistencialismo?
+
+Según MVLL, el filósofo se habría horrorizado de que hubiera gente que acusara su investigación de frialdad e insensibilidad; pero lo suyo, más que teoría, era descripción (por lo tanto, no veo el punto de sentir culpa).
+
+Queda claro que para el escocés los males sociales, como la pobreza, tienen su raíz en las distorsiones del modelo liberal, y no en el modelo mismo. Y así es. Lo cuestionable es considerar que tal modelo liberal pueda en algún momento, existir sin distorsiones, y persistir como la modalidad fundamental de la Economía de una sociedad sin generar monopolios ni parcelas de privilegio.
+
+*Se requiere competencia sin favoritismos, y el respeto a la propiedad privada*, se nos dice. Pero ese mismo respeto al triunfo de algunos y esa misma indiferencia al fracaso y pobreza de muchos, que son parte esencial del modelo, ¿en qué momento se convierten en monopolio y privilegio indebidos? ¿Quién tendrá la autoridad para decir *ya fue suficiente de competencia; tu éxito ha arrasado con tus competidores, es hora de que abandones el afán de ganancia y apagues el motor de tu codicia*?
+
+\newpage
+
+# José Ortega y Gasset (1883-1955)
+
+Considerarlo un filósofo liberal, como lo hace MVLl es, hasta cierto punto, controversial, ya que en su momento Ortega rechazó las etiquetas de *izquierda* o *derecha*, y aunque no llegó a favorecer al régimen conservador de Franco, tampoco se mantuvo dentro del republicanismo en el que oficialmente militó. La violencia radical de este movimiento, así como su giro popular, terminaron por repeler al filósofo.
+
+JOG, aunque liberal, nunca dejó de identificarse con "la minoría selecta". Cabe subrayar que tal minoría no era, según él, selecta por efectos de alcurnia o fortuna, sino por la calidad intelectual.
+
+Cuando la Guerra Civil estalló finalmente, se sintió inseguro en el Madrid republicano, y optó por exiliarse[^exilio]. Pasó por Francia, por Argentina y por Portugal. Eventualmente retornó a España, donde el régimen franquista intentó usar su prestigio para sus propios fines; demasiado inteligente para dejarse manipular, nunca accedió y por ello fue vigilado y el oficialismo sospechó de él hasta su muerte.
+
+[^exilio]: Curiosamente, Ortega temió más a una España gobernada por los republicanos —hasta el punto de emigrar—, y no tanto a la España franquista, a la que de hecho volvió para quedarse, a pesar de todas las presiones del régimen.
+
+Solía escribir en periódicos y otras publicaciones; en realidad no produjo obras orgánicas donde su pensamiento se plasmara de forma integral y exhaustiva, como sí es el caso típico de, por ejemplo, los filósofos alemanes o británicos.
+
+## España Invertebrada (1922)
+
+Como solía ser su costumbre, Ortega compuso esta obra originalmente en entregas hebdomadarias en el periódico *El Sol*, de Madrid.
+
+En general, el filósofo predicaba la necesidad de "europeizar" España (había estudiado su posgrado en Alemania). En esto, fue confrontado por Unamuno, quien abogaba más bien por un enfoque más nacionalista: "Españolizar Europa". Para MVLL, esto último constituye "un disparate".
+
+En este, que fue su primer libro publicado, aplicó la que sería una estrategia constante de "acreción" en lo que toca a la producción intelectual.
+
+MVLL encomia la capacidad de Ortega para vaticinar las grandes tendencias que eventualmente tomarían el mundo occidental por asalto. (Lo mismo hizo a nivel nacional, cuando previó que los independentismos catalán y vasco se volverían dolores de cabeza para España.)
+
+Una idea interesante de Ortega es que critica a su país por haberse convertido en una entidad sin una existencia dinámica, "como un montón de piedras en el camino". Y es que para él, una nación es "un proyecto de vida en común", y por lo tanto, al carecer de elementos que incentiven, la Nación se marchita y muere.
+
+Para él, *"una Nación es un proyecto sugestivo de vida en común"*, *"(...) un plebiscito cotidiano."*
+
+Su aporte radica en resaltar los aspectos motivacionales y proyectivos (en suma, afectivos) del fenómeno nacional. Desde mi propio punto de vista, en efecto, la Nación como ECO se compone de una dimensión emocional tanto como de una dimensión cognitiva, pero también habría que añadir que una Nación puede consistir, por desgracia, también en una identidad negativa. **Una identidad negativa es aquella definida por lo que yo no soy, más que por lo que sí soy, en términos colectivos.** En el Perú por ejemplo, muchos se sienten peruanos sencillamente porque no son bolivianos, ni chilenos, ni ecuatorianos, etc. Este vacío de identidad positiva, propositiva y orgánica, se transforma en un espacio proyectivo donde se vuelcan los contenidos que yo mismo, y mi grupo de referencia, declaramos para la Nación.
+
+Considero, asimismo, que el problema con una Nación constituida a partir de un espacio proyectivo es que este es poblado con imágenes y afectos que no integran al otro y que —como suele pasar con toda proyección a partir de un estímulo infravalorado—, dice más de mí en cuanto entidad proyectante que de nada ni nadie más. Dicho de otro modo: tener una Nación vacía, con casi ningún referente bien establecido, genera proyecciones egocéntricas que acaban por ser base de desunión, exclusión y desencuentro, antes que de comunidad, inclusión y comunicación.
+
+Para JOG, el *gran relato de Castilla*, que aglutinó imaginaciones y afectos en el pasado, estaba marchito y extinto, y no había sido reemplazado por un proyecto alternativo. Sin un proyecto motivador y viable, España perdía integración e impulso nacionales.
+
+El proyecto de Castilla era la colonización y, contra lo que pudiera intuirse, no había sido propuesto y sostenido por la monarquía, sino por el pueblo español, llano y sencillo.
+
+Si bien es cierto que todos los indicios históricos nos informan que fue realmente el aventurero español de baja jerarquía quien resolvió la colonización en la materialidad y humanidad americanas, no deberíamos evitar el reconocimiento de la monarquía en cuanto entidad enmarcadora y reguladora. El *conquistador* fue, en efecto, parte del pueblo español, pero la articulación y estructuración del gran "proyecto colonizador" partió de la realeza.
+
+Ese proyecto de España, como es obvio, ya no existe para la época en que JOG escribe. Sin eso, el país se "desvertebra", es decir, literalmente, "pierde el espinazo". Ortega llegaría a decir, de su nación: *"peor que tener una enfermedad es ser la enfermedad."*
+
+## La Deshumanización del Arte (1925)
+
+Igual que con el volumen previo, esta es ante todo una recopilación de artículos previamente publicados.
+
+El tema es aquí la Estética. Ortega señala: *"las masas odian el arte nuevo, porque no lo entienden."*
+
+El arte romántico y el naturalista eran democráticos: cualquiera los entendía (al menos en un primer nivel de apreciación), y por ello eran favoritos de todos. Tal arte, según el filósofo, eran representaciones "exaltadas y sensibleras" de la vida emocional humana. Por ello, fueron de una popularidad que a cualquier artista contemporáneo le parecería asombrosa, además de envidiable.
+
+El "arte nuevo" (es decir, el de la época en que escribía, hace un siglo) no aspiraba a representar al mundo, sino a *crear otro mundo*, y esta nueva propuesta estaba mediatizada por un enorme trabajo intelectual. Lo cual crea un abismo entre los cultores del arte contemporáneo (apreciadores, críticos y artistas) y el gran público, incapaz de —y/o desmotivado para— emular esa elaboración intelectual de forma propia.
+
+Para Ortega, lo que el gran pueblo apreciaba en el arte romántico y naturalista era justamente lo que menos tenía de artístico. La nueva propuesta artística tiene que ver con un plano distinto de realidad, generado por medio de técnicas exclusivamente artísticas. Este proceso es una deshumanización. Así, por ejemplo, Debussy "deshumanizó la música." En paralelo, Ortega considera dentro de la misma tendencia a Mallarmé, a Pirandello, a Proust y a Gómez de la Serna; y en la pintura, al expresionismo y el cubismo.
+
+*"De pintar las cosas, se ha pasado a pintar las ideas"*, sentencia. Y añade: *"el artista se ha cegado para el mundo exterior, y ha vuelto su pupila a los parajes internos y subjetivos."*
+
+Otras tendencias que engloban a este nuevo arte (además de la "deshumanización"): la evitación de la vida real, la concepción del Arte en tanto juego; el rechazo de la falsedad (¿aludiendo al artificialismo?), y la concepción del arte como ultimadamente intrascendente. A diferencia de las generaciones previas, el "artista nuevo" no aspira a tener impacto político o social alguno, habida cuenta de que entiende al Arte como una actividad que se da enteramente en otras dimensiones.
+
+Más bien, este Arte nuevo aspira a divertir y a impresionar, más que a cuestionar al espectador (decidor el uso del término "espectador", el cual implica que todo Arte viene a ser espectáculo).
+
+Lo que más me impacta es esta extraordinaria combinación de sensibilidad y abstracción (ambos tienden a excluirse mutuamente en la mentalidad humana; no así en Ortega); su conceptualización del Arte fue suficientemente certera como para sobrevivir incluso décadas después de su muerte.
+
+Vargas Llosa aprovecha la ocasión para enfatizar que estas tendencias no solo se universalizaron algunas décadas después, sino que se extremaron hasta el punto de vaciar muchas pretendidas "expresiones artísticas" de toda calidad y mensaje, llegando, en algunos casos, a convertirse en simples embauques.
+
+## La Rebelión de Las Masas (1930)
+
+Premisa: ya se acabó la supremacía de las élites. Las masas irrumpen en el escenario social (o mejor dicho cobran protagonismo, pues estuvieron siempre ahí) para determinar, de ahora en más, el curso de los acontecimientos.
+
+Es una reacción (y anticipación, en buena parte) a la emergencia del fascismo, el comunismo, el nazismo, el sindicalismo, y apunta a un "rasgo clave de la vida moderna" (Vargas Llosa).
+
+En este punto debo acotar mi punto de vista: *las masas no son, en realidad, agentes sociales, porque no tienen la eficiencia de acción necesaria*. La masificación no es más que la punta del iceberg. Lo que hay detrás es siempre algún tipo de colectividad u organización, quienes son las que realmente tienen agencia. El individuo, la mayor parte del tiempo, tan solo expresa a una organización, y carece de toda originalidad que pueda particularizarlo en cuanto persona.
+
+Ortega criticaba esta masificación de la cultura en nombre de la defensa del individuo. En su óptica, los derechos individuales se ven amenazados por la imposición de la muchedumbre.
+
+Hay que enfatizar algo: el concepto de "masa" en el planteamiento orteguiano no tiene que ver con la clase social, y no coincide para nada con la ideología marxista. Es más bien la oposición factual y lógica a la noción de "individuo", y es transversal a todas las capas de la sociedad. Lo único —pero poderoso— que las une es su voluntad de desindividualizarse, su afán en funcionar en términos "tribales"[^tribu]. Resalta JOG que, una vez en ese status, las personas actuarían en función de emociones y pasiones, declinando de su propia identidad en función de la colectividad del caso.
+
+[^tribu]: En nuestra propia propuesta —que de hecho no hay tiempo de detallar aquí—, también usaremos el término "tribal", pero le asignaremos un sentido enteramente distinto. Aquí sigo el planteo orteguiano y por eso entrecomillo.
+
+Incluso MVLL admite que este filósofo era elitista, pero a la vez "democrático". Según él, es posible ser demócrata en lo político, y elitista en lo cultural. Yo me pregunto cómo haría Ortega para compartamentalizar sus valores.
+
+\dinkus
+
+Ahora toca cuestionarme: ¿la expresión artística debe estar reservada a una élite, sea esta intelectual, sensible o de otra índole? O por el contrario, ¿debe estar abierta a cualquiera, con prevalencia democrática para el artista popular?
+
+La entraña de esta cuestión llega hasta la noción misma de "Arte". ¿Es el Arte —así, con mayúscula— la expresión de una ECO o la de una persona?
+
+El Arte solo es tal si corresponde a la expresión de una persona, incluso más que un individuo. Una ECO no siente, y por lo tanto es incapaz de generar Arte. El "Arte" de una IA es, precisamente, el ensayo repulsivo de una ECO tratando de imitar a una persona. Por eso se "siente" tan anómalo y repulsivo.
+
+\dinkus
+
+Volviendo a Ortega: para MVLL, su elitismo tiene que ver con su cosmopolitismo, la creencia de que la auténtica cultura no respeta fronteras. Se trataría, en consecuencia, de un filósofo antinacionalista.
+
+Plantea además que la Historia es la realidad del hombre. Ello implica que el ser humano se construye siempre, en forma perpetua, incluso si su realización está totalmente inscrita dentro de aquello que para nosotros constituye el Pasado. La razón es que la Historia es inasible; lo que es accesible al humano es la historiografía, y esta implica, necesariamente, preselección y filtro, guiados por un sesgo previo. La Historia, tal cual, es multívoca, mientras que el Pasado es una cosa monstruosa, invisible, incomprensible e irrepetible. Hay que cribarlo, limpiarlo y pulirlo; es decir, darle forma. Y cada quien le dará la forma de sus ideas y concepciones, tanto las previas como las nacidas en interacción con ese fenómeno histórico complejo.
+
+Dentro de su esquema, *"hacer y escribir Historia es interpretar"*, y *"la Historia no está escrita, es solo humana"* (es decir, no está prestablecida según algún tipo de lógica previa; en esto el español se ubica al lado de lo que eventualmente afirmaría Popper y en contra de Hegel).
+
+\dinkus
+
+Sí, la Historia se realiza en exclusiva a partir de un filtro humano contingencial, pero lo *humano* no proviene de un individuo, sino de las organizaciones humanas, es decir, de las ECOs. Entidades colectivas, hasta ahora humanas. O mejor todavía: relativa o parcialmente humanas.
+
+La IA, a fuer de sistematización, omnicomprensión y eficiencia, está deshumanizando al principal agente social: las ECOs. Cuando esta deshumanización llegue a su cima, los *individuos* quedarán socialmente extintos y solo quedarán *personas*, aquí y allá, desperdigadas, tratando de rescatar un significado propio[^indiv].
+
+[^indiv]: En nuestro planteamiento de las ECOs, llamaremos *personas* a los seres humanos en contexto grupal, mientras que llamaremos *individuos* a los seres humanos en contexto organizacional. 
+
+\dinkus
+
+La propuesta de Ortega, según la cual *"todo es posible en la Historia"* es verdadera, si se asume la Historia como Pasado, es decir, mera sucesión de hechos. Pero esta sucesión de hechos es intangible para la imaginación y afectividad humanas: es un caos inasible, una sucesión y simultaneidad incontables, incognoscible para nuestras mentes. 
+
+Pero esta misma propuesta puede ser falsa, si asumimos la Historia como relato coherente con sentido humano. Para el ser humano solo existe lo que tiene sesgo emocional y cognitivo; el resto es imperceptible e inactuante. En este sentido, la Historia está restringida a lo que puede ser humanamente digerible, lo legible para nuestra alma. De todo ese amasijo de eventos inaprensibles, el ser humano solo es capaz de escoger, y solo puede escoger lo que para él tenga sentido.
+
+\dinkus
+
+Ortega no incluye en sus escritos grandes observaciones en relación al liberalismo en su sentido económico. Puede ser que, siguiendo a MVLL, este desdén orteguiano hacia la Economía sea generacional, pero en su caso tiene una explicación adicional plausible: probablemente considera esa dimensión demasiado pedestre.
+
+Una pequeña joya profética del libro: JOG considera que los EEUU, con todo su auge económico, están condenados a no desarrollar una ciencia crítica como la de Europa. En el tiempo en que Vargas Llosa escribe (antes del 2018), esto parece patentemente falso. Pero en el tiempo en que yo escribo esto (2026), parece claramente cierto y profético.
+
+La concepción que Ortega tiene de la cultura es elitista y aristocrática. Por momentos escuchamos en su voz los ecos de un adherente del *ancien régime*, lamentando la toma del poder por los plebeyos.
+
+El declive de lo científico ante lo tecnológico es, sin duda, un hecho favorecido por la masificación y la capacidad adquisitiva incrementada del mercado norteamericano. Y confundir una cosa por la otra es un síntoma de masificación, como lo son la ramplonería en el gusto estético y la adopción del semejante como referente.
+
+Ortega ve en el nacionalismo el mero esfuerzo multitudinario en acción; yo veo a las ECO nacionales ejerciendo su poder. A ambos —él y yo— nos disgusta, aunque por razones distintas.
+
+Si una Nación es un plebiscito ratificado a diario por la masiva sujeción a las instituciones y costumbres, ¿qué es el Perú? Un plebiscito en el que se desaprueba cada minuto la propuesta histórica de un ordenamiento común.
+
+El *Epílogo para Ingleses*, con el que se inicia el libro, fue escrito siete años después, en plena Guerra Civil Española. Ortega se manifiesta en contra de los comunistas españoles que conminan a escritores a firmar manifiestos, y opositor también de los reportes extranjeros sobre los asuntos internos de un país, lo cual puede tener efectos terribles en la marcha de este. Para Vargas Llosa esto es inadmisible, pues equivaldría a censurar la libertad de expresión internacional que, según él, tiende a ser más certera que la de los mismos nacionales de un país, al desenvolverse desde una sana distancia y libre de la censura.
+
+Como suele ser el caso, Ortega vivió el conflicto desde una óptica muy diferente a la de los observadores externos, siendo testigo de males que la idealización foránea acomodaba o pasaba por alto. Esto lo llevó a no tomar partido por ninguno de los bandos.
+
+Aun así, según testimonios directos, parece que llegó a preferir —o a rechazar menos, como quiera entenderse— al franquismo, lo cual lo haría blanco de crítica incesante incluso luego de morir.
+
+De las desgracias que puede acarrear un país a sus nacionales, no es la menor forzarlos, con sus crisis extremas, a asumir posiciones extraordinarias y alejadas de la identidad y los valores que estos anhelan practicar.
+
+\dinkus
+
+Después del fin de la Segunda Guerra, Ortega regresa a su país pensando que podría contribuir a su modernización, pero termina teniendo que defenderse de los intentos, por parte de los falangistas, de utilizarlo en favor del régimen. Acaba viviendo una especie de exilio interior hasta su muerte.
+
+## El Estilo de Ortega y Gasset
+
+"La cortesía del filósofo" es escribir de manera legible y accesible a cualquiera, y de forma amena. Ortega era ciertamente ampuloso y literariamente coqueto, hasta el extremo de la afectación. Más de uno le llegaría a criticar por el engolamiento de su estilo, llamándolo literato y periodista antes que filósofo.
+
+Era un elitista de vocación democrática, y quería llevar sus mensajes a la generalidad. Quería hacerse entender de todo el mundo, sin llegar por ello al extremo de reducirse a lo divulgativo.
+
+También adivinó la creciente distancia que existiría entre el Arte Moderno y el gran público, uno más de sus vaticinios cumplidos.
+
+## Ortega y La Guerra Civil Española
+
+JOG originalmente había apoyado a los republicanos, pero la violencia que acompañaba al enfrentamiento de estos con los falangistas lo horrorizaría y generaría su distanciamiento.
+
+Muchos izquierdistas lo acusaron, posteriormente, de haber sido un franquista secreto. Falso, según MVLL.
+
+## Legado Político de JOG
+
+Vargas Llosa deplora la relativa incultura económica de Ortega, pero reivindica que el liberalismo no se reduce a una sencilla receta de gestión, siendo por el contrario un orbe de ideas que es preciso mediar y defender para que tales medidas concretas puedan, de verdad, instaurarse con éxito en cualquier sociedad.
+
+\newpage
+
+# Friedrich August von Hayek (1899-1992)
+
+Considerado por MVLL a la misma altura que Popper y Berlin, fue uno de los más influyentes intelectuales liberales.
+
+Una de las tensiones internas del liberalismo es que la libertad del mercado y de acción de los agentes económicos genera forzosamente desbalances: quienes ofrecen en el mercado habilidades menos preciadas socialmente acaban empobrecidos. Aún peor: cualquier tipo de asistencialismo que tratara de compensar esto es considerado —al menos por los liberales más duros— como una intromisión inaceptable en la dinámica del mercado.
+
+En efecto, equidad y libertad parecen ser valores contradictorios. Quizás porque los estamos tratando de reconciliar en el nivel de agregación equivocado.
+
+La auténtica libertad individual, para empezar, es un imposible. Creo que muchos confunden *margen de opción* con libertad auténtica. Esta no puede existir mientras el sujeto esté inscrito dentro de un mundo organizacional. Y ya puestos en ese orden de ideas, corresponde ahora determinar cómo escapamos de la *trampa anarquista*, tal como parece haberla descrito Nozick.
+
+Mencioné la frase *margen de opción*. Quise decir que si el mundo organizacional te da alternativas preestablecidas, fuera de las cuales no se puede optar, ya no estamos hablando de libertad auténtica.
+
+\dinkus
+
+Estudioso múltiple, Hayek fue en especial fascinado por la Psicología y la Economía. Sin embargo, oficialmente se doctoró en Leyes. Fue discípulo del economista Ludwig von Mises.
+
+Eventualmente pasaría a enseñar en Londres, donde conocería a Karl Popper, con quien entabló gran amistad, fundamentada en la coincidencia del pensamiento liberal. Vivió 92 años, hasta 1992, muriendo finalmente en Alemania, luego de haber enseñado y habitado en múltiples ciudades del mundo.
+
+Su obra más célebre es quizás *The Road To Serfdom* o *Camino de Servidumbre* (1944), en las que se incluye dos ideas, novedosas entonces:
+
+- Fascismo y comunismo son dos caras de la misma moneda;
+- Hay una relación entre control estatal de la Economía y el deterioro social de la democracia.
+
+Fue adversario intelectual de John Maynard Keynes. Hayek era poco popular y aún menos favorecido en esa época. Llega a la Economía pasando por la Filosofía.
+
+*The Road to Serfdom* fue prohibida en Alemania, cuyo gobierno no deseaba enemistarse con la entonces existente Unión Soviética.
+
+Hayek obtuvo el Nobel de Economía en 1974. Sin embargo, no puede enmarcársele con justicia bajo el escueto título de "economista". Sus aportes son mucho más amplios, según MVLL.
+
+De Hayek parece provenir el fanatismo que incluso en muchos liberales peruanos se percibe. Por ejemplo, consideraba que una dictadura que practicara una economía liberal era preferible a una democracia que no lo hiciera[^cc]. Llegó a declarar que en el Chile de Allende había menor libertad que en el régimen de Pinochet; una afirmación sin duda indigesta para sus fanáticos menos extremos.
+
+[^cc]: Me parece estar escuchando las tertulias y sobremesas en el Country Club. Parece claro que Hayek pensaría muy bien de la China actual.
+
+En la década de los cuarenta, en Vevey, se empezaron a reunir eminentes filósofos y economistas para debatir; esta conjunción de estrellas intelectuales pasó a llamarse la *Sociedad Mont-Pèlerin*, orientada a la divulgación y fortalecimiento del liberalismo. En su contexto se eligió a Hayek como el primero de sus presidentes, consagrando su prestigio intelectual.
+
+Su más grande obra fue *The Constitution of Liberty* (1960), complementada por *Law, Legislation and Liberty*, en tres tomos, escrita en 1973. Se analiza y sustenta en ellas las excelencias del mercado, y no solo en la dimensión económica.
+
+Para Hayek, la pretensión de imponer pautas sobre la marcha de la sociedad nacería de la aplicación del método científico al ámbito sociológico y político, llevada a cabo por el socialismo utópico y científico (pre—Marx y Marx mismo), tratando de liberar a los desfavorecidos de la opresión de los más ricos. La planificación es el mayor antagonista de la libertad, y Hayek hizo lo posible para demostrar que en realidad tal pretensión se originaba en Saint-Simon y en Comte, por más que Marx y Engels lo negaran.
+
+En lo que sin duda acierta el ferviente Hayek es en señalar que sin las instituciones y marco legal y cultural adecuados, el mercado se pervierte y degenera en mercantilismo y opresión. (Algo muy evidente, por ejemplo, en las democracias latinoamericanas.)
+
+Lo cual no es sino otra forma de admitir que, como Smith y otros, Hayek es plenamente consciente de que todo el modelo descansa en el vicio y el egoísmo, y que la única forma de mitigar eso y evitar que se retorne a la barbarie de la opresión total es regular, con su famoso Estado árbitro. Los liberales incluso le pusieron su etiqueta —ordenados ellos—: el *mercantilismo*. Palabra descendida del nombre mismo de su ídolo, el mercado. Confesión parcial y sublimada.
+
+Si a Rusia y las demás naciones antiguamente socialistas les va mal —clama don Mario— es porque cayeron en el mercantilismo, lo que practican no equivale cabalmente a lo que dictamina Hayek, no se trata de abrirlo todo a la competencia salvaje e irrestricta, extranjera o interna. ¿No será que el liberalismo solo acaba bien cuando se inicia desde cierto punto de la Historia, y que, pasado este, todo emprendimiento y compromiso societal con él está condenado al fracaso, primero moral, luego procedimental, económico y político?
+
+¿No será que no es tan sencillo?
+
+Está claro que Vargas Llosa tiene una visión apasionada e ideal —es decir, irreal— del liberalismo, como la filosofía que, cual super héroe de historieta, llega en el momento culminante para salvar al individuo de las garras del mercantilismo y del Estado por igual.
+
+El único problema es que, sin ECOs —sin Estado y sin empresas—, el individuo sencillamente se desvanecería como una estatua de hielo bajo el sol.
+
+El Liberalismo entraña individualismo, según Hayek, como el cristianismo es solo la capa institucional de la caridad y el valor vida.
+
+*"El individuo goza de soberanía"*, nos dice FAH. ¿Cuándo y cómo ejerce el individuo tal soberanía? Puede que el ser humano no se reduzca a su relación con las organizaciones, pero el individuo, la dimensión individual, no existe, por definición, fuera de ella.
+
+En el film de 1961 *West Side Story*, escenificada en la canción *America* tenemos, en una frase, la refutación del liberalismo entero: los inmigrantes puertorriqueños se reúnen para —por supuesto— bailar, agrupándose por género. 
+
+Las chicas asumen la defensa del *establishment* norteamericano, y claman que Norteamérica les permite ser:
+
+*Free to be anything you choose*[^trad1]
+
+[^trad1]: *Libre para hacer lo que elijas.*
+
+Los varones, más escépticos, replican:
+
+*Free to wait tables and shine shoes!*[^trad2]
+
+[^trad2]: *¡Libre para ser mesero o limpiabotas!*
+
+Bien mirada, esa es, en efecto, la soberanía del individuo por entero. No está compuesta de nada más, nada distinto. Y poco importa que Trump o Musk reemplacen la segunda frase con *Free to manage corporations*[^trad3]. Lo que debe comprenderse es que las opciones están definidas y dictaminadas por las ECOs y su lógica corporativa.
+
+[^trad3]: *Libre para gerenciar corporaciones*.
+
+Ese es el punto de origen del liberalismo. Toda filosofía tiene ese punto, del que no se puede avanzar sin dar el "salto de fe". En el enfoque hayekiano, el salto de fe consiste en creer que, en serio, es el individuo el que decide, y el centro de referencia de la libertad.
+
+No puedo dar ese salto. Lo siento mucho. Esa prédica de "libertad" contraviene toda la experiencia de vida que he logrado acumular en seis décadas de existencia. En ningún lado de mi vida veo la verdadera libertad como individuo, y tampoco la veo en nadie más. Ni siquiera un millonario tiene libertad real: apenas decide entre alternativas preestablecidas por una serie de organizaciones y sistemas en competencia y/o en inclusión subsumida.
+
+El liberalismo me huele a engañifa. A espejismo basado en anécdotas. 
+
+Vargas Llosa mismo es un ejemplo. Siendo adolescente irrumpe en su vida un padre autoritario, anteriormente abandónico[^aband], que trastoca su existencia enviándolo a un colegio militar para disciplinarlo. En consecuencia, apenas le es posible se hace socialista, porque era una forma de rebelión; luego se percata de que el socialismo desemboca también en autoritarismo. Por ello abandona esa ideología y se entrega, esta vez definitivamente, a los brazos del liberalismo: por fin un sistema de nociones que, según cree, pone al individuo —él, MVLL, incluido— al centro de todo el sistema social, ¡y le da la libertad completa! ¿Qué importa que el mínimo escrutinio revele que esa libertad es ilusoria? Basta la ficción, pues lo importante es la vivencia fenomenológica de la independencia. Como perfecta añadidura, el liberalismo redime a Vargas Llosa de cualquier culpa por ser un millonario exitoso alejado de su país inestable y mísero: las diferencias individuales son válidas, está bien que el mercado recompense el talento, goza de tu éxito, Mario, te lo mereces, cero cuestionamientos.
+
+[^aband]: *Abandónico* es una palabreja psicoanalítica que en el uso original se proponía describir la indefensión y angustia de quien se siente literal o emocionalmente a merced de fuerzas que no puede controlar (típicamente, siendo un niño). Hace poco se ha vulgarizado su uso por las redes para significar no a quien sufre el abandono, sino a quien lo inflige. Es en ese último sentido que empleo aquí el término.
+
+Nuestro escritor laureado no nos llega a decir que somos pobres porque queremos. Es demasiado civil y sofisticado para eso.
+
+Pero casi.
+
+\dinkus
+
+El narrador y ensayista peruanos afirma:
+
+*[El individuo puede] imprimir una huella en el entorno en el que vive.*
+
+Este es otro de los grandes lemas o consignas del credo liberal: *la iniciativa individual —es decir, la privada— da vida y energía a la economía de mercado*.
+
+Juntemos esta verdad —porque lo es, y muy recia— con nuestro hallazgo inmediatamente anterior: *las organizaciones son las únicas que realmente viven del mercado libre, las que en la realidad definen las opciones preestablecidas que le otorgan al individuo la ilusión de la libertad*, y de pronto se entiende que es precisamente esa la función del individuo en el contexto organizacional: proveer la iniciativa y la inventiva que la ECO, debido a su índole ontológica, es incapaz de generar. Somos las entidades que producen las reacciones químicas que animan el metabolismo organizacional[^iao].
+
+[^iao]: Por eso, justamente, la IA depende por completo del "entrenamiento" proveniente de los billones y billones de textos pergeñados por millones y millones de individuos. 
+
+Esa es toda nuestra libertad.
+
+\dinkus
+
+Nos dice don Mario: *La ambición del individuo (...) es lo que hace posible el progreso.* Pero la frase está incompleta; debería terminar así: *...de las organizaciones*.
+
+Hayek se opone en esto a Keynes, quien recomendaba —aun considerándose a sí mismo liberal— cierto grado de planificación económica por parte del Estado.
+
+Se supone que el individuo tiene —o debería tener— un margen de libertad y, en esa medida, comandar su propio destino. De nuevo, más abundamiento en el credo liberal; que como queda repetido, no provoca en mí ninguna convicción.
+
+En *Derecho, Legislación y Libertad*, Hayek distingue entre "Ley" y "Legislación"; "Cosmos" (orden legal espontáneo) y "Taxis" (orden definido por el Estado)[^cos].
+
+[^cos]: A menudo he notado, no solo entre los liberales clásicos, sino también entre los mediáticos, como Peterson y Shapiro, esta apelación al "orden natural" como el gran y definitivo validador de la idea de jerarquía proyectada al mundo social.
+
+La *Ley* hayekiana sería el derecho consuetudinario, poco más o menos, mientras que *Legislación* sería la legalidad planteada desde el Parlamento, el Poder Judicial y otras instancias, formulada a partir de principios racionales y sistemáticos. Para FAH, la *Legislación* distorsiona a la *Ley*, y es comparable a la planificación económica en sus efectos deletéreos.
+
+\{LEY $\Longleftrightarrow$ COSMOS\} $\neq$ \{LEGISLACIÓN $\Longleftrightarrow$ TAXIS\}
+
+Para Hayek, el término "constructivismo" generaliza la tendencia que pretende planificar y que encarna el mayor enemigo de la adorada libertad. Esto se elabora en el volumen *Fatal Conceit*.
+
+Parejamente odiado es el Estado Benefactor propuesto por los socialdemócratas, así como el colectivismo de los marxistas ortodoxos à la soviética.
+
+Como curiosidad, mientras buscaba el libro de Hayek me topé con el post de un blog en donde se señala que es, precisamente, el enfoque hayekiano el que supuestamente habría sido aplicado en el Perú y el que explicaría la buena performance económica. Sin embargo, casi cualquiera que viva y piense en el Perú puede entender que es más bien el clientelismo y el mercantilismo, en alianza mafiosa con el poder político-estatal, quienes realmente han gobernado y gobiernan desde casi siempre en este país.
+
+Lo cual me lleva a lo siguiente: un Estado puede gozar de relativa salud económica y ser políticamente ilegítimo, al no promover la calidad de vida ni la felicidad de sus ciudadanos. La legitimidad política es la única realmente válida y propia de un Estado, la única por la que este debería ser medido y en la que, con propiedad, deberían basarse todas las demás facultades de un gobierno. Priorizar (o peor aún, considerar aisladamente) el buen manejo económico equivale a abrir la puerta a una suerte de mercantilismo funcional, que prostituye la noción liberal. 
+
+Tal legitimidad nace del reconocimiento democrático de sus ciudadanos en cuanto entidades individuales, con derecho y opción real de alcanzar su propio bienestar emocional y social; fines incluso más importantes y básicos que la mera marcha eficiente de la dimensión económica.
+
+Para ser justos, hay que puntualizar que Hayek nunca dejó de preocuparse por esos dos vicios de las sociedades libres: el mercantilismo y la opresión de las mayorías sobre las minorías. La existencia de estos problemas y la amenaza de su generalización hizo que temiera por la buena marcha de la democracia como sistema político, incluso en los momentos en que caía el Muro de Berlín. Su propuesta para corregir estas tendencias es la "demarquía": un sistema análogo al Parlamento regular, pero elegido por 15 años, compuesto por personas mayores a 45 años, y encargado de salvaguardar los derechos fundamentales.
+
+Para Hayek, la racionalidad humana era motivo de desconfianza y prefería, antes que cualquier sistema concebido por otros, la sencilla y poderosa emergencia de un orden espontáneo surgido de una libertad teórica, ejercida en simultáneo por muchedumbres de individuos.
+
+Claramente tal concepción del orden constituye, al menos para mí, precisa y laboriosamente lo opuesto tanto de lo que sucede en la realidad como de lo que sería un orden estable y sostenible.
+
+"La Fatal Arrogancia", es el último ensayo que publicó Hayek, a los 80 años. Para MVLL, es "uno de los libros más importantes del siglo XX". En él, la lógica propuesta es que el ser humano, a diferencia de otros seres que viven prisioneros de sus instintos —eternamente "iguales a sí mismos"—, es capaz de transformarse a sí y al ambiente en que se desenvuelve, teniendo a la civilización actual como pináculo positivo de tal tendencia.
+
+\dinkus
+
+Para FAH, "Civilización" implica libertad, legalidad, individualismo, propiedad privada, libre mercado, DDHH, convivencia y paz.
+
+Para mí, este concepto tan elevado del ser humano me parece ingenuo y profundamente idealista. No solo porque las gentes no tienen en absoluto las tendencias que Hayek les asigna, sino porque el medio ambiente social (que en el humano reemplaza y es varios órdenes de magnitud más poderoso que el medio ambiente natural) es por entero, no solo diferente, sino opuesto a lo que él describe y asume. No, el ser humano no es libre; no puede serlo, al menos no en el medio organizacional en el que la casi totalidad de la gente vive hoy. Somos todos individuos sujetos a reglas organizacionales inescapables; el único instante en el que las organizaciones nos individualizan y asignan valor verdaderamente intrínseco es cuando probamos poseer cualidades valiosas para la prosperidad y preservación de la organización del caso. Una vez inscritos dentro del orden organizacional, ya nunca podremos salir de él, puesto que tales membresías pasan a ser parte de nuestra definición de nosotros mismos, y llegan tan profundo en nuestra psique que amputarlas equivaldría a distorsionar nuestra estructura interna hasta el punto de volvernos irreconocibles para nosotros mismos, desembocando en una alienación intolerable.
+
+Estoy dispuesto, sin embargo, a admitir que sí, en ciertos escenarios el espejismo y la engañifa pueden ser casi perfectos: si soy un escritor que vende muchos libros y produce mucho dinero para una o más ECOs; si soy un directivo de corporación exitoso; si soy un artista genial, el sistema de ECOs me hará sentir que soy libre y que puedo impactar en mi sociedad, pero es un timo. Solo seré libre para seguir siendo exitoso y útil para mi entorno organizacional; siempre habrá delante de mí opciones prefijadas, no libertad total y auténtica.
+
+Es fundamental aclarar que no creo que este orden societal se deba necesariamente a la malevolencia de las ECOs; sencillamente es el resultado forzoso de la lógica relacional y el sistema operativo de las instituciones.
+
+El punto es que estamos tan atados a una tendencia conductual predeterminada como cualquier otro animal o criatura viva. La única diferencia es que se trata de una tendencia abierta y no cerrada, en el sentido de apuntar a una estrategia antes que a un conjunto de acciones específicas. Esto, por supuesto, no es gratuito; está asociado al enorme costo del cerebro, que consume enormes cantidades de energía y deforma literalmente el cuerpo humano para su mejor funcionamiento.
+
+Con todo, es preciso no perder de vista que estamos determinados, no solo en lo biológico, sino también en lo cognitivo y lo social. Tendemos espontáneamente a generar entidades corporativas organizacionales a partir de concepciones abstractas, y desarrollar tal nivel de apego a ellas que las "convertimos" en la unidad funcional de la especie.
+
+FAH también cree que la Civilización es una propiedad emergente de la colectividad funcional humana. En general, parece creer que toda estructura social estable es (o debería ser) espontánea y propia de la voluntad libre de los seres humanos, más que fruto de un diseño consciente. Complementariamente, parece creer que la intervención deliberada de una entidad sobre la dinámica social y/o los elementos que intervienen en ella son nocivas, limitantes y atentan contra la libertad del individuo. Esta libertad es el eje fundamental de su filosofía política.
+
+En consecuencia, toda estructura social estable solo podría resultar de la acción concreta de los individuos, los únicos que tendrían la capacidad eficiente para modificar la realidad. En esto, estamos de acuerdo, pero divergimos en un punto concreto: aunque yo también considero que la estructura social estable es una propiedad emergente de los seres humanos, la gran diferencia es que él no ve a las ECOs como tales, no existen como concepto en su teoría, y por ello Hayek es ciego a su rol fundamental como unidad funcional y deliberante de la especie. Esto lo lleva a considerar la "Civilización" como algo intrínsecamente bueno, un logro fruto de la libertad individual, mientras que yo, por el contrario, la veo como un estatus opresivo donde solo las ECOs se desarrollan y prosperan, y donde el individuo solo puede adquirir valor en cuanto es útil a la ECO. No es la libertad lo que genera la Civilización; es la determinación biológica y la revolución cognitiva y social. Y no genera libertad; por el contrario, consolida más y más la opresión organizacional inescapable.
+
+Para FAH, la Civilización es el supremo bien y el norte de la evolución social espontánea en las personas; para mí, por el contrario, es el grado tangible en el que se anquilosa y esclerotiza el medio social, un callejón antropológico sin salida, en el que se sofoca cada vez más la experiencia grupal.
+
+Para el enfoque hayekiano la saludable emergencia institucional (saludable por espontánea) tiene como contraparte al "constructivismo" o planificación social.
+
+Otro de los mitos contradictorios de Hayek: el supuesto gran poder de los intelectuales; estos serían, según su análisis, "constructivistas natos", y por lo tanto "enemigos de la civilización". Supuestamente, los totalitaristas tendrían necesidad de los intelectuales para plantear alternativas al modelo de liberalización mediante libre mercado. Sin embargo, si algo nos enseña no solo la Historia, sino la vida cotidiana, es que los seres humanos nunca han tenido necesidad de grandes armazones conceptuales para justificar la opresión a los demás imponiéndoles una autoridad central. Esas tendencias forman parte, hasta donde se sabe, de la modalidad social humana; es una de las piezas más importantes de su repertorio, y las excusas para ejercerlo nunca han tenido que ser muy elaboradas ni han necesitado de una clase o élite intelectual para existir. De hecho, trazas de tal tipo de ordenamiento pueden encontrarse en casi cada época y lugar. Paradójicamente, es más bien la idea del libre mercado la que ha necesitado una cierta elaboración intelectual por parte de Smith y sus seguidores, y es muy obvio que jamás se habría impuesto oficialmente de no ser por su comprobada eficiencia para generar utilidad para las grandes organizaciones.
+
+Asombra cómo uno de los paladines de la libertad y grande enemigo del totalitarismo acaba criminalizando a los intelectuales, de idéntica forma a cómo lo haría un nazi, un estalinista o un fanático religioso, y por las mismas razones: miedo a las ideas, y sobrestimación de su impacto.
+
+Para un intelectual, sus ideas son su vida, su identidad y su herencia; pero para las organizaciones, son apenas un accidente, a lo más un adorno de su acción, y en el peor de los casos un simple pretexto.
+
+A nivel organizacional —que es el único que realmente importa en la sociedad—, el poder radica en la actividad y los móviles organizacionales. Sin importar cuán monumental, cuán consistente y lógico, un sistema de ideas por definición es siempre más coherente consigo mismo que con el mundo externo que pretende describir o explicar. En esa medida, por fuerza un sistema de ideas representa lo extremo con un grado considerable de ruido cognitivo, lo que le hace perder potencia epistemológica, y lo aleja de la dimensión afectiva, que es el antecedente inmediato y eficiente de la conducta y la motivación.
+
+Para Hayek, la aspiración esencial del intelectual (estudiar, describir, explicar y eventualmente mediar) es simple orgullo, y la antípoda de la "verdadera humildad del intelectual". ¡Suena cada vez más a Stalin! Según él, deberíamos sencillamente aceptar la poderosa emergencia espontánea de aquellas estructuras que van más allá de lo que los intelectuales pueden crear o idear intencionadamente.
+
+Wow. Creo que una cita así, descontextualizada, sería fácilmente confundible con cualquier frase hecha de un dictador estándar. ¡Y Vargas Llosa lo admira y sostiene! En el fondo, don Mario nunca dejó de apoyar autoritarismos; solo cambió de signo ideológico dentro del mismo espectro.
+
+Al intelectual —la subespecie más débil e inoperante de ser humano— apenas si le queda reservada la comprensión, o el intento de llegar a ella. Doblegarse a cualquier fenómeno, persona, organización o proceso externos nos capa y nos inutiliza para tal faena. Un intelectual sin valor y sin independencia es como un gladiador con un cuchillo de mantequilla y un escudo de cartón.
+
+Como es previsible, FAH se enfoca en el socialismo estatal *par excellence* de su época —el soviético—, ya que el nazifascismo estaba aún más que muerto, desacreditado. Predica contra esos monstruos que no respetan contratos, que quieren planificar todo desde el Estado, que ponen límites y restricciones al libre mercado; es decir, maldice al "dirigismo estatal".
+
+Con acierto, MVLL señala lo obvio: más que los libros marxistas de la época de Hayek, hoy son las pantallas consumistas de las redes quienes socavan la educación y la capacidad crítica de la gente. Asimismo, señala que hoy la amenaza de la corrupción y las influencias mal habidas y peor intencionadas son una sombra equiparable hoy en día al antiguo comunismo para la sociedad libre. Al mismo tiempo, falla en ver lo quie es tan claro para quien no sea un neoliberal: esas redes que nos persiguen con su reclamo comercial moldeado instante a instante con lo que sucede en nuestra vida no son sino la expresión super eficiente del capitalismo y el libre mercado! Por último, deplora el afán desmedido de lucrar, que hace de los competidores jugadores desleales que denigran la sana disputa por el consumidor, como si el mismísimo Adam Smith no hubiera dejado establecido, desde el principio, que es la codicia y el egoísmo los motores raigales del libre mercado.
+
+## Camino de Servidumbre (1944)
+
+Comunismo y nazismo tienen en común una tendencia a favorecer el colectivismo, por encima del respeto a la iniciativa, propiedad y derecho de los individuos. En contraste, el liberalismo tiene la tendencia a disfrazar el interés corporativo de las organizaciones como interés individual, y a vender como libertad un conjunto predeterminado de opciones (predetermiando por las corporaciones). Tolera la libertad de pensamiento, siempre y cuando no se atente contra el sistema mismo, y la libertad económica, siempre y cuando no se atente contra los intereses de las grandes organizaciones (en cuyo caso se descalifica la propuesta como "comunista" o "empobrecedora", justamente *porque empobrecería a las grandes ECOs*).
+
+Solo el individualismo, la propiedad privada, y el capitalismo de mercado garantizan la libertad política, según FAH. De nuevo, *libertad* debe entenderse aquí como las opciones políticas no desviadas del régimen —o sea, poco más o menos, matices del liberalismo— y que no vayan en contra de la vida económica privada. Lo contrario lleva al eventual totalitarismo y a la falta de libertad, en detrimento de aquellos que nunca llegan a tener libertad auténtica y total de todos modos: los individuos.
+
+El liberalismo termina generando una pirámide o jerarquía de prioridades para el Estado; en esa jerarquía, el respeto a los intereses de las ECOs (disfrazados de intereses individuales) está por encima de cualquier otro aspecto, y a cambio se otorgan grados de libertad creciente a todo aquello que no tiene o no amenaza tener gran impacto económico. Cuando alguna actividad, como la música rock, los *graffiti* o similares, parece amenazar o eludir la 
+índole económica del capitalismo, este sencillamente los comercializa y así las integra a su dinámica mercantil interna.
+
+\dinkus
+
+Afirma MVLL: "la propiedad privada dio al hombre la libertad e igualdad que Marx esperaba hacer infinitas aboliendo esta institución".
+
+Me pregunto si cualquiera que no sea un millonario aislado de las contingencias por su fortuna podría, con real honestidad, declarar que la propiedad privada hace algo que no sea, precisamente, *establecer desigualdades* y sujeciones de unas personas en relación a otras.
+
+Tampoco puede afirmarse que la carencia de propiedad genera algún bienestar. Más bien lo opuesto, como lo prueban los años del experimento soviético.
+
+Ante esta evidencia, uno que fuera cristiano (o seguidor de cualquiera de las muchas opciones religiosas) podría aventurarse a decir que la libertad e igualdad proviene del interior del corazón humano, y que el auténtico cambio es el que se origina desde dentro de nosotros mismos. Pero cualquiera que no esté cegado por su propia fe fácilmente podría replicar que, justamente, los sistemas de creencia religiosa han sido de los más potentes pretextos para esclavizar, subordinar y sojuzgar a los demás.
+
+La conclusión forzosa es, que el ansia de subordinar a los otros, de imponerles, en mayor o menor grado, una jerarquía, es parte del modo de relacionarse del H. Sapiens, y no se irá a ninguna parte ni —si fuera posible— podría uno escapar a cualquier época pasada o presente, sin tener que lidiar con esa tendencia irrenunciable y viciosa.
+
+Don Mario señala lo que es más o menos obvio: el Estado de Derecho, que Hayek no solo admite sino que promueve, es sin duda un tipo de planificación y, por definición, de control sobre la vida de los individuos. Justamente por ello, los liberales buscan un Estado mínimo, pues consideran que toda regulación coacta la libertad, que es su bien cardinal.
+
+Sin duda, Hayek plantea su modelo prácticamente *ex-nihilo*; es decir, asumiendo que es posible establecer primeros principios en un vacío normativo pleno de posibilidades. Tal vez por ello, no contempla la muy tenaz y muy ubicua presencia de la corrupción social.
+
+Un acierto del escritor peruano es señalar que la corrupción es un fenómeno transversal al eje Estado democrático-Estado autoritario, y ciego a las diferencias de desarrollo. Y si bien su diagnóstico es más bien un cliché ("los valores morales se han desplomado"), no por ello es menos cierto: los mecanismos de regulación social en una sociedad libertaria dependerán en gran medida de valores compartidos, como contraparte de leyes duras por parte del Estado. Lo que nos lleva a la paradójica situación de considerar como deseable la homogenización cultural, ya que sin ella el nivel y tipo de valores compartidos no asegurarían un control social eficaz y constructivo.
+
+Lo irónico de todo esto es que, según esta lógica, una sociedad liberal auténtica y pura funcionaría mucho mejor entre individuos axiológica, cultural y (quizás) incluso biológicamente emparentados. Es decir, *la diversidad marcharía en dirección contraria al liberalismo.* Sin embargo, los integrantes de esa sociedad hipotética tendrían una especie de ilusión social compartida: al empezar la vida imbuidos de un marco cultural y valórico homogéneo, tenderían a pensar que, en efecto, se hallan obrando conforme a su voluntad y que, por ende, son libres y que el modelo social libertario funciona. Siendo que en realidad solo están actuando según el dictamen preestablecido de creencias inculcadas mucho antes de que su aparataje lógico fuera entendido por la interacción social y el posible debate público.
+
+*"Sin sólidas convicciones morales, el liberalismo no funciona"*, nos ratifica MVLL. Esas convicciones morales, por supuesto, son coacciones, pero al venir del interior, en vez del exterior, y ser anteriores a la formación del *self* crítico de cada individuo, en vez de colisionar con un aparataje crítico ya instalado en la juventud y adultez, parecen y se sienten parte del yo mismo. Por esta vía la socialización esquiva la capacidad de análisis del individuo y genera la ficción de la libertad y del criterio moral propio. (Por supuesto, este es un mecanismo general, y no se restringe al liberalismo.)
+
+Hayek parece no diferenciar entre el socialismo a la europea (tal como fue practicado por, entre otros, los laboristas británicos) y el colectivismo soviético comunista. La razón de esta falta de discriminación entre uno y otro es que FAH no creía que en el fondo ambas formas de ejercicio político fueran auténticamente distinguibles. Para él, a la larga, y de forma independiente de su voluntad en uno u otro sentido, todo colectivismo y/o intromisión en la vida económica libre está condenada a liquidar la libertad y el pluralismo político.
+
+(Curiosamente, me pregunto cuánto durarían los partidos políticos no liberales en una sociedad gobernada por un libertario, habida cuenta de que este los consideraría directamente enemigos de la Civilización y de la única forma saludable de sociedad. Posible es que la famosa paradoja de la tolerancia —¿el tolerante debe extender la tolerancia incluso a quienes buscan su aniquilación? O, en paradójica reacción, ¿suprimirlos, dejando así de ser tolerante?— se sienta de forma especialmente aguda en tal escenario.)
+
+Hayek admiraba mucho a von Mises, aunque nunca fue literalmente su alumno. Milton Friedman le suscitaba algunas críticas —era su menor—, las cuales le fueron retribuidas por este. Sin embargo, está muy claro que eran todos economistas liberales separados tan solo por matices.
+
+En su concepción, una vez que el "prurito" planificador es ejercitado desde el Estado, irremisiblemente se despliega, incluso si los gestores estatales no pretenden hacerlo, y eventualmente se llega a alguna forma de autoritarismo, como el de los nazis o los estalinistas.
+
+Parece bastante obvio que los intelectuales, como cualquier otro ser humano, tienden a ser bastante influenciados por sus experiencias personales. La traumatizante experiencia de la guerra no parece desaparecer casi nunca de los escritos de Hayek, al menos no de aquellos en los que se asume su propia opinión.
+
+Así como no analizó en detalle el impacto de la corrupción, menos aún lo hizo con el fenómeno del terrorismo. Esta observación es, si se quiere, una irrupción de la coyuntura en el libro, pues al momentoi de su redacción (¿2006-2008?) múltiples atentados desgarraron importantes ciudades europeas, como París, Madrid y Barcelona, así como Nueva York; el escritor peruano no deja de mencionar al "islamismo fanático" como el origen de este mal en especial. La pasión de MVLL por el liberalismo se desata cuando, en vez de sencillamente deplorar la calamidad humana acarreada por los terroristas, se esmera en indicar que puede, a fin de cuentas, ser usado como pretexto o justificación para que el Estado intente interferir en la esfera privada, llegando incluso a lo económico.
+
+¿En serio, don Mario? ¿Lo más relevante no era la muerte y la afectación humanas, sino la diabólica intromisión estatal en la marcha de los asuntos de los ciudadanos?
+
+En el capítulo "El Final de la Verdad", de *Camino de Servidumbre*, FAH distingue, a propósito de un análisis de la desinformación (aunque al parecer no usa tal término), entre dictaduras y totalitarismos. Mientras que las primeras anhelan ante todo monopolizar y usufructuar del poder (regodeándose en más de un delito en el proceso), los regímenes totalitarios van más allá. Dogmáticos, buscan persuadir a todo costo al gran público de la certeza y validez de su propia ideología. Es, por lo tanto, la suya una imposición triple: material, política, y también ideológica. Esta última sería perpetrada mediante mecanismos perseverantes de propaganda sostenida y ubicua, reforzada desde las fuentes de información oficial y las de la educación en todas sus variantes. Es la insistencia, la convivencia interna y la proscripción directa de cualquier alternativa intelectual, lo que se usa en los totalitarismos para tratar de persuadir al ciudadano promedio de que la ideología del régimen es la respuesta al viejo sueño de la visión omnicomprensiva, que todo individuo secreta e íntimamente espera y asume.
+
+Todo esto, por supuesto, es cierto: la censura de los medios masivos, la prohibición de la discusión universitaria, y cualquier contenido de entretenimiento distorsionado por el dogma, son a menudo la marca del totalitarismo.
+
+Hayek admite que, en el terreno de la opinión y elaboración intelectual, la libertad es igual de necesaria aun cuando los beneficiarios sean en general restringidos en número y especializados en oficio. Su poca cantidad no debe ser justificación para que la libertad de pensamiento sea coactada, bajo el pretexto de la regulación especializada o profesional.
+
+Mientras escribo estas líneas, en 2026, el régimen fujimorista, que bajo diversos embozos ha ejercido predominio desde al menos una década, acaba de recibir el espaldarazo electoral y su líder, KF, se convertirá dentro de poco en la Presidenta del Perú. Como adelanto de su política, la mayoría parlamentaria que encabeza su facción acaba de lanzar precisamente este tipo de ofensiva regulatoria contra su gran enemigo: el pensamiento crítico, bajo la forma de una reformulación del sistema de colegiaturas profesionales.
+
+Esto nos plantea un dilema: si, en realidad, la libertad individual es una ilusión, ¿debería tolerarse su coacción, puesto que, al fin y al cabo, lo único que importa es el ejercicio de poder por parte de las ECOs?
+
+Es evidente que, desde el fondo del *self*, la respuesta emitida será siempre "no". Pero podría tratarse de un simple espejismo de la voluntad y un rezago primitivo del instinto de preservación. Como un enfermo febricitante negándose a aceptar la necesidad de amputársele un miembro, como única salida hacia la supervivencia. ¿Deberemos ser como los filósofos estoicos, sonriendo mientras nos quiebran la pierna, diciendo: "te dije que la ibas a romper"[^epic]?
+
+[^epic]: Orígenes (*Contra Celsum*), un apologeta cristiano, es quien refiere esta anécdota acerca del filósofo estoico Epicteto, con casi total seguridad falsa (el griego sí que tuvo afectada una pierna, pero al parecer a resultas de una enfermedad y no de la tortura de su antiguo amo).
+
+La cuestión ante nosotros es de la máxima importancia. Si la libertad individual no es, como creemos aún hasta este instante, sino una ilusión práctica, y en el fondo, solo un subproducto limitado de la libertad organizacional —la única que realmente vale, opera y se toma en cuenta—, entonces ¿qué importa que nos arrebaten la libertad de pensamiento, entre otras? ¿No será sino una renuncia? ¿No será que es éticamente correcto o defendible, incluso, que lo hagan?
+
+Retruquemos esta cuestión con otra: ¿es válido hacer sufrir a un animal? Mi buen *Hegel* —mi mascota, un *schnauzer* de docilidad vegetal y obediencia ciertamente canina— sufrió tan atrozmente al fin de su vida que hubo de eutanizarlo (acción que, dicho sea de paso, aún está vedada hoy para los humanos, cuyo sufrimiento inútil parece tenerse menos en cuenta que el perruno, quizás con razón). Nos importó su sufrimiento, hasta el punto de sentirlo como intolerable para nosotros mismos.
+
+Ahora bien, incluso los más ardientes animalistas admitirán que el sufrimiento humano es inaceptable. La base para rechazar el maltrato y la privación a un ser vivo es que aquel ser vivo es capaz de *sentir* tales acciones.
+
+Ante el sufrimiento, la respuesta ética es tratar de minimizar su origen y/o su efecto. Sin importar lo sustancial, si la causa del dolor es una representación mental, lo ético es no agravarlo y, de ser posible, suprimirlo. Esto puede lograrse, en ese último caso, o bien mediante la reflexión acerca de la auténtica significancia e implicación de los fenómenos (físicos o ideales) que enfrentamos, o bien mediante la supresión directa del origen, si esa es la vía más eficiente.
+
+Por lo tanto, arrebatar la percepción de libertad de expresión y pensamiento del individuo, por más que esta sea, en el fondo, una ilusión, es censurable e inmoral. Si nuestro querido abuelo, en agonía, nos pide orar por él a su lado, el deber moral es hacerlo, aun si en el fondo fuéramos ateos.
+
+Hayek, por otro lado, apunta a otro aspecto: la libertad de expresión y pensamiento es gozada por una selecta minoría, asumiendo que la mayor parte de la gente no se dedica a la producción intelectual. Claramente, la proporción relativa de afectados no debe ser un criterio justificatorio para ningún tipo de coacción, por lo que este tipo de argumento me parece más bien obvio y hasta algo redundante.
+
+## La Constitución de La Libertad (1960)
+
+Es considerado por MVLL como su libro más importante. Sin embargo, admite que "no es fácil de leer". Probablemente porque el volumen contiene proposiciones analíticas más puras y, por lo tanto, más densas y menos amigables con el lector, que libros anteriores. Además no está escrito en su alemán nativo, sino en inglés. Su objetivo es describir y analizar la trayectoria seguida por el concepto de libertad, desde el principio de la civilización hasta su momento contemporáneo, y cómo la libertad, en cuanto valor, fue permeando prácticamente todas las instituciones y actividades humanas, hasta llegar a ser parte de la definición misma de individuo.
+
+Sin embargo, la segunda parte está dedicada antes que nada a criticar la novedad del Estado de Bienestar (*Welfare State*), y cómo, bajo el pretexto de mejorar la vida de los individuos, el Estado acaba interviniendo en ella. Según FAH, este intervencionismo estatal gana terreno de manera casi imperceptible en naciones como Inglaterra, Alemania o los Estados Unidos. Lo que agrava esta situación es que los individuos mismos consienten a ello en virtud de los fines supuestamente prosociales del Estado. Cita el caso de la cobertura de salud y la seguridad social como ejemplos de problemas que pasan a ser insolubles pese a las buenas intenciones iniciales del Estado y sus agentes.
+
+Para Hayek, la intervención estatal en esas arenas (que según él han sido originalmente privadas) termina generando una crisis del impulso empresarial de los individuos, "sumiendo a la sociedad en un letargo estatista." Llega a defender la desigualdad, la cual es una consecuencia lógica de sus ideas. Esto habla bien de su coherencia pero mal de su sensibilidad.
+
+Hayek no me impresiona como un pensador especialmente sutil. De nuevo insiste en que la igualdad ante la ley de todas las personas no equivale a eliminar las diferencias individuales, que a su vez generan diferencias de participación en la vida económica y, claro está, eventualmente diferencias en privilegios y riqueza (o en los privilegios de la riqueza). ¡Pero eso es más o menos obvio! Sin embargo, de esto se supone surge un acicate para que el individuo se esfuerce en acumular utilidad.
+
+Lo que me parece claramente incomprensible es por qué Hayek, siendo el agudísimo economista que fue, no es capaz de entender que la acumulación de riqueza necesariamente genera una organización, y que esa organización es la que realmente pasa a constituir el auténtico agente de la acumulación y producción de bienes tanto como de utilidad. Cualquier individuo, por más genial y talentoso que sea, será incapaz de manejar un grado mínimo de riqueza sin generar algún tipo de ECO, capaz de hacerse cargo del éxito, manteniéndolo, aumentándolo, y proyectándolo hacia el futuro. Ello está inscrito en la lógica de la acumulación y en el *establishment* legal, de modo que es prácticamente imposible evitarlo.
+
+De hecho, cuando el individuo falla en generar una ECO que canalice y gestione la riqueza, esta invariablemente se deprecia, deslustra, decrece y eventualmente se pierde. La riqueza auténtica es imposible de mantener o acrecentar más allá de cierto límite primario dejando a las ECOs al margen.
+
+\dinkus
+
+En el enfoque hayekiano, los países en desarrollo deben tomar a los desarrollados como ejemplo a seguir. Creo que acerca de esto el buen Friedrich hubiera aprovechado mucho una lectura profunda del primer Haya de la Torre, aunque claramente tampoco es que se trate de una idea demasiado difícil de concebir. Por el contrario, es bastante evidente, y consiste, a saber, en lo siguiente: que la riqueza global no parece ser una actividad de suma positiva, sino más bien de suma cero, y que la dinámica geopolítica hace imposible que un país desarrollado sencillamente "copie la receta" para ser rico de las naciones ricas, como si se tratara de ejecutar un proceso en el vacío y el aislamiento, desde un punto cero. Por el contrario, claramente es lo opuesto: los países poderosos no dejarán que los subdesarrollados surjan de forma libre, sino siempre de acuerdo a sus prioridades y estrategia geopolítica y económica. Han ejercido, y seguirán ejerciendo, todo tipo de influencias e intervencionismos, llevando a cabo, a nivel planetario, precisamente el tipo de acciones que a Hayek le eran tan odiosas cuando se trataba de un Estado en relación con sus ciudadanos.
+
+Eso es tan claro y patente que realmente maravilla que Hayek no haya refutado o procesado de algún modo tal objeción a su modelo. 
+
+Por otro lado, para Hayek cualquier iniciativa igualitarista de parte de un Estado desembocaría sin atenuante posible en la pobreza de la nación que se atreviera a implantarla.
+
+Hayek indica que la libertad económica conlleva necesariamente "cierta desigualdad", sin que ello signifique que deba tolerarse el privilegio o trato diferenciado con base en cualquier factor ajeno al talento y esfuerzo. Lo que impacta es la superficialidad del argumento. Basta reflexionar para entender que, al menos parcialmente, todo talento, esfuerzo o atributo personal es, al menos parcialmente, fruto de herencia, posición socioeconómica previa, simple fortuna y una serie de otros factores evidentemente no relacionados con el esfuerzo o la industriosidad o talento personales.
+
+De algún modo, cuando analiza el sistema educativo FAH parece entender que las diferencias educativas influyen grandemente sobre las capacidades futuras de los ciudadanos, por lo que parece recular en cierto grado en sus recomendaciones generales cuando se trata de la Educación Pública.
+
+Lo mismo afirma en relación a la actividad científica: aun si el Estado financia la investigación, no debería imponer ningún criterio o pauta. Lo cual puede calificarse como principista, pero poco práctico y a las peleas con la manera de funcionar del mundo capitalista. El Estado, como cualquier otra ECO, procura su propia supervivencia y prosperidad, lo cual no puede lograrse mediante inversiones sin retorno o, en el mejor de los casos, con retorno aleatorio.
+
+Obvio, según este enfoque, es que el Estado no puede promover la intolerancia —o al menos la intolerancia contra sí mismo—, por lo que la falta de imposición tendría ese límite.
+
+Especifica la diferencia entre conservadores y liberales: que los primeros incurren en reverencias al pasado, creyendo que en él se encierra la verdad, mientras que los liberales se orientan hacia un futuro siempre abierto de posibilidades. Además, critica el nacionalismo, por negativo y absurdo, mientras tolera el patriotismo, por positivo y constructivo. (El nacionalismo considera lo de la nación propia por encima —y eventualmente, en contra— de lo propio de otros países; mientras que el patriotismo consiste en la sincera apreciación de las tradiciones propias de la raíz nacional, sin que ello implique menosprecio ni primacía sobre lo relativo a otros países.[^pat])
+
+[^pat]: El Principio de Familiaridad, según lo descubierto por la Psicología, nos indica que todo lo que haya sido repetidamente expuesto a nuestra percepción terminan generando una actitud positiva que nos hace preferirlo. En consecuencia, la apreciación por lo que es propio de nuestra propia nación tendría tal origen espontáneo.
+
+Otra distinción es que el conservador considera cerrada la búsqueda de la certidumbre y del acierto, mientras que el liberal toma por transitorias y esencialmente irresueltas todas sus convicciones, lo que le permite dar cabida a cambios y mejoras de cara al futuro.
+
+Por último, los liberales tienden a ser agnósticos, mientras que los conservadores se orientan hacia la religión (*una religión*, en especial) como patrón ético y referente de cosmovisión. Aun entre aquellos liberales creyentes, prima la idea de mantener separadas religión y política, sin duda por el indicativo histórico, que apunta a que ambas esferas, al mezclarse, producen deflagraciones sociales.
+
+Pese a estas distinciones, que se quieren prístinas y claras, lo cierto es que en los EEUU y otros países la separación de conservadores y liberales no solo tiende a la porosidad —quizás como reflejo de la precariedad política y el fanatismo que, en distintas dosis y proporciones, aqueja a casi todas las sociedades del gran continente americano—; sino que la propia etiqueta de "liberal" puede llegar a ser usada para describir a activistas socialistas de izquierda, lo que habría escandalizado a Hayek.
+
+\newpage
+
+# Karl Popper (1902-1994)
+
+Popper se desarrolla en una Viena cosmopolita y extremadamente culta (al menos desde su nacimiento hasta la Segunda Guerra Mundial), que luego es copada por el totalitarismo, de cuya sombra a la ciudad le tomaría décadas salir.
+
+Era de origen judío, aun cuando no culturalmente: cuando nació, los suyos llevaban ya dos generaciones de conversión al protestantismo. Aun así, siempre apoyó y estuvo a favor de pobres y minorías[^iro]. 
+
+[^iro]: Una de las características más irónicas de los liberales es su apoyo a las "clases desfavorecidas", mientras se decantan por una ideología que —no por accidente, sino por diseño— forzosamente genera desfavorecidos y justifica su existencia.
+
+Se volvió un intelectual leyendo en la biblioteca de su familia. Cuando, forzados por la pobreza, los Popper tuvieron que venderla, contrajo una incurable nostalgia por esos volúmenes, perdidos para siempre. Luego de una vida dedicada a escribir, solo empezó a recibir regalías aceptables hacia el final de su existencia, y fue entonces cuando intentó reconstruir la mítica biblioteca de su infancia. Jamás lo consiguió.
+
+Se casa con el amor de su época de estudiante. Fue en general un puritano, que deploraba en Marx no solo sus errores intelectuales, sino el hecho de haber sido infiel a su esposa[^dis]. Y sin embargo, su infancia y primera juventud transcurrieron en una Viena tolerante, que acogió a judíos convertidos —como su propia familia—, y les permitió no solo asentarse, sino asumir posiciones notables y de preeminencia.
+
+[^dis]: La vida doméstica del autor de *El Capital* era famosamente infame: en uno de los barrios más sórdidos de Londres, su mujer y sus hijos vegetaban al interior de una habitación minúscula en la que el aire era casi irrespirable debido a las exhalaciones del fumador Karl, quien además de vivir al borde de la mendicidad y el alcoholismo fue, en efecto, infiel a su esposa y probable padre de un hijo extramarital, que se atribuyó a Engels.
+
+Se opuso inicialmente al sionismo, y eso lo honra, porque era coherente con su rechazo general al nacionalismo. De hecho, deploró la idea israelita de ser el "pueblo elegido", ya que se asemeja a la noción de "raza elegida" propuesta por el nazismo. (De hecho, la autopercepción de ser "elegido" es uno de los ingredientes de la mentalidad sectaria.) Le tocó vivir en carne propia la gradual adquisición de poder del nazismo, y se vio obligado a salir de su ciudad por ello.
+
+Hayek y otros amigos le consiguieron un empleo en Nueva Zelanda, donde se refugió. Fue inicialmente socialista, lo cual combinó con el aprendizaje del oficio de carpintería. Eventualmente se persuadió de que el auténtico enemigo para la libertad individual es el Estado.
+
+Aún en Austria había escrito *"Logik der Forschung"* ("Lógica de la Investigación", inicialmente publicado en 1935), donde refuta el conocimiento inductivo e introduce la noción de "falseabilidad", con la que trabajaría el resto de su vida.
+
+*"La Miseria del Historicismo"* (1944-1945) y *"La Sociedad Abierta y sus enemigos"* (1945) fueron escritos en rápida sucesión, y MVLL considera la segunda como la obra maestra de Popper. Redactadas en retazos de tiempo escamoteados al trabajo, aplicó en ellas las habilidades que adquirió de forma autodidacta: por ejemplo, el griego clásico que utilizó para leer a Platón y Aristóteles en el texto original. Es cierto que la labor desarrollada resalta no solo por su calidad intrínseca, sino por la profundidad de su compromiso intelectual, acicateada por la pobreza que debió sobrellevar en el exilio. Contó con el apoyo invaluable de su esposa, que mecanografiaba sus manuscritos, y el de sus amigos en Europa, que le facilitaban las lecturas imprescindibles.
+
+*Hennie*[^hen], su esposa, iba de hecho más allá de la mera transcripción: sus críticas revelaban una comprensión asombrosa de las propuestas popperianas.
+
+[^hen]: Josephine Anna Henninger, con la que se había casado en 1930, y que Popper llamaba cariñosamente *Hennie*, fue una esposa inteligente y ejemplar, copista, enfermera, amiga, e incondicional del filósofo. Existe una fuerte sospecha de que el componente sexual del matrimonio fue casi inexistente, y quizás debido a ello, no tuvieron hijos. 
+
+En *"La Miseria del Historicismo"*, Popper denuncia la "tradición historicista", que empieza desde Platón, según él, y que es revigorizada en el siglo XIX, con Hegel, para desembocar en Marx. Considera deletéreo el historicismo, entre otras cosas, porque una de sus consecuencias es aliviar el peso de la responsabilidad del individuo sobre su propia conducta. Y lo concebía como el hilo conductor que identifica y une a todos los autoritarismos.
+
+KP llama al ser humano "individuo" solo a partir de la Historia en términos de organizaciones, y llama despectivamente "pensamiento mágico" a la moda de análisis preponderante durante la "época tribal". Denosta el comunitarismo de esa etapa como "una sociedad inmóvil", colectivista, e "irracionalista", previa al nacimiento del individuo, el cual "se emancipó de la placenta gregaria de la tribu".
+
+Ignora Popper (según los hallazgos de la Antropología y la Psicología Social) que toda la estructura fisiológica y psicológica del ser humano apunta a un estado ideal en el nivel tribal o grupal de agregación. Lo que él llama *"independización"* no es más que la caída de de la persona de la "red de protección tribal" que estaba constituida por los grupos y sus variantes, para convertirse en *individuo* al ser cogido por las entidades corporativas organizacionales (ECOs), que desde ese momento, al redefinir su identidad (atomizándola) y los criterios de su valía social (desnaturalizándolos), lo enajenan sin regreso del mundo grupal, y lo condenan a orientarse en el mundo social en relación y referencia permanentes a las ECOs. Lo que Popper llama "libertad" no es sino la reconceptualización del ser humano en función de los intereses de las grandes organizaciones, para las cuales el individuo no es sino una pieza intercambiable, dándole a cambio opciones predeterminadas que disfraza de libertad, y que sirven, al igual que el individuo re-percibido, de propulsores del desarrollo, preservación y prosperidad organizacionales.
+
+Al parecer, KP trata de rebatir a Karl Marx en *"La Miseria del Historicismo"*, tratándolo sin embargo con respeto y cierto grado de admiración. Ve con luz positiva el honesto afán marxista por la justicia social, pero considera como su más grueso error haber caído en el *"historicismo"*: la creencia de que es posible entender la Historia en función de leyes y principios relativamente rígidos, que la harían predecible por el científico social. Resiente también la idea de que los principios historicistas del marxismo eran usados para entender y explicar la cultura misma, conceptos, arte y estructura nacional incluidos.
+
+Para ser justos, hay que admitir que el ejemplo de la Revolución Rusa de 1917, que no habría podido producirse sin la ideología marxista que guió a Lenin y sus colaboradores, parece contundente. Esa revolución, según los mismísimos principios marxistas ortodoxos, no debería haber sido posible, dado que la clase proletaria, en el caso de la futura Unión Soviética, era embrionaria como mucho. Inversamente, la esperada revolución no se produjo allí donde sí que existía un proletariado robusto, como Inglaterra, Alemania y otros países europeos. Este "revés predictivo" debería bastar para persuadirnos de la falta de poder explicativo del marxismo.
+
+Hay que admitir que no es en absoluto difícil encontrar ejemplos de "miseria historicista" entre los historiadores y otros científicos sociales. De hecho, tal falencia es más bien la regla y no la excepción. Desde el ya mencionado Platón hasta el recientísimo Harari, pasando por Rousseau, Hobbes, Carlyle, Toynbee y Fukuyama, la mayoría de intelectuales son más que capaces de "leer" tendencias y fenómenos subyacentes en los eventos del pasado, pero al mismo tiempo igualmente ineptos para anticipar la marcha futura de los acontecimientos. Llamemos a esta limitación "síndrome de Daniel", por el libro de la Biblia hebrea.
+
+Como se recordará, el (¿o los?) redactor(es) del libro de Daniel elaboraron el escrito en tono profético. Aciertan minuciosamente en cada vaticinio, pero solo hasta determinado punto cronológico, a saber la revuelta macabea. A partir de ese momento histórico (que, como ya habrá adivinado el lector era, precisamente, cuando el documento fue escrito en realidad), las profecías caen espectacularmente en cuanto a su calidad predictiva. Lo tradicional (hasta la época de la gran crítica textual europea del siglo XIX) era asumir el relato literalmente, lo cual generaba la idea de que Daniel habría sido escrito hacia el siglo VI a.E.C. Luego de que los grandes analistas alemanes desmenuzaran la espesa capa tradicionalista de todos los libros bíblicos, quedó claro que las
+
+---
+
+## p. 08 — 01/07/26
+
+"profecías" del libro de Daniel —como también sería el caso, siglos después, con el libro del Apocalipsis cristiano— fue concebido para infundir ánimo y coraje y esperanza a los judíos de su era. Siendo equitativos con el texto, tal vez el recurso de las supuestas profecías no fuera sino una clave cultural compartida, malentendida por los cristianos cientos de años después.
+
+Así pues, la enorme mayoría de los historiadores que se aventuraron a anticipar el futuro relativo cayeron en el "Síndrome de Daniel": fueron muy buenos explicando lo que ya había sucedido y extrayendo de ello tendencias extrapolables al futuro. Solo que los hechos posteriores casi nunca les dieron la razón.
+
+Tan solo para hablar de Harari —cuya liviandad conceptual, propia del excelente divulgador que es, no ayuda—: en sus obras anticipa una era de la que los avances científicos y el predominio democrático descartaban cualquier reversión social mayor. La realidad es que tales proyecciones revirtieron abajo casi tan pronto como pudieron hacerlo materialmente. Hoy la desdemocratización global, el avance de conservadurismos nacionalistas y el reclamo del panorama social a nombre de las exclusiones sociales
+
+---
+
+## p. 09 — 01/07/26
+
+les que se creía sepultadas bajo el peso de la vergüenza consensual es el grueso de la dinámica política.
+
+Volviendo al texto: Popper parece encontrar en Hegel aún menos virtudes que en Marx, llegando a la descalificación directa (según VLL, llama a este "charlatán" y "oscurantista"; asumo que KP debe haber sido un discípulo hegeliano antes de proceder a su crítica, tomando en cuenta que Hegel es famosamente arduo de leer). Similar severidad es aplicada a Aristóteles, a quien considera el origen de la tradición "verbalista", que luego sería llevada a extremos por su destilado Hegel. En parte entiendo la ojeriza popperiana: el Geist es poco menos que la canonización del Estado, un Estado contra el cual el liberalismo apasionado de KP se rebela raigalmente.
+
+Popper procede a definir el Estado en cuanto entidad esencialmente despótica, solo mantenida a raya por las circunstancias, pero de vocación autoritaria. En ese contexto, un soberano es apenas un dictador en potencia o en actualidad, pero un dictador por esencia. Don Mario encomia el insight de KP, quien establece la cultura clásica de Grecia como el germen tanto de la democracia como de los regímenes autoritarios desde entonces.
+
+---
+
+## p. 10 — 02/07/26
+
+Habría que conocer y evaluar los criterios que hacen a Popper considerar la vida tribal —una de las formas más consistentes de agregación grupal— como "cerrada", e "irracional". Quizás habría que rebatir la noción de que es legítimo para la vida y entidades organizacionales la apropiación de su propia lógica interna en cuanto "racionalidad", descalificando automáticamente la forma de vida común a todas las épocas y prevalente hasta la revolución agraria para el Sapiens. ¿En qué sentido la existencia como integrante grupal y persona —una existencia para la cual toda la fisiología orgánica y tendencias psíquicas naturales están finamente adaptadas— es un ejemplo de vida "irracional" y "cerrada"? ¿Qué puede haber de mayor clausura a la realidad esencial humana que negarnos a nosotros mismos, la forma de vida en común para la que, en términos prácticos, estamos diseñados?
+
+Vargas se atreve, tímidamente, a señalar que algunos elementos de la "vida tribal" forman parte de la naturaleza humana y por lo tanto no son necesariamente nocivos. Menciona ejemplos como la imitación, las pasiones y los mitos, que no hacen sino traicionar la distorsionada versión de la vida grupal que abriga su intelecto.
+
+---
+
+## p. 11 — 02/07/26
+
+Luego agrega, con una honestidad que lo honra, los cuestionamientos que los helenistas serios y los críticos de arte le han hecho a Popper. Pero incluso entonces su contraste no hace sino tratar de resaltar los elementos positivos de lo irracional, estableciendo lo que considero una equivalencia injusta entre vida grupal y tendencia a los aspectos irracionales de lo humano.
+
+¿Qué tal si aplicáramos su propio criterio de falseabilidad a la propuesta popperiana? No estoy persuadido de que esa empresa sería realmente útil. Para suerte o desgracia, no todo puede o debe ser falseable, no todo puede resolverse mediante la prueba dúctil del contraste con un criterio externo. Entre esos elementos no real o fácilmente falseables catalogo yo a toda teoría filosófica, y en ese grado los puntos de vista popperianos deberían ser contrastados quizás con otras herramientas, entre ellas la armonización o alineamiento funcional del humano con lo que implica una teoría.
+
+Con esto último quiero decir que una teoría —sea filosófica, antropológica, histórica, psicológica, etc.— no puede ser verdadera si va en contra de la funcionalidad social del ser humano. En otras palabras: todos los indicios de la
+
+---
+
+## p. 12 — 03/07/26
+
+funcionalidad psicosocial del Sapiens apuntan a que se desenvuelve de manera óptima en un contexto grupal (familia, tribu, etc.). Si mi teoría proclama que el Estado, o cualesquiera otras entidades corporativas de nivel organizacional —como iglesia, sociedad, o similar— permiten al Sapiens llegar al pináculo de su potencial, entonces no estoy coincidiendo con la realidad humana. Y no importa cuán exitosa sea la civilización, cuán ventajosa la cohabitación urbana, cuán provechosa la ciencia o cuán placentera la religión. Si promueve la existencia del individuo como pieza reemplazable dentro de una dinámica de una o más ECOs, entonces no puede ser realmente un optimizador de la conducta o riqueza del florecimiento o la felicidad humanas.
+
+KP ha sido reivindicado como adalid liberal desde las más diversas corrientes analíticas, incluyendo la de la socialdemocracia. En "Unended Quest", su autobiografía intelectual, Popper dice que, una vez que aceptan el libre mercado, la libre expresión y la democracia, no encuentra razones para no tolerar una ideología política específica. Esto, junto con el talante progresista, harían de Popper un ideólogo más abierto que Hayek (?).
+
+---
+
+## p. 13 — 04/07/26
+
+Propone una educación pública —concebida, en coincidencia con Hayek, como un gran ecualizador social— de alta calidad y libre acceso, así como la creación de instituciones destinadas a proteger a los económicamente débiles, del económicamente fuerte, serían parte de un liberalismo popperiano, más matizado que el de Hayek.
+
+Habría que verificar hasta qué punto Popper concibe la dinámica económica y social como un interjuego a nivel individual. De ser esa la modalidad dominante en su pensamiento, estamos ante una grave distorsión epistemológica, que impediría al pensador el análisis de las interacciones más esenciales desde el punto de vista humano. A saber, la interacción entre individuo, grupo y ECO.
+
+A mi parecer, una de las limitaciones popperianas es asumir que fuerzas tales como la vía del poder económico sobre la educación, la interferencia del mercado en las reglas de juego laborales (como la extensión de la edad de empleo hacia abajo —con el trabajo infantil— y hacia arriba —con la postergación de la jubilación—), y la enaje-
+
+---
+
+## p. 14 — 04/07/26
+
+nación de lo cultural, esas fuerzas, que irían en dirección de la opresión y de la hegemonía sobre el individuo, serían simples "malas prácticas" que pueden contrarrestarse mediante normas meramente procedimentales. No parece entenderlas como rasgos esenciales e inescapables del enfoque capitalista y organizacional, inevitables ya que forman parte de la lógica de la existencia de las ECOs.
+
+Para Popper, los grandes enemigos son los dogmas religiosos y el espíritu tribal. Eso dota a su enfoque político-filosófico de una liviandad rayana en lo culpable.
+
+Al menos, KP entendió que el poder económico puede llegar tan o más tóxico que la violencia física literal.
+
+Luego de escribir sus dos grandes ensayos de Filosofía Política, Popper obtuvo un puesto de docente en Londres, adonde volvió a partir de la segunda parte de los años 40. En Inglaterra ganó su prestigio y fue debidamente
+
+---
+
+## p. 15 — 04/07/26
+
+reconocido por el Establishment, llegando a ser "armado" caballero del Imperio Británico por la reina.
+
+Fue en esa época que se produjo su célebre altercado con Ludwig Wittgenstein, en 1946. Los recuentos divergen, pero lo cierto es que todo no pasó de los diez minutos y, pese a que Wittgenstein famosamente enarboló un atizador —hecho que no es unánimemente reconocido por los reseñadores—, no hubo ningún contacto físico entre ambos filósofos. Al parecer, ambos expresaban puntos de vista opuestos y posiciones vitales antagónicas desde los tiempos de entreguerra. El clash entre ambos filósofos parece ser un ejemplo más del viejo principio según el cual las mayores odios surgen entre aquellos unidos por las más grandes semejanzas. Ambos eran judíos conversos, poco menos que anacoretas alienados de la vida en sociedad por la pasión intelectual que los devoraba, y a los dos les había golpeado enormemente el autoritarismo alemán, obligándolos a pasar el grueso de sus vidas en el extranjero. Los dos encomiaban el trabajo físico, y cada uno lo practicaba en
+
+---
+
+## p. 16 — 04/07/26
+
+efecto: LW como jardinero, y KP como carpintero. Ambos le debían mucho a la amistad y protección de su colega británico Bertrand Russell, y además de su sexo social eran poco menos que célibes (y Wittgenstein, además, homosexual).
+
+Como suele pasar con los monomaníacos tocados en la obsesión en que se centra su existencia, ambos filósofos llegaron fácilmente al arrebato al percibir en el otro la encarnación de la posición opuesta. LW estaba persuadido de la suprema importancia del lenguaje, y se había entregado entero a la tarea de desentrañar su esencia. Inicialmente, creyó descubrirla en la función lógica del lenguaje como representación del mundo; concluyó que si se depuraba al lenguaje de toda "impureza extralingüística", se podría usar como herramienta para replantear —y resolver— todo problema filosófico.
+
+Vargas Llosa, sin embargo, yerra al describir tales ideas como la posición de Ludwig en el momento del conflicto con Popper. En realidad, para ese entonces Wittgenstein ya había trascendido su teoría inicial y pasado a lo que
+
+---
+
+## p. 17 — 04/07/26
+
+los historiadores de la Filosofía describen como "Wittgenstein II". Para ese momento, Ludwig pensaba que el lenguaje se definía por su uso, y entendía que el contexto social práctico en que se producía era fundamental y definitorio. Los problemas filosóficos se desnaturalizaban cuando el filósofo usaba sus términos en un escenario abstracto que los despojaba del referente social imprescindible para su comprensión cabal y completa.
+
+Para Popper, este tipo de posiciones llevaban a un formalismo lingüístico enajenado de la vida social práctica de las personas. Desde su punto de vista, reducían la actividad filosófica a una vertiente analítica estéril, y negaban la esencia de lo que para él debía ser la función primaria del filósofo: ayudar a entender, y contribuir a solucionar, los problemas prácticos de la existencia humana.
+
+Digamos que, para seguir la célebre observación de Jorge Luis Borges, Popper era aristotélico y Wittgenstein platónico.
+
+Popper dejó bien sentada su divergencia con Wittgenstein en "LSA", donde llega a adjetivarlo como "confuso y
+
+---
+
+## p. 18 — 04/07/26
+
+contradictorio".
+
+En Cambridge —donde LW estaba a cargo del "Club de Ciencia Moral"—, invitan a Karl a exponer acerca de la pregunta: "¿Hay problemas filosóficos?". Estaba bastante claro, para el lector que haya prestado alguna atención, que tal invitación, proveniente indirectamente de Wittgenstein, era poco menos que un "guantazo" intelectual.
+
+Muy en el espíritu espectacular del Occidente no socialista, se corrió la voz y, a diferencia de lo usual, hubo un gentío apretujado presenciando la ponencia. Ludwig entre ellos. Cuando Popper empezó a rebatir el enfoque de este, Wittgenstein no pudo contenerse y lo interrumpió, siendo interrumpido a su vez por Karl, ante lo cual, ya exasperado, LW coge el atizador de la chimenea y le exige a su interlocutor que dé un ejemplo de regla moral:
+
+—No se debe amenazar a los ponentes con un atizador— a lo que la audiencia reaccionó con vivas.
+
+Ante esto, Wittgenstein salió como una tromba del
+
+---
+
+## p. 19 — 05/07/26
+
+recinto.
+
+(Cabe señalar que otros historiadores, por el contrario, indican que la frase fue dicha por Popper cuando LW ya se había ido, lo cual, según mi intuición, parece mucho más verosímil.)
+
+Todo esto reitera mi convicción, en el sentido de que, incluso en relación a las cuestiones más áridas y abstractas, el debate es siempre, antes que nada más, un espectáculo. Y en los espectáculos gana siempre el que actúa mejor, no el que piensa mejor.
+
+—//—
+
+La noción de verdad en Popper es dinámica, enfatiza el proceso antes que el resultado, y por lo tanto es provisional y nunca se resuelve definitivamente. Está sujeta permanentemente a refutación (¿y refinamiento?). El falseamiento es un fenómeno constante, como parte del método científico, el de mayor potencia y precisión creado por el ser humano.
+
+De alguna manera, el "falseamiento" popperiano me recuerda al método dialéctico de Hegel, aunque es ob-
+
+---
+
+## p. 20 — 05/07/26
+
+vio que no son lo mismo, ya que el concepto hegeliano es más complejo. La noción popperiana está diseñada como un método más bien sencillo de establecer la calidad científica de una investigación o teoría.
+
+Así pues, solo una teoría susceptible de refutación podrá ser considerada como científica. La dinámica científica implica que, eventualmente, otra teoría aparecerá como refutación de la primera, generando así el avance del conocimiento científico mediante negación y superación.
+
+(¿Ya está más claro, lector, el parentesco con la dialéctica hegeliana?) Algo más interesante fue el intento de Popper de extender su teoría de la falseabilidad a ámbitos distintos a los de la ciencia propiamente dicha.
+
+Como buen aristotélico, Popper postula que la verdad no es, contra lo que pudiera pensarse, un fenómeno últimamente solipsista y subjetivo. Está basado en cierto nivel de coincidencia o alineamiento con la realidad externa (para usar la fraseología de Bunge). Para escapar a la "tentación del relativismo", Popper trata de
+
+---
+
+## p. 21 — 05/07/26
+
+dejar muy claro que, luego de ser establecida —y mientras aún no es falseada— la verdad tiene un estatus fijo y absoluto. Por lo tanto, yo diría que su noción de falseabilidad viene a ser más un mecanismo de optimización o mejoramiento o completamiento de la verdad, que uno de reemplazo de esta.
+
+Esta sospecha mía parece confirmarse cuando Popper afirma que la verdad es precaria porque la ciencia es falible. Su concepto de verdad —al menos, de verdad científica— solo es afectado por una cuestión de desajuste o falta de perfección metodológica; es contingencial al ideal de Verdad y no parte esencial o definitoria de ella. En consecuencia, como resultante de creer en una verdad absoluta de la que solo nos separa el error metodológico, propio de una ciencia que nos acerca infinitamente a ella, Popper era optimista.
+
+Yo, por el contrario, creo que la verdad accesible al ser humano no es, no puede ser, objetiva. Para poder ser tratada por nuestro intelecto, la verdad debe tener una carga emocional. La afectividad de la verdad es la
+
+---
+
+## p. 22 — 05/07/26
+
+única vía real de acceso humano a ella. Por lo tanto, la verdad solo será alcanzable mediante un método que "iguale" u homologue nuestras afectividades, pero sin suprimirlas nunca. En el momento en que la verdad se "descarna", es decir, pierde relevancia emocional, deja de tener significado para nosotros, y por ende, deja sencillamente de existir.
+
+La "ecualización" de la verdad es necesaria, no para "objetivarla" como a menudo se cree erróneamente, sino para igualar la tonalidad afectiva y hacerla, de esta forma, comunicable. De hecho, comunicar no es otra cosa que tratar de impulsar contenidos intelectuales por medio de cargas emocionales compartibles entre emisores y receptores. De tal forma que, cuando la comunicación funciona, emisor y receptor desaparecen, pues se forma una corriente o puente cognitivo-afectivo que jamás termina en un punto o inicia en otro, sino que continúa eternamente mientras existan seres dotados de afectividad humana capaces de continuar esa corriente, de dejarse llevar por ella, y de impulsarse por su potencia para
+
+---
+
+## p. 23 — 05/07/26
+
+alcanzar otros niveles más profundos de verdad a otras verdades conectadas.
+
+Dentro de este orden de ideas, se podrá concluir que la verdad intersubjetiva, la verdad que se establece al interior de un grupo, es la de mayor certeza y confiabilidad, la más pura y la más infalible. Esto es así porque, al compartir un mínimo marco de referencia afectiva, las barreras comunicacionales son menores (aunque jamás desaparecen del todo). En cambio, la verdad científica es dependiente, de forma permanente y por definición, de un "ajuste" emocional, y ello es especialmente agudo si consideramos que la verdad científica es sin duda la de mayor proyección e impacto cuantitativo.
+
+Así pues, para resumir:
+
+1. La verdad solo es procesable —para el ser humano— si tiene una dimensión emocional o afectiva.
+
+2. Comunicar no es sino transmitir contenidos cognitivos impulsados por uno o más elementos afectivos, que hacen posible establecer un puente o corriente comunicacional.
+
+3. Una vez establecido el puente comunicacional, queda
+
+---
+
+## p. 24 — 05/07/26
+
+definido como entidad autónoma (en el terreno lingüístico, científico, etc.), y será retomado o asumido por otros. Desaparecen el emisor y el receptor, ya que la verdad comunicacional pasa de ser unívoca y rectilínea a ser cíclica y continua.
+
+4. Si hubiera que establecer una jerarquía de verdades, basada en su nivel de accesibilidad, la verdad más pura e incontaminada, la menos sujeta a error, será la verdad grupal e intersubjetiva. El motivo es que ese nivel de verdad requiere el mínimo de "ajuste" o "ecualización" emocional, y se da en un plano de referencia cercano y común entre todos sus participantes.
+
+5. La riqueza comunicacional, así entendida, será entonces inversa al alcance comunicacional, si se entiende este último como el número de participantes comunicacionales y su perduración en el tiempo. En ese sentido, la verdad científica es la más ardua, porque al ser más abstracta requiere una poderosa "ecualización" emocional, pero a la vez será la más ampliamente compartible.
+
+*(Nota final de la página, tachada e ilegible.)*

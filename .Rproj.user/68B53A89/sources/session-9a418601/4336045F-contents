@@ -1,0 +1,16 @@
+# Script para cargar el catálogo de libros en R
+# ================================================
+
+# Cargar el archivo CSV
+catalogo <- read.csv("catalogo_libros.csv", stringsAsFactors = FALSE, encoding = "UTF-8")
+
+# Ver el contenido
+print(catalogo)
+
+# Ver estructura
+str(catalogo)
+
+# Información del catálogo
+cat("\n--- INFORMACIÓN DEL CATÁLOGO ---\n")
+cat("Total de libros registrados:", nrow(catalogo), "\n")
+cat("Columnas:", paste(names(catalogo), collapse = ", "), "\n")

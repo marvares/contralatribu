@@ -1,0 +1,7 @@
+# Jean-François Revel {#revel}
+
+<!--
+Cuadernillo pendiente de transcripción.
+Cuando completes las sesiones de transcripción de Revel, el contenido va aquí,
+con la misma convención de niveles de encabezado (## y ###).
+-->

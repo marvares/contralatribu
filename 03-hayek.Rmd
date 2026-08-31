@@ -1,0 +1,296 @@
+\newpage
+# Friedrich Hayek {#hayek}
+
+<!--
+MIGRACIÓN DESDE TU .Rmd ACTUAL (LLT-FAH, Partes I y II):
+Pega aquí el contenido del cuadernillo de Hayek.
+Sugerencia de organización interna:
+  ## Parte I
+  ## Parte II
+Ajusta el resto de niveles de encabezado un nivel hacia abajo (# -> ##, ## -> ###).
+-->
+## Friedrich August von Hayek (1899-1992)
+
+Considerado por MVLL a la misma altura que Popper y Berlin, fue uno de los más influyentes intelectuales liberales.
+
+Una de las tensiones internas del liberalismo es que la libertad del mercado y de acción de los agentes económicos genera forzosamente desbalances: quienes ofrecen en el mercado habilidades menos preciadas socialmente acaban empobrecidos. Aún peor: cualquier tipo de asistencialismo que tratara de compensar esto es considerado —al menos por los liberales más duros— como una intromisión inaceptable en la dinámica del mercado.
+
+En efecto, equidad y libertad parecen ser valores contradictorios. Quizás porque los estamos tratando de reconciliar en el nivel de agregación equivocado.
+
+La auténtica libertad individual, para empezar, es un imposible. Creo que muchos confunden *margen de opción* con libertad auténtica. Esta no puede existir mientras el sujeto esté inscrito dentro de un mundo organizacional. Y ya puestos en ese orden de ideas, corresponde ahora determinar cómo escapamos de la *trampa anarquista*, tal como parece haberla descrito Nozick.
+
+Mencioné la frase *margen de opción*. Quise decir que si el mundo organizacional te da alternativas preestablecidas, fuera de las cuales no se puede optar, ya no estamos hablando de libertad auténtica.
+
+\dinkus
+
+Estudioso múltiple, Hayek fue en especial fascinado por la Psicología y la Economía. Sin embargo, oficialmente se doctoró en Leyes. Fue discípulo del economista Ludwig von Mises.
+
+Eventualmente pasaría a enseñar en Londres, donde conocería a Karl Popper, con quien entabló gran amistad, fundamentada en la coincidencia del pensamiento liberal. Vivió 92 años, hasta 1992, muriendo finalmente en Alemania, luego de haber enseñado y habitado en múltiples ciudades del mundo.
+
+Su obra más célebre es quizás *The Road To Serfdom* o *Camino de Servidumbre* (1944), en las que se incluye dos ideas, novedosas entonces:
+
+- Fascismo y comunismo son dos caras de la misma moneda;
+- Hay una relación entre control estatal de la Economía y el deterioro social de la democracia.
+
+Fue adversario intelectual de John Maynard Keynes. Hayek era poco popular y aún menos favorecido en esa época. Llega a la Economía pasando por la Filosofía.
+
+*The Road to Serfdom* fue prohibida en Alemania, cuyo gobierno no deseaba enemistarse con la entonces existente Unión Soviética.
+
+Hayek obtuvo el Nobel de Economía en 1974. Sin embargo, no puede enmarcársele con justicia bajo el escueto título de "economista". Sus aportes son mucho más amplios, según MVLL.
+
+De Hayek parece provenir el fanatismo que incluso en muchos liberales peruanos se percibe. Por ejemplo, consideraba que una dictadura que practicara una economía liberal era preferible a una democracia que no lo hiciera[^cc]. Llegó a declarar que en el Chile de Allende había menor libertad que en el régimen de Pinochet; una afirmación sin duda indigesta para sus fanáticos menos extremos.
+
+[^cc]: Me parece estar escuchando las tertulias y sobremesas en el Country Club. Parece claro que Hayek pensaría muy bien de la China actual.
+
+En la década de los cuarenta, en Vevey, se empezaron a reunir eminentes filósofos y economistas para debatir; esta conjunción de estrellas intelectuales pasó a llamarse la *Sociedad Mont-Pèlerin*, orientada a la divulgación y fortalecimiento del liberalismo. En su contexto se eligió a Hayek como el primero de sus presidentes, consagrando su prestigio intelectual.
+
+Su más grande obra fue *The Constitution of Liberty* (1960), complementada por *Law, Legislation and Liberty*, en tres tomos, escrita en 1973. Se analiza y sustenta en ellas las excelencias del mercado, y no solo en la dimensión económica.
+
+Para Hayek, la pretensión de imponer pautas sobre la marcha de la sociedad nacería de la aplicación del método científico al ámbito sociológico y político, llevada a cabo por el socialismo utópico y científico (pre—Marx y Marx mismo), tratando de liberar a los desfavorecidos de la opresión de los más ricos. La planificación es el mayor antagonista de la libertad, y Hayek hizo lo posible para demostrar que en realidad tal pretensión se originaba en Saint-Simon y en Comte, por más que Marx y Engels lo negaran.
+
+En lo que sin duda acierta el ferviente Hayek es en señalar que sin las instituciones y marco legal y cultural adecuados, el mercado se pervierte y degenera en mercantilismo y opresión. (Algo muy evidente, por ejemplo, en las democracias latinoamericanas.)
+
+Lo cual no es sino otra forma de admitir que, como Smith y otros, Hayek es plenamente consciente de que todo el modelo descansa en el vicio y el egoísmo, y que la única forma de mitigar eso y evitar que se retorne a la barbarie de la opresión total es regular, con su famoso Estado árbitro. Los liberales incluso le pusieron su etiqueta —ordenados ellos—: el *mercantilismo*. Palabra descendida del nombre mismo de su ídolo, el mercado. Confesión parcial y sublimada.
+
+Si a Rusia y las demás naciones antiguamente socialistas les va mal —clama don Mario— es porque cayeron en el mercantilismo, lo que practican no equivale cabalmente a lo que dictamina Hayek, no se trata de abrirlo todo a la competencia salvaje e irrestricta, extranjera o interna. ¿No será que el liberalismo solo acaba bien cuando se inicia desde cierto punto de la Historia, y que, pasado este, todo emprendimiento y compromiso societal con él está condenado al fracaso, primero moral, luego procedimental, económico y político?
+
+¿No será que no es tan sencillo?
+
+Está claro que Vargas Llosa tiene una visión apasionada e ideal —es decir, irreal— del liberalismo, como la filosofía que, cual super héroe de historieta, llega en el momento culminante para salvar al individuo de las garras del mercantilismo y del Estado por igual.
+
+El único problema es que, sin ECOs —sin Estado y sin empresas—, el individuo sencillamente se desvanecería como una estatua de hielo bajo el sol.
+
+El Liberalismo entraña individualismo, según Hayek, como el cristianismo es solo la capa institucional de la caridad y el valor vida.
+
+*"El individuo goza de soberanía"*, nos dice FAH. ¿Cuándo y cómo ejerce el individuo tal soberanía? Puede que el ser humano no se reduzca a su relación con las organizaciones, pero el individuo, la dimensión individual, no existe, por definición, fuera de ella.
+
+En el film de 1961 *West Side Story*, escenificada en la canción *America* tenemos, en una frase, la refutación del liberalismo entero: los inmigrantes puertorriqueños se reúnen para —por supuesto— bailar, agrupándose por género. 
+
+Las chicas asumen la defensa del *establishment* norteamericano, y claman que Norteamérica les permite ser:
+
+*Free to be anything you choose*[^trad1]
+
+[^trad1]: *Libre para hacer lo que elijas.*
+
+Los varones, más escépticos, replican:
+
+*Free to wait tables and shine shoes!*[^trad2]
+
+[^trad2]: *¡Libre para ser mesero o limpiabotas!*
+
+Bien mirada, esa es, en efecto, la soberanía del individuo por entero. No está compuesta de nada más, nada distinto. Y poco importa que Trump o Musk reemplacen la segunda frase con *Free to manage corporations*[^trad3]. Lo que debe comprenderse es que las opciones están definidas y dictaminadas por las ECOs y su lógica corporativa.
+
+[^trad3]: *Libre para gerenciar corporaciones*.
+
+Ese es el punto de origen del liberalismo. Toda filosofía tiene ese punto, del que no se puede avanzar sin dar el "salto de fe". En el enfoque hayekiano, el salto de fe consiste en creer que, en serio, es el individuo el que decide, y el centro de referencia de la libertad.
+
+No puedo dar ese salto. Lo siento mucho. Esa prédica de "libertad" contraviene toda la experiencia de vida que he logrado acumular en seis décadas de existencia. En ningún lado de mi vida veo la verdadera libertad como individuo, y tampoco la veo en nadie más. Ni siquiera un millonario tiene libertad real: apenas decide entre alternativas preestablecidas por una serie de organizaciones y sistemas en competencia y/o en inclusión subsumida.
+
+El liberalismo me huele a engañifa. A espejismo basado en anécdotas. 
+
+Vargas Llosa mismo es un ejemplo. Siendo adolescente irrumpe en su vida un padre autoritario, anteriormente abandónico[^aband], que trastoca su existencia enviándolo a un colegio militar para disciplinarlo. En consecuencia, apenas le es posible se hace socialista, porque era una forma de rebelión; luego se percata de que el socialismo desemboca también en autoritarismo. Por ello abandona esa ideología y se entrega, esta vez definitivamente, a los brazos del liberalismo: por fin un sistema de nociones que, según cree, pone al individuo —él, MVLL, incluido— al centro de todo el sistema social, ¡y le da la libertad completa! ¿Qué importa que el mínimo escrutinio revele que esa libertad es ilusoria? Basta la ficción, pues lo importante es la vivencia fenomenológica de la independencia. Como perfecta añadidura, el liberalismo redime a Vargas Llosa de cualquier culpa por ser un millonario exitoso alejado de su país inestable y mísero: las diferencias individuales son válidas, está bien que el mercado recompense el talento, goza de tu éxito, Mario, te lo mereces, cero cuestionamientos.
+
+[^aband]: *Abandónico* es una palabreja psicoanalítica que en el uso original se proponía describir la indefensión y angustia de quien se siente literal o emocionalmente a merced de fuerzas que no puede controlar (típicamente, siendo un niño). Hace poco se ha vulgarizado su uso por las redes para significar no a quien sufre el abandono, sino a quien lo inflige. Es en ese último sentido que empleo aquí el término.
+
+Nuestro escritor laureado no nos llega a decir que somos pobres porque queremos. Es demasiado civil y sofisticado para eso.
+
+Pero casi.
+
+\dinkus
+
+El narrador y ensayista peruanos afirma:
+
+*[El individuo puede] imprimir una huella en el entorno en el que vive.*
+
+Este es otro de los grandes lemas o consignas del credo liberal: *la iniciativa individual —es decir, la privada— da vida y energía a la economía de mercado*.
+
+Juntemos esta verdad —porque lo es, y muy recia— con nuestro hallazgo inmediatamente anterior: *las organizaciones son las únicas que realmente viven del mercado libre, las que en la realidad definen las opciones preestablecidas que le otorgan al individuo la ilusión de la libertad*, y de pronto se entiende que es precisamente esa la función del individuo en el contexto organizacional: proveer la iniciativa y la inventiva que la ECO, debido a su índole ontológica, es incapaz de generar. Somos las entidades que producen las reacciones químicas que animan el metabolismo organizacional[^iao].
+
+[^iao]: Por eso, justamente, la IA depende por completo del "entrenamiento" proveniente de los billones y billones de textos pergeñados por millones y millones de individuos. 
+
+Esa es toda nuestra libertad.
+
+\dinkus
+
+Nos dice don Mario: *La ambición del individuo (...) es lo que hace posible el progreso.* Pero la frase está incompleta; debería terminar así: *...de las organizaciones*.
+
+Hayek se opone en esto a Keynes, quien recomendaba —aun considerándose a sí mismo liberal— cierto grado de planificación económica por parte del Estado.
+
+Se supone que el individuo tiene —o debería tener— un margen de libertad y, en esa medida, comandar su propio destino. De nuevo, más abundamiento en el credo liberal; que como queda repetido, no provoca en mí ninguna convicción.
+
+En *Derecho, Legislación y Libertad*, Hayek distingue entre "Ley" y "Legislación"; "Cosmos" (orden legal espontáneo) y "Taxis" (orden definido por el Estado)[^cos].
+
+[^cos]: A menudo he notado, no solo entre los liberales clásicos, sino también entre los mediáticos, como Peterson y Shapiro, esta apelación al "orden natural" como el gran y definitivo validador de la idea de jerarquía proyectada al mundo social.
+
+La *Ley* hayekiana sería el derecho consuetudinario, poco más o menos, mientras que *Legislación* sería la legalidad planteada desde el Parlamento, el Poder Judicial y otras instancias, formulada a partir de principios racionales y sistemáticos. Para FAH, la *Legislación* distorsiona a la *Ley*, y es comparable a la planificación económica en sus efectos deletéreos.
+
+\{LEY $\Longleftrightarrow$ COSMOS\} $\neq$ \{LEGISLACIÓN $\Longleftrightarrow$ TAXIS\}
+
+Para Hayek, el término "constructivismo" generaliza la tendencia que pretende planificar y que encarna el mayor enemigo de la adorada libertad. Esto se elabora en el volumen *Fatal Conceit*.
+
+Parejamente odiado es el Estado Benefactor propuesto por los socialdemócratas, así como el colectivismo de los marxistas ortodoxos à la soviética.
+
+Como curiosidad, mientras buscaba el libro de Hayek me topé con el post de un blog en donde se señala que es, precisamente, el enfoque hayekiano el que supuestamente habría sido aplicado en el Perú y el que explicaría la buena performance económica. Sin embargo, casi cualquiera que viva y piense en el Perú puede entender que es más bien el clientelismo y el mercantilismo, en alianza mafiosa con el poder político-estatal, quienes realmente han gobernado y gobiernan desde casi siempre en este país.
+
+Lo cual me lleva a lo siguiente: un Estado puede gozar de relativa salud económica y ser políticamente ilegítimo, al no promover la calidad de vida ni la felicidad de sus ciudadanos. La legitimidad política es la única realmente válida y propia de un Estado, la única por la que este debería ser medido y en la que, con propiedad, deberían basarse todas las demás facultades de un gobierno. Priorizar (o peor aún, considerar aisladamente) el buen manejo económico equivale a abrir la puerta a una suerte de mercantilismo funcional, que prostituye la noción liberal. 
+
+Tal legitimidad nace del reconocimiento democrático de sus ciudadanos en cuanto entidades individuales, con derecho y opción real de alcanzar su propio bienestar emocional y social; fines incluso más importantes y básicos que la mera marcha eficiente de la dimensión económica.
+
+Para ser justos, hay que puntualizar que Hayek nunca dejó de preocuparse por esos dos vicios de las sociedades libres: el mercantilismo y la opresión de las mayorías sobre las minorías. La existencia de estos problemas y la amenaza de su generalización hizo que temiera por la buena marcha de la democracia como sistema político, incluso en los momentos en que caía el Muro de Berlín. Su propuesta para corregir estas tendencias es la "demarquía": un sistema análogo al Parlamento regular, pero elegido por 15 años, compuesto por personas mayores a 45 años, y encargado de salvaguardar los derechos fundamentales.
+
+Para Hayek, la racionalidad humana era motivo de desconfianza y prefería, antes que cualquier sistema concebido por otros, la sencilla y poderosa emergencia de un orden espontáneo surgido de una libertad teórica, ejercida en simultáneo por muchedumbres de individuos.
+
+Claramente tal concepción del orden constituye, al menos para mí, precisa y laboriosamente lo opuesto tanto de lo que sucede en la realidad como de lo que sería un orden estable y sostenible.
+
+"La Fatal Arrogancia", es el último ensayo que publicó Hayek, a los 80 años. Para MVLL, es "uno de los libros más importantes del siglo XX". En él, la lógica propuesta es que el ser humano, a diferencia de otros seres que viven prisioneros de sus instintos —eternamente "iguales a sí mismos"—, es capaz de transformarse a sí y al ambiente en que se desenvuelve, teniendo a la civilización actual como pináculo positivo de tal tendencia.
+
+\dinkus
+
+Para FAH, "Civilización" implica libertad, legalidad, individualismo, propiedad privada, libre mercado, DDHH, convivencia y paz.
+
+Para mí, este concepto tan elevado del ser humano me parece ingenuo y profundamente idealista. No solo porque las gentes no tienen en absoluto las tendencias que Hayek les asigna, sino porque el medio ambiente social (que en el humano reemplaza y es varios órdenes de magnitud más poderoso que el medio ambiente natural) es por entero, no solo diferente, sino opuesto a lo que él describe y asume. No, el ser humano no es libre; no puede serlo, al menos no en el medio organizacional en el que la casi totalidad de la gente vive hoy. Somos todos individuos sujetos a reglas organizacionales inescapables; el único instante en el que las organizaciones nos individualizan y asignan valor verdaderamente intrínseco es cuando probamos poseer cualidades valiosas para la prosperidad y preservación de la organización del caso. Una vez inscritos dentro del orden organizacional, ya nunca podremos salir de él, puesto que tales membresías pasan a ser parte de nuestra definición de nosotros mismos, y llegan tan profundo en nuestra psique que amputarlas equivaldría a distorsionar nuestra estructura interna hasta el punto de volvernos irreconocibles para nosotros mismos, desembocando en una alienación intolerable.
+
+Estoy dispuesto, sin embargo, a admitir que sí, en ciertos escenarios el espejismo y la engañifa pueden ser casi perfectos: si soy un escritor que vende muchos libros y produce mucho dinero para una o más ECOs; si soy un directivo de corporación exitoso; si soy un artista genial, el sistema de ECOs me hará sentir que soy libre y que puedo impactar en mi sociedad, pero es un timo. Solo seré libre para seguir siendo exitoso y útil para mi entorno organizacional; siempre habrá delante de mí opciones prefijadas, no libertad total y auténtica.
+
+Es fundamental aclarar que no creo que este orden societal se deba necesariamente a la malevolencia de las ECOs; sencillamente es el resultado forzoso de la lógica relacional y el sistema operativo de las instituciones.
+
+El punto es que estamos tan atados a una tendencia conductual predeterminada como cualquier otro animal o criatura viva. La única diferencia es que se trata de una tendencia abierta y no cerrada, en el sentido de apuntar a una estrategia antes que a un conjunto de acciones específicas. Esto, por supuesto, no es gratuito; está asociado al enorme costo del cerebro, que consume enormes cantidades de energía y deforma literalmente el cuerpo humano para su mejor funcionamiento.
+
+Con todo, es preciso no perder de vista que estamos determinados, no solo en lo biológico, sino también en lo cognitivo y lo social. Tendemos espontáneamente a generar entidades corporativas organizacionales a partir de concepciones abstractas, y desarrollar tal nivel de apego a ellas que las "convertimos" en la unidad funcional de la especie.
+
+FAH también cree que la Civilización es una propiedad emergente de la colectividad funcional humana. En general, parece creer que toda estructura social estable es (o debería ser) espontánea y propia de la voluntad libre de los seres humanos, más que fruto de un diseño consciente. Complementariamente, parece creer que la intervención deliberada de una entidad sobre la dinámica social y/o los elementos que intervienen en ella son nocivas, limitantes y atentan contra la libertad del individuo. Esta libertad es el eje fundamental de su filosofía política.
+
+En consecuencia, toda estructura social estable solo podría resultar de la acción concreta de los individuos, los únicos que tendrían la capacidad eficiente para modificar la realidad. En esto, estamos de acuerdo, pero divergimos en un punto concreto: aunque yo también considero que la estructura social estable es una propiedad emergente de los seres humanos, la gran diferencia es que él no ve a las ECOs como tales, no existen como concepto en su teoría, y por ello Hayek es ciego a su rol fundamental como unidad funcional y deliberante de la especie. Esto lo lleva a considerar la "Civilización" como algo intrínsecamente bueno, un logro fruto de la libertad individual, mientras que yo, por el contrario, la veo como un estatus opresivo donde solo las ECOs se desarrollan y prosperan, y donde el individuo solo puede adquirir valor en cuanto es útil a la ECO. No es la libertad lo que genera la Civilización; es la determinación biológica y la revolución cognitiva y social. Y no genera libertad; por el contrario, consolida más y más la opresión organizacional inescapable.
+
+Para FAH, la Civilización es el supremo bien y el norte de la evolución social espontánea en las personas; para mí, por el contrario, es el grado tangible en el que se anquilosa y esclerotiza el medio social, un callejón antropológico sin salida, en el que se sofoca cada vez más la experiencia grupal.
+
+Para el enfoque hayekiano la saludable emergencia institucional (saludable por espontánea) tiene como contraparte al "constructivismo" o planificación social.
+
+Otro de los mitos contradictorios de Hayek: el supuesto gran poder de los intelectuales; estos serían, según su análisis, "constructivistas natos", y por lo tanto "enemigos de la civilización". Supuestamente, los totalitaristas tendrían necesidad de los intelectuales para plantear alternativas al modelo de liberalización mediante libre mercado. Sin embargo, si algo nos enseña no solo la Historia, sino la vida cotidiana, es que los seres humanos nunca han tenido necesidad de grandes armazones conceptuales para justificar la opresión a los demás imponiéndoles una autoridad central. Esas tendencias forman parte, hasta donde se sabe, de la modalidad social humana; es una de las piezas más importantes de su repertorio, y las excusas para ejercerlo nunca han tenido que ser muy elaboradas ni han necesitado de una clase o élite intelectual para existir. De hecho, trazas de tal tipo de ordenamiento pueden encontrarse en casi cada época y lugar. Paradójicamente, es más bien la idea del libre mercado la que ha necesitado una cierta elaboración intelectual por parte de Smith y sus seguidores, y es muy obvio que jamás se habría impuesto oficialmente de no ser por su comprobada eficiencia para generar utilidad para las grandes organizaciones.
+
+Asombra cómo uno de los paladines de la libertad y grande enemigo del totalitarismo acaba criminalizando a los intelectuales, de idéntica forma a cómo lo haría un nazi, un estalinista o un fanático religioso, y por las mismas razones: miedo a las ideas, y sobrestimación de su impacto.
+
+Para un intelectual, sus ideas son su vida, su identidad y su herencia; pero para las organizaciones, son apenas un accidente, a lo más un adorno de su acción, y en el peor de los casos un simple pretexto.
+
+A nivel organizacional —que es el único que realmente importa en la sociedad—, el poder radica en la actividad y los móviles organizacionales. Sin importar cuán monumental, cuán consistente y lógico, un sistema de ideas por definición es siempre más coherente consigo mismo que con el mundo externo que pretende describir o explicar. En esa medida, por fuerza un sistema de ideas representa lo extremo con un grado considerable de ruido cognitivo, lo que le hace perder potencia epistemológica, y lo aleja de la dimensión afectiva, que es el antecedente inmediato y eficiente de la conducta y la motivación.
+
+Para Hayek, la aspiración esencial del intelectual (estudiar, describir, explicar y eventualmente mediar) es simple orgullo, y la antípoda de la "verdadera humildad del intelectual". ¡Suena cada vez más a Stalin! Según él, deberíamos sencillamente aceptar la poderosa emergencia espontánea de aquellas estructuras que van más allá de lo que los intelectuales pueden crear o idear intencionadamente.
+
+Wow. Creo que una cita así, descontextualizada, sería fácilmente confundible con cualquier frase hecha de un dictador estándar. ¡Y Vargas Llosa lo admira y sostiene! En el fondo, don Mario nunca dejó de apoyar autoritarismos; solo cambió de signo ideológico dentro del mismo espectro.
+
+Al intelectual —la subespecie más débil e inoperante de ser humano— apenas si le queda reservada la comprensión, o el intento de llegar a ella. Doblegarse a cualquier fenómeno, persona, organización o proceso externos nos capa y nos inutiliza para tal faena. Un intelectual sin valor y sin independencia es como un gladiador con un cuchillo de mantequilla y un escudo de cartón.
+
+Como es previsible, FAH se enfoca en el socialismo estatal *par excellence* de su época —el soviético—, ya que el nazifascismo estaba aún más que muerto, desacreditado. Predica contra esos monstruos que no respetan contratos, que quieren planificar todo desde el Estado, que ponen límites y restricciones al libre mercado; es decir, maldice al "dirigismo estatal".
+
+Con acierto, MVLL señala lo obvio: más que los libros marxistas de la época de Hayek, hoy son las pantallas consumistas de las redes quienes socavan la educación y la capacidad crítica de la gente. Asimismo, señala que hoy la amenaza de la corrupción y las influencias mal habidas y peor intencionadas son una sombra equiparable hoy en día al antiguo comunismo para la sociedad libre. Al mismo tiempo, falla en ver lo quie es tan claro para quien no sea un neoliberal: esas redes que nos persiguen con su reclamo comercial moldeado instante a instante con lo que sucede en nuestra vida no son sino la expresión super eficiente del capitalismo y el libre mercado! Por último, deplora el afán desmedido de lucrar, que hace de los competidores jugadores desleales que denigran la sana disputa por el consumidor, como si el mismísimo Adam Smith no hubiera dejado establecido, desde el principio, que es la codicia y el egoísmo los motores raigales del libre mercado.
+
+## Camino de Servidumbre (1944)
+
+Comunismo y nazismo tienen en común una tendencia a favorecer el colectivismo, por encima del respeto a la iniciativa, propiedad y derecho de los individuos. En contraste, el liberalismo tiene la tendencia a disfrazar el interés corporativo de las organizaciones como interés individual, y a vender como libertad un conjunto predeterminado de opciones (predetermiando por las corporaciones). Tolera la libertad de pensamiento, siempre y cuando no se atente contra el sistema mismo, y la libertad económica, siempre y cuando no se atente contra los intereses de las grandes organizaciones (en cuyo caso se descalifica la propuesta como "comunista" o "empobrecedora", justamente *porque empobrecería a las grandes ECOs*).
+
+Solo el individualismo, la propiedad privada, y el capitalismo de mercado garantizan la libertad política, según FAH. De nuevo, *libertad* debe entenderse aquí como las opciones políticas no desviadas del régimen —o sea, poco más o menos, matices del liberalismo— y que no vayan en contra de la vida económica privada. Lo contrario lleva al eventual totalitarismo y a la falta de libertad, en detrimento de aquellos que nunca llegan a tener libertad auténtica y total de todos modos: los individuos.
+
+El liberalismo termina generando una pirámide o jerarquía de prioridades para el Estado; en esa jerarquía, el respeto a los intereses de las ECOs (disfrazados de intereses individuales) está por encima de cualquier otro aspecto, y a cambio se otorgan grados de libertad creciente a todo aquello que no tiene o no amenaza tener gran impacto económico. Cuando alguna actividad, como la música rock, los *graffiti* o similares, parece amenazar o eludir la 
+índole económica del capitalismo, este sencillamente los comercializa y así las integra a su dinámica mercantil interna.
+
+\dinkus
+
+Afirma MVLL: "la propiedad privada dio al hombre la libertad e igualdad que Marx esperaba hacer infinitas aboliendo esta institución".
+
+Me pregunto si cualquiera que no sea un millonario aislado de las contingencias por su fortuna podría, con real honestidad, declarar que la propiedad privada hace algo que no sea, precisamente, *establecer desigualdades* y sujeciones de unas personas en relación a otras.
+
+Tampoco puede afirmarse que la carencia de propiedad genera algún bienestar. Más bien lo opuesto, como lo prueban los años del experimento soviético.
+
+Ante esta evidencia, uno que fuera cristiano (o seguidor de cualquiera de las muchas opciones religiosas) podría aventurarse a decir que la libertad e igualdad proviene del interior del corazón humano, y que el auténtico cambio es el que se origina desde dentro de nosotros mismos. Pero cualquiera que no esté cegado por su propia fe fácilmente podría replicar que, justamente, los sistemas de creencia religiosa han sido de los más potentes pretextos para esclavizar, subordinar y sojuzgar a los demás.
+
+La conclusión forzosa es, que el ansia de subordinar a los otros, de imponerles, en mayor o menor grado, una jerarquía, es parte del modo de relacionarse del H. Sapiens, y no se irá a ninguna parte ni —si fuera posible— podría uno escapar a cualquier época pasada o presente, sin tener que lidiar con esa tendencia irrenunciable y viciosa.
+
+Don Mario señala lo que es más o menos obvio: el Estado de Derecho, que Hayek no solo admite sino que promueve, es sin duda un tipo de planificación y, por definición, de control sobre la vida de los individuos. Justamente por ello, los liberales buscan un Estado mínimo, pues consideran que toda regulación coacta la libertad, que es su bien cardinal.
+
+Sin duda, Hayek plantea su modelo prácticamente *ex-nihilo*; es decir, asumiendo que es posible establecer primeros principios en un vacío normativo pleno de posibilidades. Tal vez por ello, no contempla la muy tenaz y muy ubicua presencia de la corrupción social.
+
+Un acierto del escritor peruano es señalar que la corrupción es un fenómeno transversal al eje Estado democrático-Estado autoritario, y ciego a las diferencias de desarrollo. Y si bien su diagnóstico es más bien un cliché ("los valores morales se han desplomado"), no por ello es menos cierto: los mecanismos de regulación social en una sociedad libertaria dependerán en gran medida de valores compartidos, como contraparte de leyes duras por parte del Estado. Lo que nos lleva a la paradójica situación de considerar como deseable la homogenización cultural, ya que sin ella el nivel y tipo de valores compartidos no asegurarían un control social eficaz y constructivo.
+
+Lo irónico de todo esto es que, según esta lógica, una sociedad liberal auténtica y pura funcionaría mucho mejor entre individuos axiológica, cultural y (quizás) incluso biológicamente emparentados. Es decir, *la diversidad marcharía en dirección contraria al liberalismo.* Sin embargo, los integrantes de esa sociedad hipotética tendrían una especie de ilusión social compartida: al empezar la vida imbuidos de un marco cultural y valórico homogéneo, tenderían a pensar que, en efecto, se hallan obrando conforme a su voluntad y que, por ende, son libres y que el modelo social libertario funciona. Siendo que en realidad solo están actuando según el dictamen preestablecido de creencias inculcadas mucho antes de que su aparataje lógico fuera entendido por la interacción social y el posible debate público.
+
+*"Sin sólidas convicciones morales, el liberalismo no funciona"*, nos ratifica MVLL. Esas convicciones morales, por supuesto, son coacciones, pero al venir del interior, en vez del exterior, y ser anteriores a la formación del *self* crítico de cada individuo, en vez de colisionar con un aparataje crítico ya instalado en la juventud y adultez, parecen y se sienten parte del yo mismo. Por esta vía la socialización esquiva la capacidad de análisis del individuo y genera la ficción de la libertad y del criterio moral propio. (Por supuesto, este es un mecanismo general, y no se restringe al liberalismo.)
+
+Hayek parece no diferenciar entre el socialismo a la europea (tal como fue practicado por, entre otros, los laboristas británicos) y el colectivismo soviético comunista. La razón de esta falta de discriminación entre uno y otro es que FAH no creía que en el fondo ambas formas de ejercicio político fueran auténticamente distinguibles. Para él, a la larga, y de forma independiente de su voluntad en uno u otro sentido, todo colectivismo y/o intromisión en la vida económica libre está condenada a liquidar la libertad y el pluralismo político.
+
+(Curiosamente, me pregunto cuánto durarían los partidos políticos no liberales en una sociedad gobernada por un libertario, habida cuenta de que este los consideraría directamente enemigos de la Civilización y de la única forma saludable de sociedad. Posible es que la famosa paradoja de la tolerancia —¿el tolerante debe extender la tolerancia incluso a quienes buscan su aniquilación? O, en paradójica reacción, ¿suprimirlos, dejando así de ser tolerante?— se sienta de forma especialmente aguda en tal escenario.)
+
+Hayek admiraba mucho a von Mises, aunque nunca fue literalmente su alumno. Milton Friedman le suscitaba algunas críticas —era su menor—, las cuales le fueron retribuidas por este. Sin embargo, está muy claro que eran todos economistas liberales separados tan solo por matices.
+
+En su concepción, una vez que el "prurito" planificador es ejercitado desde el Estado, irremisiblemente se despliega, incluso si los gestores estatales no pretenden hacerlo, y eventualmente se llega a alguna forma de autoritarismo, como el de los nazis o los estalinistas.
+
+Parece bastante obvio que los intelectuales, como cualquier otro ser humano, tienden a ser bastante influenciados por sus experiencias personales. La traumatizante experiencia de la guerra no parece desaparecer casi nunca de los escritos de Hayek, al menos no de aquellos en los que se asume su propia opinión.
+
+Así como no analizó en detalle el impacto de la corrupción, menos aún lo hizo con el fenómeno del terrorismo. Esta observación es, si se quiere, una irrupción de la coyuntura en el libro, pues al momentoi de su redacción (¿2006-2008?) múltiples atentados desgarraron importantes ciudades europeas, como París, Madrid y Barcelona, así como Nueva York; el escritor peruano no deja de mencionar al "islamismo fanático" como el origen de este mal en especial. La pasión de MVLL por el liberalismo se desata cuando, en vez de sencillamente deplorar la calamidad humana acarreada por los terroristas, se esmera en indicar que puede, a fin de cuentas, ser usado como pretexto o justificación para que el Estado intente interferir en la esfera privada, llegando incluso a lo económico.
+
+¿En serio, don Mario? ¿Lo más relevante no era la muerte y la afectación humanas, sino la diabólica intromisión estatal en la marcha de los asuntos de los ciudadanos?
+
+En el capítulo "El Final de la Verdad", de *Camino de Servidumbre*, FAH distingue, a propósito de un análisis de la desinformación (aunque al parecer no usa tal término), entre dictaduras y totalitarismos. Mientras que las primeras anhelan ante todo monopolizar y usufructuar del poder (regodeándose en más de un delito en el proceso), los regímenes totalitarios van más allá. Dogmáticos, buscan persuadir a todo costo al gran público de la certeza y validez de su propia ideología. Es, por lo tanto, la suya una imposición triple: material, política, y también ideológica. Esta última sería perpetrada mediante mecanismos perseverantes de propaganda sostenida y ubicua, reforzada desde las fuentes de información oficial y las de la educación en todas sus variantes. Es la insistencia, la convivencia interna y la proscripción directa de cualquier alternativa intelectual, lo que se usa en los totalitarismos para tratar de persuadir al ciudadano promedio de que la ideología del régimen es la respuesta al viejo sueño de la visión omnicomprensiva, que todo individuo secreta e íntimamente espera y asume.
+
+Todo esto, por supuesto, es cierto: la censura de los medios masivos, la prohibición de la discusión universitaria, y cualquier contenido de entretenimiento distorsionado por el dogma, son a menudo la marca del totalitarismo.
+
+Hayek admite que, en el terreno de la opinión y elaboración intelectual, la libertad es igual de necesaria aun cuando los beneficiarios sean en general restringidos en número y especializados en oficio. Su poca cantidad no debe ser justificación para que la libertad de pensamiento sea coactada, bajo el pretexto de la regulación especializada o profesional.
+
+Mientras escribo estas líneas, en 2026, el régimen fujimorista, que bajo diversos embozos ha ejercido predominio desde al menos una década, acaba de recibir el espaldarazo electoral y su líder, KF, se convertirá dentro de poco en la Presidenta del Perú. Como adelanto de su política, la mayoría parlamentaria que encabeza su facción acaba de lanzar precisamente este tipo de ofensiva regulatoria contra su gran enemigo: el pensamiento crítico, bajo la forma de una reformulación del sistema de colegiaturas profesionales.
+
+Esto nos plantea un dilema: si, en realidad, la libertad individual es una ilusión, ¿debería tolerarse su coacción, puesto que, al fin y al cabo, lo único que importa es el ejercicio de poder por parte de las ECOs?
+
+Es evidente que, desde el fondo del *self*, la respuesta emitida será siempre "no". Pero podría tratarse de un simple espejismo de la voluntad y un rezago primitivo del instinto de preservación. Como un enfermo febricitante negándose a aceptar la necesidad de amputársele un miembro, como única salida hacia la supervivencia. ¿Deberemos ser como los filósofos estoicos, sonriendo mientras nos quiebran la pierna, diciendo: "te dije que la ibas a romper"[^epic]?
+
+[^epic]: Orígenes (*Contra Celsum*), un apologeta cristiano, es quien refiere esta anécdota acerca del filósofo estoico Epicteto, con casi total seguridad falsa (el griego sí que tuvo afectada una pierna, pero al parecer a resultas de una enfermedad y no de la tortura de su antiguo amo).
+
+La cuestión ante nosotros es de la máxima importancia. Si la libertad individual no es, como creemos aún hasta este instante, sino una ilusión práctica, y en el fondo, solo un subproducto limitado de la libertad organizacional —la única que realmente vale, opera y se toma en cuenta—, entonces ¿qué importa que nos arrebaten la libertad de pensamiento, entre otras? ¿No será sino una renuncia? ¿No será que es éticamente correcto o defendible, incluso, que lo hagan?
+
+Retruquemos esta cuestión con otra: ¿es válido hacer sufrir a un animal? Mi buen *Hegel* —mi mascota, un *schnauzer* de docilidad vegetal y obediencia ciertamente canina— sufrió tan atrozmente al fin de su vida que hubo de eutanizarlo (acción que, dicho sea de paso, aún está vedada hoy para los humanos, cuyo sufrimiento inútil parece tenerse menos en cuenta que el perruno, quizás con razón). Nos importó su sufrimiento, hasta el punto de sentirlo como intolerable para nosotros mismos.
+
+Ahora bien, incluso los más ardientes animalistas admitirán que el sufrimiento humano es inaceptable. La base para rechazar el maltrato y la privación a un ser vivo es que aquel ser vivo es capaz de *sentir* tales acciones.
+
+Ante el sufrimiento, la respuesta ética es tratar de minimizar su origen y/o su efecto. Sin importar lo sustancial, si la causa del dolor es una representación mental, lo ético es no agravarlo y, de ser posible, suprimirlo. Esto puede lograrse, en ese último caso, o bien mediante la reflexión acerca de la auténtica significancia e implicación de los fenómenos (físicos o ideales) que enfrentamos, o bien mediante la supresión directa del origen, si esa es la vía más eficiente.
+
+Por lo tanto, arrebatar la percepción de libertad de expresión y pensamiento del individuo, por más que esta sea, en el fondo, una ilusión, es censurable e inmoral. Si nuestro querido abuelo, en agonía, nos pide orar por él a su lado, el deber moral es hacerlo, aun si en el fondo fuéramos ateos.
+
+Hayek, por otro lado, apunta a otro aspecto: la libertad de expresión y pensamiento es gozada por una selecta minoría, asumiendo que la mayor parte de la gente no se dedica a la producción intelectual. Claramente, la proporción relativa de afectados no debe ser un criterio justificatorio para ningún tipo de coacción, por lo que este tipo de argumento me parece más bien obvio y hasta algo redundante.
+
+## La Constitución de La Libertad (1960)
+
+Es considerado por MVLL como su libro más importante. Sin embargo, admite que "no es fácil de leer". Probablemente porque el volumen contiene proposiciones analíticas más puras y, por lo tanto, más densas y menos amigables con el lector, que libros anteriores. Además no está escrito en su alemán nativo, sino en inglés. Su objetivo es describir y analizar la trayectoria seguida por el concepto de libertad, desde el principio de la civilización hasta su momento contemporáneo, y cómo la libertad, en cuanto valor, fue permeando prácticamente todas las instituciones y actividades humanas, hasta llegar a ser parte de la definición misma de individuo.
+
+Sin embargo, la segunda parte está dedicada antes que nada a criticar la novedad del Estado de Bienestar (*Welfare State*), y cómo, bajo el pretexto de mejorar la vida de los individuos, el Estado acaba interviniendo en ella. Según FAH, este intervencionismo estatal gana terreno de manera casi imperceptible en naciones como Inglaterra, Alemania o los Estados Unidos. Lo que agrava esta situación es que los individuos mismos consienten a ello en virtud de los fines supuestamente prosociales del Estado. Cita el caso de la cobertura de salud y la seguridad social como ejemplos de problemas que pasan a ser insolubles pese a las buenas intenciones iniciales del Estado y sus agentes.
+
+Para Hayek, la intervención estatal en esas arenas (que según él han sido originalmente privadas) termina generando una crisis del impulso empresarial de los individuos, "sumiendo a la sociedad en un letargo estatista." Llega a defender la desigualdad, la cual es una consecuencia lógica de sus ideas. Esto habla bien de su coherencia pero mal de su sensibilidad.
+
+Hayek no me impresiona como un pensador especialmente sutil. De nuevo insiste en que la igualdad ante la ley de todas las personas no equivale a eliminar las diferencias individuales, que a su vez generan diferencias de participación en la vida económica y, claro está, eventualmente diferencias en privilegios y riqueza (o en los privilegios de la riqueza). ¡Pero eso es más o menos obvio! Sin embargo, de esto se supone surge un acicate para que el individuo se esfuerce en acumular utilidad.
+
+Lo que me parece claramente incomprensible es por qué Hayek, siendo el agudísimo economista que fue, no es capaz de entender que la acumulación de riqueza necesariamente genera una organización, y que esa organización es la que realmente pasa a constituir el auténtico agente de la acumulación y producción de bienes tanto como de utilidad. Cualquier individuo, por más genial y talentoso que sea, será incapaz de manejar un grado mínimo de riqueza sin generar algún tipo de ECO, capaz de hacerse cargo del éxito, manteniéndolo, aumentándolo, y proyectándolo hacia el futuro. Ello está inscrito en la lógica de la acumulación y en el *establishment* legal, de modo que es prácticamente imposible evitarlo.
+
+De hecho, cuando el individuo falla en generar una ECO que canalice y gestione la riqueza, esta invariablemente se deprecia, deslustra, decrece y eventualmente se pierde. La riqueza auténtica es imposible de mantener o acrecentar más allá de cierto límite primario dejando a las ECOs al margen.
+
+\dinkus
+
+En el enfoque hayekiano, los países en desarrollo deben tomar a los desarrollados como ejemplo a seguir. Creo que acerca de esto el buen Friedrich hubiera aprovechado mucho una lectura profunda del primer Haya de la Torre, aunque claramente tampoco es que se trate de una idea demasiado difícil de concebir. Por el contrario, es bastante evidente, y consiste, a saber, en lo siguiente: que la riqueza global no parece ser una actividad de suma positiva, sino más bien de suma cero, y que la dinámica geopolítica hace imposible que un país desarrollado sencillamente "copie la receta" para ser rico de las naciones ricas, como si se tratara de ejecutar un proceso en el vacío y el aislamiento, desde un punto cero. Por el contrario, claramente es lo opuesto: los países poderosos no dejarán que los subdesarrollados surjan de forma libre, sino siempre de acuerdo a sus prioridades y estrategia geopolítica y económica. Han ejercido, y seguirán ejerciendo, todo tipo de influencias e intervencionismos, llevando a cabo, a nivel planetario, precisamente el tipo de acciones que a Hayek le eran tan odiosas cuando se trataba de un Estado en relación con sus ciudadanos.
+
+Eso es tan claro y patente que realmente maravilla que Hayek no haya refutado o procesado de algún modo tal objeción a su modelo. 
+
+Por otro lado, para Hayek cualquier iniciativa igualitarista de parte de un Estado desembocaría sin atenuante posible en la pobreza de la nación que se atreviera a implantarla.
+
+Hayek indica que la libertad económica conlleva necesariamente "cierta desigualdad", sin que ello signifique que deba tolerarse el privilegio o trato diferenciado con base en cualquier factor ajeno al talento y esfuerzo. Lo que impacta es la superficialidad del argumento. Basta reflexionar para entender que, al menos parcialmente, todo talento, esfuerzo o atributo personal es, al menos parcialmente, fruto de herencia, posición socioeconómica previa, simple fortuna y una serie de otros factores evidentemente no relacionados con el esfuerzo o la industriosidad o talento personales.
+
+De algún modo, cuando analiza el sistema educativo FAH parece entender que las diferencias educativas influyen grandemente sobre las capacidades futuras de los ciudadanos, por lo que parece recular en cierto grado en sus recomendaciones generales cuando se trata de la Educación Pública.
+
+Lo mismo afirma en relación a la actividad científica: aun si el Estado financia la investigación, no debería imponer ningún criterio o pauta. Lo cual puede calificarse como principista, pero poco práctico y a las peleas con la manera de funcionar del mundo capitalista. El Estado, como cualquier otra ECO, procura su propia supervivencia y prosperidad, lo cual no puede lograrse mediante inversiones sin retorno o, en el mejor de los casos, con retorno aleatorio.
+
+Obvio, según este enfoque, es que el Estado no puede promover la intolerancia —o al menos la intolerancia contra sí mismo—, por lo que la falta de imposición tendría ese límite.
+
+Especifica la diferencia entre conservadores y liberales: que los primeros incurren en reverencias al pasado, creyendo que en él se encierra la verdad, mientras que los liberales se orientan hacia un futuro siempre abierto de posibilidades. Además, critica el nacionalismo, por negativo y absurdo, mientras tolera el patriotismo, por positivo y constructivo. (El nacionalismo considera lo de la nación propia por encima —y eventualmente, en contra— de lo propio de otros países; mientras que el patriotismo consiste en la sincera apreciación de las tradiciones propias de la raíz nacional, sin que ello implique menosprecio ni primacía sobre lo relativo a otros países.[^pat])
+
+[^pat]: El Principio de Familiaridad, según lo descubierto por la Psicología, nos indica que todo lo que haya sido repetidamente expuesto a nuestra percepción terminan generando una actitud positiva que nos hace preferirlo. En consecuencia, la apreciación por lo que es propio de nuestra propia nación tendría tal origen espontáneo.
+
+Otra distinción es que el conservador considera cerrada la búsqueda de la certidumbre y del acierto, mientras que el liberal toma por transitorias y esencialmente irresueltas todas sus convicciones, lo que le permite dar cabida a cambios y mejoras de cara al futuro.
+
+Por último, los liberales tienden a ser agnósticos, mientras que los conservadores se orientan hacia la religión (*una religión*, en especial) como patrón ético y referente de cosmovisión. Aun entre aquellos liberales creyentes, prima la idea de mantener separadas religión y política, sin duda por el indicativo histórico, que apunta a que ambas esferas, al mezclarse, producen deflagraciones sociales.
+
+Pese a estas distinciones, que se quieren prístinas y claras, lo cierto es que en los EEUU y otros países la separación de conservadores y liberales no solo tiende a la porosidad —quizás como reflejo de la precariedad política y el fanatismo que, en distintas dosis y proporciones, aqueja a casi todas las sociedades del gran continente americano—; sino que la propia etiqueta de "liberal" puede llegar a ser usada para describir a activistas socialistas de izquierda, lo que habría escandalizado a Hayek.

@@ -1,0 +1,157 @@
+\newpage
+# José Ortega y Gasset {#ortega-gasset}
+
+<!--
+MIGRACIÓN DESDE TU .Rmd ACTUAL (LLT-JOG):
+Pega aquí el contenido del cuadernillo de Ortega y Gasset, ya transcrito y cerrado.
+Ajusta los niveles de encabezado un nivel hacia abajo (# -> ##, ## -> ###).
+-->
+## José Ortega y Gasset (1883-1955)
+
+Considerarlo un filósofo liberal, como lo hace MVLl es, hasta cierto punto, controversial, ya que en su momento Ortega rechazó las etiquetas de *izquierda* o *derecha*, y aunque no llegó a favorecer al régimen conservador de Franco, tampoco se mantuvo dentro del republicanismo en el que oficialmente militó. La violencia radical de este movimiento, así como su giro popular, terminaron por repeler al filósofo.
+
+JOG, aunque liberal, nunca dejó de identificarse con "la minoría selecta". Cabe subrayar que tal minoría no era, según él, selecta por efectos de alcurnia o fortuna, sino por la calidad intelectual.
+
+Cuando la Guerra Civil estalló finalmente, se sintió inseguro en el Madrid republicano, y optó por exiliarse[^exilio]. Pasó por Francia, por Argentina y por Portugal. Eventualmente retornó a España, donde el régimen franquista intentó usar su prestigio para sus propios fines; demasiado inteligente para dejarse manipular, nunca accedió y por ello fue vigilado y el oficialismo sospechó de él hasta su muerte.
+
+[^exilio]: Curiosamente, Ortega temió más a una España gobernada por los republicanos —hasta el punto de emigrar—, y no tanto a la España franquista, a la que de hecho volvió para quedarse, a pesar de todas las presiones del régimen.
+
+Solía escribir en periódicos y otras publicaciones; en realidad no produjo obras orgánicas donde su pensamiento se plasmara de forma integral y exhaustiva, como sí es el caso típico de, por ejemplo, los filósofos alemanes o británicos.
+
+## España Invertebrada (1922)
+
+Como solía ser su costumbre, Ortega compuso esta obra originalmente en entregas hebdomadarias en el periódico *El Sol*, de Madrid.
+
+En general, el filósofo predicaba la necesidad de "europeizar" España (había estudiado su posgrado en Alemania). En esto, fue confrontado por Unamuno, quien abogaba más bien por un enfoque más nacionalista: "Españolizar Europa". Para MVLL, esto último constituye "un disparate".
+
+En este, que fue su primer libro publicado, aplicó la que sería una estrategia constante de "acreción" en lo que toca a la producción intelectual.
+
+MVLL encomia la capacidad de Ortega para vaticinar las grandes tendencias que eventualmente tomarían el mundo occidental por asalto. (Lo mismo hizo a nivel nacional, cuando previó que los independentismos catalán y vasco se volverían dolores de cabeza para España.)
+
+Una idea interesante de Ortega es que critica a su país por haberse convertido en una entidad sin una existencia dinámica, "como un montón de piedras en el camino". Y es que para él, una nación es "un proyecto de vida en común", y por lo tanto, al carecer de elementos que incentiven, la Nación se marchita y muere.
+
+Para él, *"una Nación es un proyecto sugestivo de vida en común"*, *"(...) un plebiscito cotidiano."*
+
+Su aporte radica en resaltar los aspectos motivacionales y proyectivos (en suma, afectivos) del fenómeno nacional. Desde mi propio punto de vista, en efecto, la Nación como ECO se compone de una dimensión emocional tanto como de una dimensión cognitiva, pero también habría que añadir que una Nación puede consistir, por desgracia, también en una identidad negativa. **Una identidad negativa es aquella definida por lo que yo no soy, más que por lo que sí soy, en términos colectivos.** En el Perú por ejemplo, muchos se sienten peruanos sencillamente porque no son bolivianos, ni chilenos, ni ecuatorianos, etc. Este vacío de identidad positiva, propositiva y orgánica, se transforma en un espacio proyectivo donde se vuelcan los contenidos que yo mismo, y mi grupo de referencia, declaramos para la Nación.
+
+Considero, asimismo, que el problema con una Nación constituida a partir de un espacio proyectivo es que este es poblado con imágenes y afectos que no integran al otro y que —como suele pasar con toda proyección a partir de un estímulo infravalorado—, dice más de mí en cuanto entidad proyectante que de nada ni nadie más. Dicho de otro modo: tener una Nación vacía, con casi ningún referente bien establecido, genera proyecciones egocéntricas que acaban por ser base de desunión, exclusión y desencuentro, antes que de comunidad, inclusión y comunicación.
+
+Para JOG, el *gran relato de Castilla*, que aglutinó imaginaciones y afectos en el pasado, estaba marchito y extinto, y no había sido reemplazado por un proyecto alternativo. Sin un proyecto motivador y viable, España perdía integración e impulso nacionales.
+
+El proyecto de Castilla era la colonización y, contra lo que pudiera intuirse, no había sido propuesto y sostenido por la monarquía, sino por el pueblo español, llano y sencillo.
+
+Si bien es cierto que todos los indicios históricos nos informan que fue realmente el aventurero español de baja jerarquía quien resolvió la colonización en la materialidad y humanidad americanas, no deberíamos evitar el reconocimiento de la monarquía en cuanto entidad enmarcadora y reguladora. El *conquistador* fue, en efecto, parte del pueblo español, pero la articulación y estructuración del gran "proyecto colonizador" partió de la realeza.
+
+Ese proyecto de España, como es obvio, ya no existe para la época en que JOG escribe. Sin eso, el país se "desvertebra", es decir, literalmente, "pierde el espinazo". Ortega llegaría a decir, de su nación: *"peor que tener una enfermedad es ser la enfermedad."*
+
+## La Deshumanización del Arte (1925)
+
+Igual que con el volumen previo, esta es ante todo una recopilación de artículos previamente publicados.
+
+El tema es aquí la Estética. Ortega señala: *"las masas odian el arte nuevo, porque no lo entienden."*
+
+El arte romántico y el naturalista eran democráticos: cualquiera los entendía (al menos en un primer nivel de apreciación), y por ello eran favoritos de todos. Tal arte, según el filósofo, eran representaciones "exaltadas y sensibleras" de la vida emocional humana. Por ello, fueron de una popularidad que a cualquier artista contemporáneo le parecería asombrosa, además de envidiable.
+
+El "arte nuevo" (es decir, el de la época en que escribía, hace un siglo) no aspiraba a representar al mundo, sino a *crear otro mundo*, y esta nueva propuesta estaba mediatizada por un enorme trabajo intelectual. Lo cual crea un abismo entre los cultores del arte contemporáneo (apreciadores, críticos y artistas) y el gran público, incapaz de —y/o desmotivado para— emular esa elaboración intelectual de forma propia.
+
+Para Ortega, lo que el gran pueblo apreciaba en el arte romántico y naturalista era justamente lo que menos tenía de artístico. La nueva propuesta artística tiene que ver con un plano distinto de realidad, generado por medio de técnicas exclusivamente artísticas. Este proceso es una deshumanización. Así, por ejemplo, Debussy "deshumanizó la música." En paralelo, Ortega considera dentro de la misma tendencia a Mallarmé, a Pirandello, a Proust y a Gómez de la Serna; y en la pintura, al expresionismo y el cubismo.
+
+*"De pintar las cosas, se ha pasado a pintar las ideas"*, sentencia. Y añade: *"el artista se ha cegado para el mundo exterior, y ha vuelto su pupila a los parajes internos y subjetivos."*
+
+Otras tendencias que engloban a este nuevo arte (además de la "deshumanización"): la evitación de la vida real, la concepción del Arte en tanto juego; el rechazo de la falsedad (¿aludiendo al artificialismo?), y la concepción del arte como ultimadamente intrascendente. A diferencia de las generaciones previas, el "artista nuevo" no aspira a tener impacto político o social alguno, habida cuenta de que entiende al Arte como una actividad que se da enteramente en otras dimensiones.
+
+Más bien, este Arte nuevo aspira a divertir y a impresionar, más que a cuestionar al espectador (decidor el uso del término "espectador", el cual implica que todo Arte viene a ser espectáculo).
+
+Lo que más me impacta es esta extraordinaria combinación de sensibilidad y abstracción (ambos tienden a excluirse mutuamente en la mentalidad humana; no así en Ortega); su conceptualización del Arte fue suficientemente certera como para sobrevivir incluso décadas después de su muerte.
+
+Vargas Llosa aprovecha la ocasión para enfatizar que estas tendencias no solo se universalizaron algunas décadas después, sino que se extremaron hasta el punto de vaciar muchas pretendidas "expresiones artísticas" de toda calidad y mensaje, llegando, en algunos casos, a convertirse en simples embauques.
+
+## La Rebelión de Las Masas (1930)
+
+Premisa: ya se acabó la supremacía de las élites. Las masas irrumpen en el escenario social (o mejor dicho cobran protagonismo, pues estuvieron siempre ahí) para determinar, de ahora en más, el curso de los acontecimientos.
+
+Es una reacción (y anticipación, en buena parte) a la emergencia del fascismo, el comunismo, el nazismo, el sindicalismo, y apunta a un "rasgo clave de la vida moderna" (Vargas Llosa).
+
+En este punto debo acotar mi punto de vista: *las masas no son, en realidad, agentes sociales, porque no tienen la eficiencia de acción necesaria*. La masificación no es más que la punta del iceberg. Lo que hay detrás es siempre algún tipo de colectividad u organización, quienes son las que realmente tienen agencia. El individuo, la mayor parte del tiempo, tan solo expresa a una organización, y carece de toda originalidad que pueda particularizarlo en cuanto persona.
+
+Ortega criticaba esta masificación de la cultura en nombre de la defensa del individuo. En su óptica, los derechos individuales se ven amenazados por la imposición de la muchedumbre.
+
+Hay que enfatizar algo: el concepto de "masa" en el planteamiento orteguiano no tiene que ver con la clase social, y no coincide para nada con la ideología marxista. Es más bien la oposición factual y lógica a la noción de "individuo", y es transversal a todas las capas de la sociedad. Lo único —pero poderoso— que las une es su voluntad de desindividualizarse, su afán en funcionar en términos "tribales"[^tribu]. Resalta JOG que, una vez en ese status, las personas actuarían en función de emociones y pasiones, declinando de su propia identidad en función de la colectividad del caso.
+
+[^tribu]: En nuestra propia propuesta —que de hecho no hay tiempo de detallar aquí—, también usaremos el término "tribal", pero le asignaremos un sentido enteramente distinto. Aquí sigo el planteo orteguiano y por eso entrecomillo.
+
+Incluso MVLL admite que este filósofo era elitista, pero a la vez "democrático". Según él, es posible ser demócrata en lo político, y elitista en lo cultural. Yo me pregunto cómo haría Ortega para compartamentalizar sus valores.
+
+\dinkus
+
+Ahora toca cuestionarme: ¿la expresión artística debe estar reservada a una élite, sea esta intelectual, sensible o de otra índole? O por el contrario, ¿debe estar abierta a cualquiera, con prevalencia democrática para el artista popular?
+
+La entraña de esta cuestión llega hasta la noción misma de "Arte". ¿Es el Arte —así, con mayúscula— la expresión de una ECO o la de una persona?
+
+El Arte solo es tal si corresponde a la expresión de una persona, incluso más que un individuo. Una ECO no siente, y por lo tanto es incapaz de generar Arte. El "Arte" de una IA es, precisamente, el ensayo repulsivo de una ECO tratando de imitar a una persona. Por eso se "siente" tan anómalo y repulsivo.
+
+\dinkus
+
+Volviendo a Ortega: para MVLL, su elitismo tiene que ver con su cosmopolitismo, la creencia de que la auténtica cultura no respeta fronteras. Se trataría, en consecuencia, de un filósofo antinacionalista.
+
+Plantea además que la Historia es la realidad del hombre. Ello implica que el ser humano se construye siempre, en forma perpetua, incluso si su realización está totalmente inscrita dentro de aquello que para nosotros constituye el Pasado. La razón es que la Historia es inasible; lo que es accesible al humano es la historiografía, y esta implica, necesariamente, preselección y filtro, guiados por un sesgo previo. La Historia, tal cual, es multívoca, mientras que el Pasado es una cosa monstruosa, invisible, incomprensible e irrepetible. Hay que cribarlo, limpiarlo y pulirlo; es decir, darle forma. Y cada quien le dará la forma de sus ideas y concepciones, tanto las previas como las nacidas en interacción con ese fenómeno histórico complejo.
+
+Dentro de su esquema, *"hacer y escribir Historia es interpretar"*, y *"la Historia no está escrita, es solo humana"* (es decir, no está prestablecida según algún tipo de lógica previa; en esto el español se ubica al lado de lo que eventualmente afirmaría Popper y en contra de Hegel).
+
+\dinkus
+
+Sí, la Historia se realiza en exclusiva a partir de un filtro humano contingencial, pero lo *humano* no proviene de un individuo, sino de las organizaciones humanas, es decir, de las ECOs. Entidades colectivas, hasta ahora humanas. O mejor todavía: relativa o parcialmente humanas.
+
+La IA, a fuer de sistematización, omnicomprensión y eficiencia, está deshumanizando al principal agente social: las ECOs. Cuando esta deshumanización llegue a su cima, los *individuos* quedarán socialmente extintos y solo quedarán *personas*, aquí y allá, desperdigadas, tratando de rescatar un significado propio[^indiv].
+
+[^indiv]: En nuestro planteamiento de las ECOs, llamaremos *personas* a los seres humanos en contexto grupal, mientras que llamaremos *individuos* a los seres humanos en contexto organizacional. 
+
+\dinkus
+
+La propuesta de Ortega, según la cual *"todo es posible en la Historia"* es verdadera, si se asume la Historia como Pasado, es decir, mera sucesión de hechos. Pero esta sucesión de hechos es intangible para la imaginación y afectividad humanas: es un caos inasible, una sucesión y simultaneidad incontables, incognoscible para nuestras mentes. 
+
+Pero esta misma propuesta puede ser falsa, si asumimos la Historia como relato coherente con sentido humano. Para el ser humano solo existe lo que tiene sesgo emocional y cognitivo; el resto es imperceptible e inactuante. En este sentido, la Historia está restringida a lo que puede ser humanamente digerible, lo legible para nuestra alma. De todo ese amasijo de eventos inaprensibles, el ser humano solo es capaz de escoger, y solo puede escoger lo que para él tenga sentido.
+
+\dinkus
+
+Ortega no incluye en sus escritos grandes observaciones en relación al liberalismo en su sentido económico. Puede ser que, siguiendo a MVLL, este desdén orteguiano hacia la Economía sea generacional, pero en su caso tiene una explicación adicional plausible: probablemente considera esa dimensión demasiado pedestre.
+
+Una pequeña joya profética del libro: JOG considera que los EEUU, con todo su auge económico, están condenados a no desarrollar una ciencia crítica como la de Europa. En el tiempo en que Vargas Llosa escribe (antes del 2018), esto parece patentemente falso. Pero en el tiempo en que yo escribo esto (2026), parece claramente cierto y profético.
+
+La concepción que Ortega tiene de la cultura es elitista y aristocrática. Por momentos escuchamos en su voz los ecos de un adherente del *ancien régime*, lamentando la toma del poder por los plebeyos.
+
+El declive de lo científico ante lo tecnológico es, sin duda, un hecho favorecido por la masificación y la capacidad adquisitiva incrementada del mercado norteamericano. Y confundir una cosa por la otra es un síntoma de masificación, como lo son la ramplonería en el gusto estético y la adopción del semejante como referente.
+
+Ortega ve en el nacionalismo el mero esfuerzo multitudinario en acción; yo veo a las ECO nacionales ejerciendo su poder. A ambos —él y yo— nos disgusta, aunque por razones distintas.
+
+Si una Nación es un plebiscito ratificado a diario por la masiva sujeción a las instituciones y costumbres, ¿qué es el Perú? Un plebiscito en el que se desaprueba cada minuto la propuesta histórica de un ordenamiento común.
+
+El *Epílogo para Ingleses*, con el que se inicia el libro, fue escrito siete años después, en plena Guerra Civil Española. Ortega se manifiesta en contra de los comunistas españoles que conminan a escritores a firmar manifiestos, y opositor también de los reportes extranjeros sobre los asuntos internos de un país, lo cual puede tener efectos terribles en la marcha de este. Para Vargas Llosa esto es inadmisible, pues equivaldría a censurar la libertad de expresión internacional que, según él, tiende a ser más certera que la de los mismos nacionales de un país, al desenvolverse desde una sana distancia y libre de la censura.
+
+Como suele ser el caso, Ortega vivió el conflicto desde una óptica muy diferente a la de los observadores externos, siendo testigo de males que la idealización foránea acomodaba o pasaba por alto. Esto lo llevó a no tomar partido por ninguno de los bandos.
+
+Aun así, según testimonios directos, parece que llegó a preferir —o a rechazar menos, como quiera entenderse— al franquismo, lo cual lo haría blanco de crítica incesante incluso luego de morir.
+
+De las desgracias que puede acarrear un país a sus nacionales, no es la menor forzarlos, con sus crisis extremas, a asumir posiciones extraordinarias y alejadas de la identidad y los valores que estos anhelan practicar.
+
+\dinkus
+
+Después del fin de la Segunda Guerra, Ortega regresa a su país pensando que podría contribuir a su modernización, pero termina teniendo que defenderse de los intentos, por parte de los falangistas, de utilizarlo en favor del régimen. Acaba viviendo una especie de exilio interior hasta su muerte.
+
+## El Estilo de Ortega y Gasset
+
+"La cortesía del filósofo" es escribir de manera legible y accesible a cualquiera, y de forma amena. Ortega era ciertamente ampuloso y literariamente coqueto, hasta el extremo de la afectación. Más de uno le llegaría a criticar por el engolamiento de su estilo, llamándolo literato y periodista antes que filósofo.
+
+Era un elitista de vocación democrática, y quería llevar sus mensajes a la generalidad. Quería hacerse entender de todo el mundo, sin llegar por ello al extremo de reducirse a lo divulgativo.
+
+También adivinó la creciente distancia que existiría entre el Arte Moderno y el gran público, uno más de sus vaticinios cumplidos.
+
+## Ortega y La Guerra Civil Española
+
+JOG originalmente había apoyado a los republicanos, pero la violencia que acompañaba al enfrentamiento de estos con los falangistas lo horrorizaría y generaría su distanciamiento.
+
+Muchos izquierdistas lo acusaron, posteriormente, de haber sido un franquista secreto. Falso, según MVLL.
+
+## Legado Político de JOG
+
+Vargas Llosa deplora la relativa incultura económica de Ortega, pero reivindica que el liberalismo no se reduce a una sencilla receta de gestión, siendo por el contrario un orbe de ideas que es preciso mediar y defender para que tales medidas concretas puedan, de verdad, instaurarse con éxito en cualquier sociedad.

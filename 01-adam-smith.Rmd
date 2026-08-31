@@ -1,0 +1,240 @@
+\newpage
+# Adam Smith {#adam-smith}
+
+<!--
+MIGRACIÓN DESDE TU .Rmd ACTUAL (LLT-AS):
+Pega aquí el contenido del cuadernillo de Adam Smith, ya transcrito y cerrado.
+Ajusta los niveles de encabezado un nivel hacia abajo:
+  - Donde tenías  #   ahora usa  ##
+  - Donde tenías  ##  ahora usa  ###
+El encabezado de nivel 1 (#) queda reservado para el título del capítulo, definido arriba.
+-->
+## Adam Smith (1723-1790)
+
+Poco o nada se sabe de los primeros años de Smith, salvo que su padre murió antes de que él naciera, y que tuvo una estrechísima relación con su madre. Nunca se casó, y tenía una excelente formación (probablemente autodidacta) en las lenguas clásicas.
+
+Su concentración (que lo llevaba a desconectarse por completo de todo lo que lo rodeaba, por largos lapsos cada vez) era tan intensa que más de una vez se encontró en medio del bosque, solo porque había salido a caminar y se había perdido en sus propios pensamientos, literalmente.
+
+De niño muy enfermizo y distraído, según referiría después el periodo más feliz de su vida fue el transcurrido en sus estudios superiores, entre Glasgow y Oxford. Fue muy amigo de David Hume, pese a que este era mayor que él por doce años; ambos eran escoceses.
+
+Aunque oficialmente nunca renegó en público de su presbiterianismo, luego quedaría claro que, si no era ateo, quizá fuera al menos agnóstico. En contraste, su entrañable Hume parece haber sido uno de los primeros ateos que admitieran públicamente su desafiliación del cristianismo.
+
+Smith nunca se consideró *economista*[^1], sino filósofo. De hecho, fue autor de diversos tratados sobre temas diferentes; en especial uno acerca de la estructura emocional humana, e incluso otro sobre la Historia de la Astronomía.
+
+[^1]: De hecho, el término parece haber tenido por entonces un significado diferente al que le damos hoy, más emparentado con los fisiócratas de Quesnay.
+
+Como Ortega y Gasset siglos más tarde, el escocés encomiaba el uso del lenguaje llano y directo para la exposición filosófica.
+
+En su época no era rara la convicción de que el afán de poseer era un "instinto". Una especie de "ímpetu natural", que estaba en la raíz misma de la generación de sociedades humanas. (Smith, parece, coincidía con esto.) En su consideración, la nobleza latifundista era la peor enemiga de la propiedad privada.[^2]
+
+[^2]: Curioso que en el siglo XVIII, un ilustrado como Smith llegara a la misma (o similar) cadena de ideas que Velasco en el Perú de los años 70.
+
+\dinkus
+
+## La "Historia Conjetural" de Lord Kames
+
+Kames fue parte importante de la Ilustración escocesa, junto con Hume y Smith. En su obra *Historical Law Tracts* (Tratados histórico-legales), propone la existencia de una relación entre la forma en que un pueblo o nación gestiona su sustento, y sus instituciones políticas, legales y morales.[^3]
+
+[^3]: Estas asociaciones o relaciones coincidirían con las de Karl Marx en el siglo XIX.
+
+Para Kames, la sociedad humana se desplegó a través de una serie de etapas, definidas según el modo predominante de subsistencia:
+
+1.  **Etapa de cazadores-recolectores**: sin casi leyes ni propiedad.
+
+2.  **Etapa de los pastores**: cuando se empieza a asumir el ganado como propiedad privada, y por lo tanto, surgen los primeros ordenamientos jurídicos.
+
+3.  **Etapa de los agricultores**: al asentarse en un terreno, la propiedad inmobiliaria se define. A fin de preservar y administrar este nuevo elemento fundamental de la vida social, la ley se hace más compleja y el razonamiento legal más intrincado (Kames era abogado; de hecho, "Lord" era un título legal).
+
+4.  **Etapa de los comerciantes**: como suele pasar con los historiadores, el punto del tiempo en que un autor se encuentra es asumido como la "culminación histórica." Para Kames, la etapa de los comerciantes lo era: la existencia de la moneda, los contratos y los procesos de manufactura genera un orden jurídico de alta formalización y enorme avance.
+
+Este esquema de "sociología evolutiva" fue tomado casi al pie de la letra por Adam Smith, quien se apropió de él y lo usó para enmarcar sus famosas conferencias de la década de 1760, así como su monumental *"De La Riqueza de las Naciones"*.
+
+\dinkus
+
+AS, presbiteriano en las costumbres aunque no tanto en sus creencias, pasó años enseñando en Glasgow, adonde llevó a vivir consigo a su madre y a una prima, quien le llevaba los cuidados prácticos de su hogar. Según MVLL, era austero, abstemio, y probablemente célibe. Nunca se casó ni tuvo novia.[^4]
+
+[^4]: Para quien quisiera ejercer la *Psicología ligera*: si bien Smith cumple con el estereotipo moderno de un "gay enclosetado" (ausencia paterna, devoción filial extrema a la madre, ninguna pareja), habrá que recordar que ese tipo de diagnóstico anacrónico no tendría base histórica alguna. A diferencia de otros casos, anteriores al igual que posteriores, en los que la predilección homoerótica es más o menos evidente, nuestro filósofo jamás evidencia tal tipo de conductas. Además, es necesario entender que antes del siglo XX en Europa, la castidad y la soltería permanente en hombres y mujeres no era extraordinaria ni implicaba necesariamente razones de orientación sexual. Para ellas, era más bien sensato no correr el riesgo de embarazos potencialmente mortales, y para ellos --sobre todo los *ellos* más acomodados y/o capaces, salvo que sobrellevasen las cargas de la primogenitura-- implicaba la posibilidad de una vida dedicada en exclusiva al estudio.
+
+Glasgow era en ese momento una ciudad de señalada prosperidad, debida, entre otras cosas, al comercio con las colonias norteamericanas. Esta excelente marcha de los negocios pronto llamaría la atención de Adam y se convertiría en objeto de su poderosa inteligencia.
+
+## La Teoría de los Sentimientos Morales (1759)
+
+Fue el primer libro que publicó Smith. Generado a partir del contenido de sus clases. El problema en que se centra es doble: *¿Por qué existe la sociedad humana?*, y *¿Cómo progresa?*[^5]
+
+[^5]: Este interés de Smith no es por entero ajeno a mis propias inquietudes en relación a lo que permite (o no) la vigencia sostenida de las sociedades humanas. La respuesta a ese dilema, por mi lado, pasa por el concepto de las *Entidades Colectivas Organizacionales* (en lo sucesivo usaremos con frecuencia el acrónimo ECO). Tan solo para evitar confusiones, y hcr más inteligibles algunas de mis acotaciones: mi propuesta teórica conjetura la existencia de tales entidades colectivas de carácter corporativo, para las cuales usaré igualmente el término *organizaciones*. Las *ECOs* se diferencian de los grupos, entre otras cosas, por la intercambiabilidad de sus integrantes. *ECOs* u *organizaciones* serán no solo las empresas, sino las instituciones, los Estados, y todo colectivo organizado cuyo alcance y constitución sobrepasen las características de un grupo y, por supuesto, de los individuos. Como es obvio, hay muchísimo más que discutir sobre esto, pero este no es el lugar para hacerlo.
+
+He aquí una esquematización (enteramente propia, no propuesta por Vargas Llosa, y ciertamente tampoco por Smith) de una de las ideas centrales del libro:
+
+$$SOCIABILIDAD = IMAGINACION + SIMPATIA$$
+
+A continuación, el modo en que entiendo algunos de los conceptos que a en este aspecto usa el filósofo escocés:
+
+**Sociabilidad**: es el "pegamento" que permite mantener unida a una sociedad.
+
+**Imaginación**: la teoría de la mente. Consiste en asumir que mi *alter* —mi interlocutor, en especial—, posee una mente por entero similar a la mía.
+
+**Simpatía**: según MVLL, en Smith esta palabra tiene "el sentido de la empatía".
+
+Si usamos la equivalencia arriba definida, podemos entender —con asombro— que Smith fue profético en su *insight*, el cual coincide con el *mainstream* psicológico actual. (Por supuesto, también es posible que solo esté yo proyectando la investigación psicológica actual sobre la filosofía de un intelectual antiguo.)
+
+Otro *insight* asombroso (que anticipa la idea de Steven Pinker en *How The Mind Works*) es que, para el escocés, esta combinación de teoría de la mente y motivación altruista se contrapone y supera a la razón como esencia de la vida social humana. Si la razón fuera, en serio, el motor exclusivo de la psique humana, no estaríamos motivados prosocialmente.
+
+Para propósitos de esclarecimiento, veamos por un momento la explicación del psicólogo canadiense.
+
+Pinker usa al personaje *Data* de *Viaje a Estrellas: Nueva Generación*[^6] para ilustrar su punto: si en realidad estuviera guiado en exclusiva por la racionalidad, le daría igual quedarse sentado calculando el billonésimo dígito de la secuencia de $\pi$, o derivando las últimas consecuencias de la filosofía de Heidegger. El hecho de que Data se levante de su asiento y se digne no solo a interactuar, sino a trabajar en equipo y proteger a sus camaradas es lo más asombroso y contradictorio en él. El hecho de que los espectadores no lo vean así es porque, quizás, dan la simpatía smithsoniana por sentado, al entender a Data simplemente como una réplica cibernética humana, y asumen que las emociones solo sirven para dejarse llevar por arranques afectivos de los que el androide carece. El punto aquí es que la afectividad es la base de la motivación y también del comportamiento moral.
+
+[^6]: En la serie de ciencia ficción de Roddenberry, *Data* es un androide que replica en apariencia (y en buena parte de su funcionalidad) a los seres humanos, con una diferencia saltante: se asume que no experimenta estados emocionales. Es decir, *Data* piensa, pero no *siente.*
+
+Para Smith, la bondad prevalece por sobre la maldad en la escena moral. Yo también creo que es así, a nivel interpersonal, no tanto por optimismo principista sino porque una sociedad donde se diera lo contrario no sería viable por mucho tiempo. El humano necesita confiar en las personas, ya que depende de ellas literalmente para sobrevivir; esta interdependencia mutua genera una solidaridad "de fondo", que permite la vida en común.
+
+Mi inquietud y mi cuestionamiento es: ¿sucede lo mismo a nivel inter-organizacional[^io]? ¿Y entre organización e individuo?
+
+[^io]: Entiéndase, en lo sucesivo, que el término *organizacional* y sus derivados se refieren a las ECOs, salvo indicación en contrario. 
+
+Creo que estos tipos de interrelación poseen cada uno su propio conjunto de reglas, y creo también que mucha desdicha ha surgido en la Historia como resultado de haber confundido los tres niveles.
+
+| Tipos de Interacción | Dinámica |
+|------------------------------------|------------------------------------|
+| ORGANIZACIÓN $\Longleftrightarrow$ ORGANIZACIÓN | Negociación / Consolidación / Competencia |
+| ORGANIZACIÓN $\Longleftrightarrow$ INDIVIDUO | Imposición / Paternalismo / Subordinación |
+| PERSONA $\Longleftrightarrow$ PERSONA | Solidaridad / Sanción social |
+
+\dinkus
+
+MVLL cita a Smith, cuando este hipotetiza que una persona que de pronto se encontrara despojado de toda credibilidad social —es decir, siendo considerado un embustero irredimible— "moriría de desesperación", y piensa que tal idea viene de un exceso de severidad moral por parte de Smith, y que en el mundo contemporáneo muchos sobrellevan tal mala fama respecto de sí sin excesiva dificultad o angustia.
+
+Me sorprende su cortedad intelectual: está claro que Smith postula que la existencia humana se da en un contexto de relación solidaria con el otro, y en ese sentido, *ser tomado por embustero equivaldría a perder el privilegio de la comunicación.* La persona tachada de mentirosa es seccionada funcionalmente del contacto con los demás; sin posibilidad de interrelación, esa vida se vaciaría de sentido humano. De ahí la insondable desesperación postulada en el párrafo de Smith; no se trata de una mera descalificación parcial y moral. AS es un filósofo y por ende sus conjeturas son planteadas desde el territorio de los absolutos y no de lo contingente.
+
+El escocés formula ya en el siglo XVIII las bases de un entendimiento del ser humano desde la vida social: *La Naturaleza ha generado en el hombre el impulso a ser considerado positivamente por su semejante.*
+
+\dinkus
+
+MVLL afirma que por pasajes este libro parece, alternativamente, "un manual de buenas maneras, un tratado ético, y un análisis de sociología". Bueno pues, tal multiplicidad es lógica dado que Smith escribía en una época anterior a esas categorías, y en su mente no estaban aún planteadas las distinciones artificiales de hoy.
+
+El filósofo escocés estaba en contra del nacionalismo; parece haber notado que, al dejarse llevar por tal sentimiento, las personas pueden llegar a negar lo que es cierto (por distorsión patriotera), o experimentar celos y otras emociones negativas frente a la prosperidad de países cercanos y rivales.
+
+Según MVLL, es en los escritos de este filósofo donde encontramos la primera proposición de la sociedad entendida como una entidad con dinámica propia, independiente de la simple suma de las voluntades de sus integrantes. Esa poderosa voluntad colectiva debe respetarse, si no se quiere el riesgo de la anarquía.
+
+Asimismo, innova mencionando o postulando la existencia de una especie de "juez interior"[^7], o consciencia: habla de "el gran recluso"; "el egregio residente dentro del pecho"; "el juez interior". Para AS este observador interno es imparcial, pero luego queda claro que en realidad no es más que el yo o *self* del individuo, al que somete a sentencias demasiado severas o, por el contrario, en exceso indulgentes, más de lo que cabría esperar de una entidad verdaderamente objetiva.
+
+[^7]: ¿No es acaso este concepto un precursor del *Superyó* freudiano?
+
+AS es, en este aspecto, esencial para el encuadre filosófico del pensamiento liberal, ya que permite postular al individuo como el "punto de origen" ético de toda colectividad, habida cuenta de que estas no serían más que agregaciones basadas en un conjunto de individuos.[^8]
+
+[^8]: Ojo, Smith habla de colectividades en el sentido amplio, no solo o no necesariamente de lo que podría considerarse como ECOs.
+
+En su visión filosófica, una acción virtuosa tiene un valor estético, además y más allá de su valor moral.[^9]
+
+[^9]: Curiosa "sinestesia conceptual", la de Smith. Quizás se deba a un exceso de santurronería, como parece implicar Vargas Llosa, ya que según este, el escocés escribe universalmente con elegancia y precisión, y no sería característico de un filósofo de su calibre la confusión en las ideas.
+
+Este libro fue considerado por el autor como la "niña de sus ojos", de entre todo lo que produjo. Puede que ello se deba a que nunca previó el enorme impacto de *La Riqueza...* en la posteridad del mundo occidental. Tenía buenos motivos para el orgullo: colegas como Voltaire, Kant, Hume y Edmund Burke aplaudieron la obra. Además, el resonante éxito del libro le consiguió un empleo que le permitiría dedicarse de lleno a la actividad intelectual y viajar a las zonas de Europa que más le interesaban  por su prestigio cultural.
+
+Tal prosperidad de Smith se debió al mecenazgo de un noble, quien le encargaría la formación de uno de sus hijos y, luego, como agradecimiento, le otorgaría una pensión vitalicia.[^10]
+
+[^10]: De nuevo aquí la importancia de tener la dimensión material resuelta. Cf. *A Room of One's Own*, de Woolf.
+
+\dinkus
+
+## Una Investigación sobre la Naturaleza y Causas de la Riqueza de las Naciones (1776)
+
+Se ocupa de muchos temas, más allá de lo estrictamente económico, y fue publicada al mismo tiempo que *Historia de la decadencia y caída del Imperio romano*, de Edward Gibbon.
+
+Célebre por ser la exposición más académicamente coherente y temprana acerca del libre mercado. Se enfatiza que el libre mercado no es una invención de nadie en particular, sino tan solo una característica emergente de las sociedades en que se desarrolla sanamente el comercio.
+
+Releo lo escrito y me queda claro que *sanamente* tal vez no sea el adverbio adecuado. Porque el motor de la economía así entendida es, sin discusión, el egoísmo, la codicia y la voluntad excluyente de las seres humanos, empezando desde el individuo.
+
+Lo cual me lleva al cuestionamiento de base: ¿Es posible que la propiedad emergente de un vicio —a saber, la codicia— sea moralmente bueno, sano y socialmente conveniente? *Does evil ever beget goodness?*
+
+¿Es acaso siquiera concebible que el egoísmo a nivel individual genere la virtud de la prosperidad a nivel organizacional? ¿Significa esto que "lo que es malo para el individuo, es bueno para la colectividad organizada"? ¿Implica esto que hay un divorcio radical entre el sentido moral y las finalidades entre individuos, grupos y ECOs?
+
+"El vicio egoísta de muchos individuos acaba generando la prosperidad de la sociedad." (No es una cita literal, solo parafraseo la idea.) Es un poco como decir que la paz en una comunidad es generada por el miedo general a la violencia homicida de cada individuo.
+
+¿Soy yo quien se equivoca? Según la mayoría de testimonios de quienes lo conocieron, Adam Smith fue un hombre moralmente correctísimo, y regularmente caritativo. Pues bien: si todos fuéramos como él, el libre mercado no existiría y la sociedad entraría en decadencia, al menos en lo económico.
+
+Un ejemplo: yo trabajo en una empresa, vendiéndole básicamente mi tiempo. Por una serie de eventos afortunados (sic), hoy me han concedido múltiples lapsos libres remunerados, lo cual redunda en la posibilidad de escribir este análisis. Eso es bueno para mí. Pero si estos "eventos afortunados" se reprodujeran para todos los demás individuos que trabajamos aquí, la empresa probablemente acabaría quebrando o retirándose del mercado.
+
+En otras palabras: una vez más, lo que es bueno para el individuo, es malo para la ECO; y al revés. Son entidades teleológicamente incompatibles, y a menudo opuestas y contradictorias. 
+
+Si yo quiero, por ejemplo, que la empresa en que laboro prospere, y la empresa, en tanto ECO, lo quiere también, el motivo es por entero distinto. Para mí, se trata de supervivencia personal, para la cual la prosperidad es mero instrumento. Para la empresa, es la supervivencia propia, y en consecuencia es un fin y un imperativo existencial. En tal sentido, será mucho más urgente para la ECO que para mí, y si es necesario, esta última no dudará en sacrificarme a mí si se desde el caso. Esta oposición o independencia, se da si hablamos del tipo religioso o nacional: la razón es que, incluso si el individuo decidiera, en cuanto miembro de la ECO, sacrificarlo todo, hasta su propia vida, por ella, su concepción de la finalidad de la ECO es inconmensurable con su posibilidad de concepción individual. Es decir, morirá por el sentido que él le da a la ECO, lo cual no srá —no puede ser—, el que la ECO se da a sí misma. Esa última concepción sería inimitable, inimaginable, múltiple y multívoca de una forma cualitativamente diferente de cualquier cosa que el individuo, en cuanto tal, podría concebir.
+
+\dinkus
+
+El hecho que el libre mercado permita que unas ECOs prosperen oprimiendo a otras ECOs, y a muchos individuos, es solo un subproducto de esta contraposición moral de base.
+
+Al menos hasta aquí, tenemos que aceptar que, consideradas desde el nivel de los individuos y la moral individual, el libre mercado es procedimentalmente y económicamente eficiente, pero ética y moralmente deletéreo.
+
+El hecho de que haya individuos que logran traducir en riqueza particular la opresión y gran ventaja económica de una o más ECO es solo otro subproducto de este orden o régimen social.
+
+MVLL defiende apasionadamente la libertad económica, en la creencia de que esta posibilita la realización y prosperidad del individuo en libertad, pero acabamos de ver que la libertad de las ECOs solo puede generar opresión para el individuo, y que en la dimensión moral, individuo y organización usualmente se oponen y siempre divergen.
+
+Si al hablar de la "mano invisible", Smith habla del efecto acumulativo de la codicia y el egoísmo coordinados de millones de individuos, esa "mano invisible" es además una mano culpable, inmoral y pecaminosa, que por propia admisión de Smith, no tiene en mente ni busca como objetivo el bien común, siendo un simple efecto de la marcha de las cosas.
+
+Hayek llamaría a este estado de cosas, mucho tiempo después, *orden espontáneo*. Surge, además de la codicia y del egoísmo, de la división de labores y de la aparición del Estado. Es decir, el libre mercado, la famosa "mano invisible", la división del trabajo, y otros aspectos del régimen económico liberal, son fenómenos de índole organizacional.
+
+Como corresponde a un liberal, MVLL aborrece los controles, los subsidios y el monopolio; es decir, los factores que puedan distorsionar la dinámica libérrima de los individuos desplegando su codicia y egoísmo. La verdad es que, más temprano que tarde, tal dinámica viciosa acaba desembocando en la formación de empresas, es decir, subdivisiones más o menos espontáneas de la sociedad como conjunto. Y son esas empresas (y otras variedades de ECO) las que terminan devorando y oprimiendo los elementos de valor económico presentes en los individuos. Y es entonces que la regulación del Estado debe intervenir.
+
+Quizás para compensar por esta acción económica sobre la sociedad AS predicaba la educación, incluso para los más humildes. Ciertamente, su tierno corazón se estrujaba ante la visión de los pobres; pero incluso la Educación gratuita[^11] es incapaz de asegurar la igualdad de estándar de vida, precisamente porque el mérito del libre mercado está en traducir la desigualdad en riqueza, de cualquier tipo.
+
+[^11]: ¿Lo llegó a formular en esos términos?
+
+La riqueza puede distribuirse según la competencia y capacidad, pero el valor asignado a las diferentes capacidades no es nunca ni exhaustivo ni complementario, sino arbitrario y socialmente definido y permanentemente regenerado, lo que equivale a decir que la pobreza y la desigualdad son parte consustancial del modelo; no accidentes que suprimir, sino el espinazo mismo de él.
+
+Smith fue un genio explicativo y descriptivo; intentó justificar sus hallazgos criticando el monopolio e implicando la necesidad de controles legales en el mínimo necesario, y deploró la miseria de tantos. Pero aun así, queda muy claro para todo lector aguzado que lo que describe es un modelo que funciona bien, que está verificado por la realidad, pero que tiene un costo: la miseria (absoluta y/o relativa) de muchos, y que premia la habilidad diferencial de unos cuantos (mientras menos sean, más ricos se volverán). De nuevo: todos los buenos deseos de Smith, todas las recapitulaciones de MVLL, no son suficientes para maquillar la realidad brutal del libre mercado humano.
+
+La libre competencia incrementa la calidad de lo vendido, y evita que las organizaciones lucren sin ofrecer algo valioso a cambio. El problema es que esto requiere, para desplegarse de forma ética, de un vacío social aséptico que en la realidad jamás se da[^haya].
+
+[^haya]: Cf. Haya de la Torre, V. R. (1936). El antiimperialismo y el APRA. Editorial Ercilla. Ni siquiera en su inicio histórico existió en Europa algo así como una tabla rasa donde la diferencia de capacidad fuera traducida limpiamente en asignación de riqueza mediante los mecanismos del libre mercado. Y ciertamente fuera de los países industrializados, ese libre mercado engarzado en el capitalismo fue incapaz de reproducir la lógica teórica propuesta por los liberales. Por el contrario, sólo consagró una dinámica imperialista que distorsionó sin remedio cualquier posibilidad de un liberalismo sin inequidades.
+
+Según MVLL, "los grandes beneficiarios de la Teoría de Adam Smith son los consumidores." (cita literal). Aún más que los productores, aunque estos también se benefician. Pero como yo lo veo, los mayores y más perdurables beneficios los gozan las ECOs. Son ellas las únicas capaces de "metabolizar" los márgenes de utilidad que el capitalismo genera, y sostener la producción dentro de los estándares de calidad y perdurabilidad que el libre mercado exige.
+
+Es el peligro de intelectualizar lo que es tan contingente.
+
+\dinkus
+
+> La propiedad que cada hombre tiene de su propio trabajo es la más sagrada e inviolable, puesto que es la base de todas las demás. ("De La Riqueza de las Naciones", Libro I, Cap. X, Parte II)
+
+Y sin embargo, el libre mercado fuerza a todo ser humano a vender esa propiedad sagrada que es su propio tiempo y su propio trabajo. *No hacerlo no es una opción.* En otras palabras, el libre mercado confisca el trabajo de las personas, y la única opción real que tiene el individuo es tratar de alinear al comprador de su trabajo con sus propias metas, motivaciones y prioridades, con escaso poder de negociación la mayor parte de las veces[^incomuni].
+
+[^incomuni]: Como ya hemos visto en párrafos previos, esta incomunicación esencial entre las finalidades y metas de individuos y de ECOs (recordemos que casi en exclusiva son las ECOs las grandes compradoras de la labor individual) no es ni resoluble ni negociable.
+
+En otras palabras: como individuo soy incapaz de negarme a vender mi trabajo. *Debo hacerlo.* Lo único que puedo elegir (y eso es muy relativo, habida cuenta de las innumerables restricciones y limitaciones que se dan en la "vida real" cotidiana) es *a quién* se lo vendo. Pero si mis circunstancias me son adversas, solo podré vender en condiciones desventajosas para mí.
+
+¡De alguna manera el libre mercado es compulsivo y confiscatorio!
+
+Nos dice Adam:
+
+> El patrimonio de un hombre pobre consiste en la fuerza y habilidad de sus manos, e impedirle el empleo de su fuerza y habilidad en la forma que considere apropiada, sin perjudicar a nadie, es una violación flagrante de la más sagrada de las propiedades. ("De La Riqueza de las Naciones", Libro I, Cap. X, Parte II)
+
+Y sin embargo, ¡Cualquiera que haya puesto un pie en la calle sabe que ningún individuo puede ejercer con absoluta libertad (incluyendo la opción de no venta) su fuerza de trabajo![^12]
+
+[^12]: Estoy consciente de que, en buena parte, incurro en anacronismo: el Smith despotrica aquí contra las disposiciones de su época, que le cedían a los gremios o *corporations* el control de cuándo y en qué términos ciertos tipos de trabajadores podían ofrecer sus habilidades al mercado. Sin embargo, sus afirmaciones, más allá de las particularidades, sí que aspiraban a enunciar principios generales, y es así que se asumen por sus lectores desde que fueron escritas.
+
+No estoy diciendo que las restricciones a la libertad de trabajo se deban necesariamente a la voluntad adversa de alguien (o de "algo"); lo que digo es que es lógicamente incorrecto lanzar un principio de este tipo y esperar que coincida con los hechos prácticos.
+
+¿Smith está acaso describiendo o *prescribiendo* la realidad?
+
+\dinkus
+
+**La División del Trabajo** existe —o no—, según la magnitud del mercado. En una localidad pequeña, disminuirá hasta casi desaparecer; por ello, para AS, residir en una ciudad es un beneficio, ya que permite a los individuos especializarse en una función u otra. Luego describe la emergencia del dinero como recurso, a partir de sociedades agropecuarias que luego pasan a ser sociedades mercantiles.
+
+El autor de "La Riqueza de las Naciones" dice que las mercancías tienen valor en función del trabajo que ha sido necesario para fabricarlas[^13]
+
+[^13]: ¿Y los recursos materiales consumidos y/o transformados?
+
+Cuando habla del precio, indica que el precio real es distinto al nominal; este último se fija en función de la abundancia relativa de "los metales invertidos en su producción".[^14]
+
+[^14]: ¿Y la demanda del mercado? ¿Y el precio de la oferta? MVLL parece delatar poca afición a los detalles económicos.
+
+Supuestamente, el autor de "La Riqueza de las Naciones" señala que los trabajadores bien pagados suelen trabajar con mayor satisfacción y eficiencia.[^15]
+
+[^15]: A mí me suena a que sabía el monstruo que existía y que debía describir, y trataba de suavizar su fiera apariencia con apelaciones a la deseabilidad social.
+
+"Los grandes enemigos del mercado libre son los privilegios", sintetiza el escritor peruano. Pero los privilegios son justamente uno de los principales subproductos del libre mercado. Sin restricciones, la acumulación del capital termina generando poder adquisitivo, social y político sobre los demás.
+
+"El mercado es frío, pues premia el éxito y castiga el fracaso de manera implacable" añade Don Mario. La bonhomía de Smith terminó, por ello, dedicando múltiples acciones caritativas para remediar la miseria de más de un pobre. ¿No veía acaso la enorme ironía de sus propias acciones? ¿No entendía que ese orden liberal generaba necesariamente la miseria que solo puede aplacarse con la limosna y el asistencialismo?
+
+Según MVLL, el filósofo se habría horrorizado de que hubiera gente que acusara su investigación de frialdad e insensibilidad; pero lo suyo, más que teoría, era descripción (por lo tanto, no veo el punto de sentir culpa).
+
+Queda claro que para el escocés los males sociales, como la pobreza, tienen su raíz en las distorsiones del modelo liberal, y no en el modelo mismo. Y así es. Lo cuestionable es considerar que tal modelo liberal pueda en algún momento, existir sin distorsiones, y persistir como la modalidad fundamental de la Economía de una sociedad sin generar monopolios ni parcelas de privilegio.
+
+*Se requiere competencia sin favoritismos, y el respeto a la propiedad privada*, se nos dice. Pero ese mismo respeto al triunfo de algunos y esa misma indiferencia al fracaso y pobreza de muchos, que son parte esencial del modelo, ¿en qué momento se convierten en monopolio y privilegio indebidos? ¿Quién tendrá la autoridad para decir *ya fue suficiente de competencia; tu éxito ha arrasado con tus competidores, es hora de que abandones el afán de ganancia y apagues el motor de tu codicia*?
