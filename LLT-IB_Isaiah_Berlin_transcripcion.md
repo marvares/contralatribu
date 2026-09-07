@@ -1,10 +1,19 @@
-# Isaiah Berlin {#berlin}
+# Cuadernillo LLT-IB — Isaiah Berlin (1909-1997)
 
-<!--
-Cuadernillo pendiente de transcripción.
-Cuando completes las sesiones de transcripción de Berlin, el contenido va aquí,
-con la misma convención de niveles de encabezado (## y ###).
--->
+> Transcripción de manuscrito. Documento de trabajo privado — no destinado a publicación ni a bases de datos públicas.
+
+---
+
+## [Página de enlace — LLT-RA21] (25/07/26)
+
+*Nota: esta página duplica el cierre de la sección de Raymond Aron (ya transcrita en el cuadernillo LLT-RA) y, en la misma hoja, da paso a la sección de Berlin. Se conserva íntegra por contener la transición.*
+
+entenderse como un modo de compensar sus viejas filiaciones comunistas.
+
+Cerrando la sección correspondiente a Aron, Vargas Llosa nos dice que muchos de los eventos de la actualidad le dieron la razón, pero no todos. Los obreros franceses han pasado a votar por Le Pen, pero el por entonces joven Macron, de centroderecha, logró imponerse electoralmente, y la intelectualidad francesa está bien lejos de la izqda.
+
+Tal vez, en coherencia con el esquema popperiano, uno no debería esperar y mucho menos medir el legado de un intelectual por su capacidad de anticiparse a un futuro histórico supuestamente inaprensible.
+
 **Isaiah Berlin (1909-1997)**
 
 Comparativamente hablando, las obras de Berlin solían estar dispersas, bajo la forma de artículos académicos, y pocas fueron lanzadas bajo el formato original de libros.
@@ -420,3 +429,45 @@ No practicó la disciplina de los proyectos largos, probable-
 *Nota: código escrito como "LLT-1B36". Esta página cierra el cuadernillo de Berlin y, bajo el mismo sistema de numeración correlativa, ya introduce al siguiente pensador (Jean-François Revel). Se incluye íntegra por ser la página de transición; el contenido a partir de "Jean-François Revel" pertenece propiamente al futuro cuadernillo LLT-JFR.*
 
 mente por el convencimiento íntimo de que lo que hubiera podido decir carecía de la trascendencia necesaria.
+
+**Jean-François Revel (1924-2006)**
+
+Vargas Llosa descarta con desparpajo a los "nuevos filósofos" franceses, destacando, en cambio, a Jean-François Revel en la arena intelectual.
+
+Se trató de un periodista y ensayista [palabra o nombre ilegible/tachado], capaz de distinguir los ejercicios retóricos útiles de aquellos que se alejan peligrosam. de la R' práctica. Lo compara a Camus y a George Orwell para la época contemporánea. Fue socialista, pero su objetividad le granjeó siempre críticas y antipatías, no solo de quienes estaban en puntos lejanos del espectro político, sino tb. de sus propios partidarios.
+
+Así pues, se distinguió por su "retorno a los hechos", y por el uso de ellos en cuanto criterio para evaluar la validez de las teorías y doctrinas políticas. Sin duda, muchos de los adherentes a la izquierda suelen incurrir en ese pecado capital que consiste en interpretar, a la luz ideológica, cada hecho considerado, hasta llegar al punto de desnaturalizarlo. En el Perú hemos tenido, por ejemplo,
+
+---
+
+## Notas de transcripción
+
+1. **Página de enlace (LLT-RA21):** duplica el cierre de la sección de Aron ya transcrita en el cuadernillo LLT-RA; se conserva aquí íntegra porque en la misma hoja arranca el encabezado "Isaiah Berlin (1909-1997)".
+2. **Sistema de numeración:** en todas las páginas del cuadernillo, la abreviatura "IB" (Isaiah Berlin) aparece trazada a mano como "1B" (el trazo de la "I" se confunde con el numeral "1"). Se homologa en esta transcripción como **LLT-IB** siguiendo la convención del sistema de referencia del proyecto.
+3. **Anomalía de prefijo:** la página LLT-IB23 lleva escrito el prefijo como "LLL-" en lugar de "LLT-" (probable lapsus de escritura). Se corrige tácitamente al sistema estándar, señalado en nota al pie de esa página.
+4. **Transición al siguiente cuadernillo:** la página LLT-IB36 cierra el cuadernillo de Berlin pero, bajo la misma numeración correlativa, ya arranca el desarrollo de Jean-François Revel (próximo cuadernillo, LLT-JFR). No se ha renumerado; se deja constancia para que, al migrar a bookdown, el contenido de Revel en esta página se traslade al archivo correspondiente a LLT-JFR.
+5. **Fechas:** la redacción se extiende del 25/07/26 al 03/08/26, sin lapsos ni saltos de fecha anómalos — progresión continua día a día con alguna página compartiendo fecha (p. ej., varias páginas del 27/07 y del 31/07).
+6. **Palabras/pasajes de lectura incierta**, marcados con (?) en el cuerpo del texto:
+   - "dicariamente(?)" (LLT-IB06)
+   - "vitral(?)" (LLT-IB07)
+   - "candelísima(?)" (LLT-IB12)
+   - "diálogo cabal(?)" (LLT-IB13)
+   - "remitido(?)" (LLT-IB13)
+   - "tórrido(?)" — epíteto aplicado a Brézhnev (LLT-IB15)
+   - "heterodita(?)" (LLT-IB21)
+   - "atractiva(?)" (LLT-IB24)
+   - "agnóstico(?)" — aplicado a "castigo de la vida" (LLT-IB24)
+   - "médula(?)" — en el sentido de "hazaña" o similar (LLT-IB25)
+   - "solventados(?)" (LLT-IB26)
+   - "macro Estado(?)" (LLT-IB26)
+   - "disociacionalidad(?)" (LLT-IB27)
+   - "Almirantazgo(?)" (LLT-IB27)
+   - "kilates(?)" morales (LLT-IB29)
+   - Nombre propio ilegible o tachado tras "Churchill con..." (LLT-IB26) y tras "Se trató de un periodista y ensayista..." (LLT-IB36).
+7. **Abreviaturas preservadas** conforme al sistema del proyecto: "Tb." (también), "xnos./xna." (cristianos/cristiana), "R'" (realidad), "MVLL" (Mario Vargas Llosa), "ECO/ECOs" (Entidades Colectivas Organizacionales), y las terminaciones "-m." usadas como abreviatura de "-mente" (p. ej. "claram.", "prácticam.", "socialm.").
+8. **Notación simbólica de Mart:** en la página LLT-IB16, Mart utiliza los símbolos "⊖" y "⊕" para distinguir libertad negativa y libertad positiva, respectivamente; se preserva tal cual en la transcripción.
+9. **Contenido de comentario original de Mart** (no directamente descriptivo de Berlin ni de MVLL) identificado en las páginas LLT-IB05 a LLT-IB07, donde se desarrolla una digresión propia sobre determinación biológica/social y negociación de la expresión de género, enmarcada dentro de la crítica a la noción de libertad ex-nihilo. Se conserva íntegra por ser parte del análisis original del autor.
+
+---
+
+*Documento de trabajo privado. No destinado a bases de datos públicas ni a uso de entrenamiento de modelos de lenguaje.*
