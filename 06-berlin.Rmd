@@ -1,3 +1,4 @@
+\newpage
 # Isaiah Berlin {#berlin}
 
 <!--
@@ -5,261 +6,153 @@ Cuadernillo pendiente de transcripción.
 Cuando completes las sesiones de transcripción de Berlin, el contenido va aquí,
 con la misma convención de niveles de encabezado (## y ###).
 -->
-**Isaiah Berlin (1909-1997)**
+## Isaiah Berlin (1909-1997)
 
-Comparativamente hablando, las obras de Berlin solían estar dispersas, bajo la forma de artículos académicos, y pocas fueron lanzadas bajo el formato original de libros.
+Lo que distingue a este ensayista es que la mayor parte de sus obras solían estar dispersas bajo la forma de artículos académicos, y pocas fueron lanzadas bajo el formato original de libros.
 
-De origen letón y de raíces judías —sí, también él—, Berlin fue un inglés de adopción, y llegó a ser catedrático de Oxford en la especialidad de Teoría Social y Política. Entre mediados de los años 70 y principios de los
+De origen letón y raíces judías —sí, también él—, Berlin se convirtió en británico por adopción, y llegó a ser catedrático de Oxford en la especialidad de Teoría Social y Política. (En esa casa de estudios permaneció toda su vida.) Entre mediados de los años 70 y principios de los
+2000, la obra de Berlin fue publicándose, organizados bajo la forma de volúmenes, según un criterio temático aproximado[^hardy].
 
----
+[^hardy]: Henry Hardy, quien fuera su alumno de postgrado de Filosofía en Oxford, y que de filósofo terminó dedicándose a la actividad editorial en la celebrérrima *Oxford University Press*, decidió corregir un hecho singular: su admirado Isaiah apenas tenía un par de libros publicados, en llamativo contraste con la poderosa reputación de que gozaba. Hardy entendió que, de mantenerse tal situación, todo el legado de Berlin se borraría con rapidez tras su muerte o su retiro. Ese fue el acicate para dedicarse a la edición sistemática de prácticamente toda la producción berliniana, tarea que le demandó en total varias décadas y la colaboración con múltiple coeditorers y especialistas. Fruto de esa labor alimentada por su admiración, nacieron obras como *Russian Thinkers*, *Concepts and Categories*, *Against the Current*, y *The Crooked Timber of Humanity*. (Hardy relataría esa titánica tarea en su libro *In Search of Isaiah Berlin*, de 2018.) Para el ensayista novel, hay motivo de envidia no solo en el enorme talento de Berlin, sino en su editor. 
 
-## [LLT-IB01] (25/07/26)
+El peruano compara a Berlin con Barthes y Foucault, y según su balance Isaiah los supera, pues sus ideas nunca se pierden en su propio vuelo abstracto, como sí sucede con las obras de esos autores franceses aludidos. (Cabría aventurarse a decir que esa tendencia, más que personal, es reflejo de un gusto nacional francés por lo especulativo.)
 
-2000, la obra de Berlin fue publicándose, organizados bajo la forma de volúmenes, según criterio temático aproximado.
+## Russian Thinkers
 
-Don Mario compara a Berlin con Barthes y Foucault, y según su balance Isaiah los supera, pues sus ideas nunca se pierden en su propio vuelo abstracto, como sí sucede con las obras de esos autores franceses aludidos. (Cabría aventurarse a decir que esa tendencia, más que personal, es reflejo de un gusto nacional francés por lo especulativo.)
+En libros como *"Russian Thinkers"*, Berlin logra hacer que las ideas sean las protagonistas, más que las personas que las formulan.
 
-En libros como "Russian Thinkers", Berlin logra hacer que las ideas sean las protagonistas, más que las personas que las formulan.
+El de Oxford apenas si aparece con voz propia en los múltiples volúmenes de ensayos que compuso. Su exposición equilibrada y objetiva, donde los puntos de vista aparecen expuestos sin sesgo aparente, contribuyen a dar esa impresión al lector.
 
-Berlin apenas si aparece con voz propia en los múltiples volúmenes de ensayos que compuso. Su exposición equilibrada y objetiva, donde los puntos de vista aparecen expuestos sin sesgo aparente, contribuyen a dar esa impresión al lector.
+Pero a todo su éxito como intelectual y docente, a haber sido proclamado *"Sir"*, y al creciente reconocimiento en sus últimos años, Berlin, según don Mario, no dejó nunca de sentirse como un judío expatriado, miembro de una colectividad aquejada históricamente por el prejuicio y la discriminación. Michael Ignatieff redactaría una biografía del ensayista, habida cuenta de que él mismo pareció haber resuelto no escribir autobiografía alguna.
 
-Para Vargas Llosa el sentido común y la ausencia de rigidez son los rasgos de un enfoque político realmente aplicable a la realidad concreta. Dice estar vacuna-
+Berlin nace en Riga, cuando Letonia era parte del Imperio Ruso, y aunque solo permanece en su país de origen hasta los doce años, ese lapso incluye a la Revolución Bolchevique, por lo que crecería con el trauma del sufrimiento y la imposición propias de las dictaduras, en especial las comunistas. Este anticomunismo lo llevó a acuerdos inambiguamente pro-Washington, incluso cuando, décadas después, trató de defender al gobierno estadounidense de las barbaridades que perpetró en Vietnam.
 
----
+Su actitud anticomunista —factor en común con todos los demás ídolos intelectuales del peruano reunidos aquí— llegó a extremos desagradables y claramente incoherentes con el pluralismo que decía defender, como cuando movió sus influencias para impedir que se le otorgara una cátedra a otro judío exiliado como él, solo porque era antisionista y de izquierda.
 
-## [LLT-IB02] (26/07/26)
+La discriminación violenta de la que fue testigo y eventual víctima durante su infancia y adolescencia le hizo sentir que, de entre las múltiples identidades y membresías que ya tenía o que pudiera llegar a tener, el ser judío era la preponderante por sobre todas las demás, además de ser irrenunciable e inocultable. Esto influyó en su visión del mundo y lo hizo sentirse un marginal en esencia por donde fuera que lo condujera la vida.
 
-do ya contra las utopías extremas.
+En contraparte, aun si era ateo, le gustaba ejecutar los ritos judíos como si fuera creyente, y era además un sionista que colaboró con al menos uno de los fundadores del Estado de Israel. También trabajó, casi en paralelo, con el *Foreign Office* británico, que a la sazón era proárabe, lo cual, sin duda, debió generar más de un conflicto de interés. (Por si hiciera falta, esto prueba, una vez más, que la enorme inteligencia de los judíos europeos, además de grandes ventajas sociales, acabaría por hacerlos muy valiosos para varios gobiernos del Primer Mundo.)
 
-Henry Hardy, quien fuera su estudiante de posgrado de Filosofía, se dio a la tarea de recopilar los numerosos ensayos que Berlin venía publicando, casi sin ton ni son, en múltiples revistas académicas. Fruto de esa labor alimentada por su admiración, nacieron obras como la ya mencionada Russian Thinkers, y Concepts and Categories, Against the Current, y The Crooked Timber of Humanity. (Hardy relataría esa titánica tarea en su libro In Search of Isaiah Berlin (2018))
+## Las Verdades Contradictorias
 
-Pero a todo su éxito como intelectual y docente, a haber sido proclamado "Sir", y al creciente reconocimiento de sus últimos años, Berlin, según don Mario, no dejó nunca de sentirse como un judío expatriado, miembro de una colectividad aquejada históricam. por el prejuicio y la discriminación. Michael Ignatieff redactaría una biografía del ensayista, habida cuenta de que él mismo parece resuelto a no escribir autobiografía alguna.
+En *"Las Verdades Contradictorias"*, Berlin critica el supuesto según el cual solo hay una respuesta para cada problema, y que en consecuencia todas las otras deben ser descartadas como erróneas. Señala además, que damos irreflexivamente por cierto que los ideales o valores de vida (como justicia, libertad, placer, etc.) pueden ser mutuamente compatibles.
 
-Berlin nace en Riga, cuando Letonia era parte del Imperio Ruso, y aunque solo permanece en su país de origen hasta los doce años, ese lapso incluye a la Revolución Bolchevique, por lo que crecería con el trauma del
+Si no hay una única solución a cada problema, y si los ideales de vida pueden ser incompatibles, entonces se sigue que deberíamos, en cuanto especie, practicar el pluralismo ideológico y la tolerancia, ya que no existiría ningún criterio por el cual deberíamos imponer, de forma universal, una única vía de solución a todos los problemas, y además las orientaciones axiológicas no podrían armonizar, para cada individuo, una única constelación de orientaciones.
 
----
+Sin duda se trata de un argumento muy inteligente, salvo que oculta un supuesto en sí mismo: a saber, que el individuo tiene la opción de elegir para su vida una "solución" y descartar todas las alternativas; y que para cada uno de nosotros existe una o más orientaciones éticas que podemos escoger con plena libertad, *ex-nihilo*, sin predeterminación alguna.
 
-## [LLT-IB03] (26/07/26)
+Pero, claro está, esa no es la realidad. Cada uno de nosotros lleva en sí, desde el inicio ---incluso in-uterino--- de la vida una serie de determinaciones. Estos niveles de determinación se van complejizando a medida que nuestra capacidad de análisis y nuestro repertorio posible de conductas se van ampliando, pero eso no significa que podamos elegir de entre ellas como si fuéramos escritores ante una página en blanco, decidiendo qué vida, creencias, valores, personalidades, corporalidades y circunstancias asignamos a nuestros personajes.
 
-sufrimiento y la imposición propias de las dictaduras, en especial las comunistas. Este anticomunismo lo llevó a acuerdos inambiguamente pro-Washington, incluso cuando se trató de defender al gobierno estadounidense de las barbaridades que perpetró en Vietnam.
+Sea que a nivel biológico seamos de sexo masculino, femenino u otro; que luego resolvamos ese sexo mediante algún tipo de expresión de género —alineado o no a las expectativas de la sociedad en que vivimos—, es ineludible una negociación entre los demás y uno mismo. Nadie "inventa" un nuevo sexo, ni un nuevo género desde el vacío. Lo que hace es recrear en su interior, vicariamente, los modelos genéricos que ya existen en la sociedad en la que se despliega su ser; o, por el contrario, propone una nueva instancia genérica, pero esa instancia, adicional en el panorama social, debe plantearse de tal modo, que sea socialmente digerible. No podría tratarse de un género expresado de forma indetectable o inaceptable para la integralidad social, porque el género es una transacción social para el consumo de los otros tanto como para el propio.
 
-Su actitud anticomunista —como prácticam. vs. los demás ídolos intelectuales del peruano reunidos aquí— llegó a extremos desagradables y claram. incoherentes con su pluralismo declarado, como mover sus influencias para impedir que se le otorgara una cátedra a otro judío exiliado como él, pero antisionista y de izquierda.
+En este escenario, pues, se advierte que no existe libertad absoluta, sino que forzosamente deberá ir tanto como pueda en la dirección de mi idiosincrasia como sea interpretable para los demás actores sociales con los que me relaciono, y es en esta tensión que negocio mi expresión de género.
 
-La discriminación violenta de la que fue testigo y eventualm. víctima durante su infancia y adolescencia le hizo sentir que, de entre las múltiples identidades y membresías que ya tenía o que pudiera llegar a tener, el ser judío era la preponderante por sobre todas las demás, y que además era irrenunciable e inocultable. Esto influyó su visión del mundo y lo hizo sentirse un marginal esencial por donde fuera que lo condujera la vida.
-
-En contraparte, aun si era ateo, le gustaba ejecutar los ritos judíos como si fuera creyente, y era además un
-
----
-
-## [LLT-IB04] (27/07/26)
-
-sionista que colaboró con al menos uno de los fundadores del Estado de Israel. También trabajó, casi en paralelo, con el Foreign Office británico, que a la sazón era prosárabe, lo cual, sin duda, debió generar más de un conflicto de interés. (Por si hiciera falta, esto prueba, una vez más, que la enorme inteligencia de los judíos europeos, además de propensidad marcial y grandes ventajas sociales, acabaría por hacerlos muy valiosos para varios gobiernos del 1er Mundo.)
-
-En "Las Verdades Contradictorias", Berlin critica el supuesto según el cual solo hay una respuesta p' cada problema, y que en consecuencia todas las otras deben ser descartadas como erróneas. Señala además, que damos irreflexivamente, por cierto, que los ideales o valores de vida (como justicia, libertad, placer, etc.) pueden ser mutuam. compatibles.
-
-Si no hay una única solución a cada problema, y si los ideales de vida pueden ser incompatibles, entonces se sigue que deberíamos, en cuanto especie, practicar el pluralismo ideológico y la tolerancia, ya que no existiría ningún criterio por el cual deberíamos imponer universalm. una única vía de solución a todos los problemas, y además las orientaciones valóricas no podrían armonizar, para cada individuo,
-
----
-
-## [LLT-IB05] (27/07/26)
-
-una única constelación de orientaciones.
-
-Ciertam., este argumento es sumamente inteligente, salvo que oculta un supuesto en sí mismo: a saber, que el individuo tiene la opción de elegir para su vida una "solución" y descartar todas las alternativas; y que para cada uno de nosotros existe uno o más orientaciones éticas que podemos escoger con plena libertad, ex-nihilo, sin predeterminación alguna.
-
-Pero, claro está, esa no es la R'. Cada uno de nosotros lleva en sí, desde el inicio, incluso in-uterino, de la vida una serie de determinaciones. Estos niveles de determinación se van complejizando a medida que nuestra capacidad de análisis y nuestro repertorio posible de conductas se van ampliando, pero eso no significa que podamos elegir de entre ellas como si fuéramos escritores ante una página en blanco, decidiendo qué vida, creencias, valores, personalidades, corporalidades y circunstancias asignamos a nuestros personajes.
-
-Sea que a nivel biológico seamos de sexo masculino, femenino u otro; que luego resolvamos ese sexo mediante algún tipo de expresión de género —alineado o no a las expectativas de la sociedad en que vivimos—, es ineludible una nego-
-
----
-
-## [LLT-IB06] (27/07/26)
-
-ciación entre los demás y yo mismo. Nadie "inventa" un nuevo sexo, ni un nuevo género, ex-nihilo. Lo que hace es recrear en su interior, dicariamente(?), los modelos genéricos que ya existen en la sociedad en la que se despliega su ser; o, por el contrario, propone una nueva instancia genérica, pero esa instancia, adicional en el panorama social, debe plantearse de tal modo, que sea socialm. digerible. No podría tratarse de un género expresado de forma indetectable o inaceptable para la integralidad social, porque el género es una transacción social para el consumo de los otros tanto como para el mío.
-
-En este escenario, pues, se advierte que no existe libertad absoluta, sino que forzosamente deberá ir tanto como pueda en la dirección de mi idiosincrasia como sea interpretable para los demás actores sociales con los que eventualm. me relaciono, y es en esta tensión que negocio mi expresión de género.
-
-El drama esencial del ser humano es que es capaz de imaginar la libertad total —y en esa imaginación, sartreanamente, incluso puede sentir el vértigo y el miedo de una indeterminación hipotética, que lo obligase a elegir y a construir su propia esencia—, pero esa es una delusión
-
----
-
-## [LLT-IB07] (27/07/26)
-
-que se deshace como un hermoso vitral(?) de hielo al calor de la vida cotidiana y la realidad práctica.
+El drama esencial del ser humano es que es capaz de imaginar la libertad total —y en esa imaginación, sartreanamente, incluso puede sentir el vértigo y el miedo de una indeterminación hipotética, que lo obligase a elegir y a construir su propia esencia—, pero esa es una delusión que se deshace como un hermoso cristal de hielo al calor de la vida cotidiana y la realidad práctica.
 
 Es esa añoranza entre la libertad que podemos postular para nosotros —con todos sus miedos concomitantes— y la determinación social práctica con la que colisionamos apenas consideramos la existencia de "los otros", que el auténtico drama humano se despliega.
 
-Según Berlin, Maquiavelo descubrió que no todos los valores son compartibles, y que no es alcanzable la meta de definir una única filosofía sobre la cual asentar un modelo de sociedad perfecta. El filósofo renacentista llega a esta conclusión a partir del análisis de los mecanismos del poder: descubre que los valores xnos son incompatibles con las estrategias políticas más eficaces. (Claro está, esta disyuntiva entre ética xna y ética pragmática no sería posible para un ciudadano ateniense del siglo V a.E.C., o para un árabe medieval o un africano animista, lo cual es solo otra forma de entender que en todos esos casos estamos predeterminados por la R' social en la que nos desenvolvemos.)
+\dinkus
 
-De forma amena e interesante, Vargas Llosa señala que, por ejemplo, los valores cardinales de la Revolución Francesa
+Según Berlin, Maquiavelo descubrió que no todos los valores son compartibles, y que no es alcanzable la meta de definir una única filosofía sobre la cual asentar un modelo de sociedad perfecta. El filósofo renacentista llega a esta conclusión a partir del análisis de los mecanismos del poder: descubre que los valores cristianos son incompatibles con las estrategias políticas más eficaces. (Claro está, esta disyuntiva entre ética cristiana y ética pragmática no sería posible para un ciudadano ateniense del siglo V a.E.C., o para un árabe medieval o un africano animista, lo cual es solo otra forma de entender que en todos esos casos estamos predeterminados por la realidad social en la que nos desenvolvemos.)
 
----
+De forma amena e interesante, Vargas Llosa señala que, por ejemplo, los valores cardinales de la Revolución Francesa (*"Libertad, Igualdad, Fraternidad"*) llevaban en su misma conjunción el germen del caos social y la inviabilidad del modelo social que del hermoso eslogan se desprendía, pues se trata de valores mutuamente excluyentes.
 
-## [LLT-IB08] (27/07/26)
+Esta observación es certera, pero incompleta. La tríada axiológica que inspiró al Terror y decapitó a los Borbones no nació de la inspirada mente de los filósofos franceses *ex-nihilo.* Por el contrario, se trata de las orientaciones éticas de quienes ayer eran subordinados y hoy se alzan contra la jerarquía establecida. Psicoanalíticamente —y traigo el psicoanálisis a colación tan solo con finalidad ilustrativa, ya que es más paladeable para el lector promedio— es la posición valorativa de los hijos en rebeldía contra la tiranía del padre. Lo cual es una forma asequible de entender la determinación social impuesta por el *Ancien Régime* sobre los franceses de la época.
 
-("Libertad, Igualdad, Fraternidad") llevaban en su misma conjunción el germen del caos social y la inviabilidad del modelo social que del hermoso eslogan se desprendía, pues se trata de valores mutuam. excluyentes.
+La admisión de esta convivencia hostil entre valores como orientaciones de conducta social es un prerrequisito para generar un sistema de filosofía política realmente aplicable. Es lo que Berlin nos dice. Lo que digo yo es que, incluso antes de eso, previo al análisis en un plano meramente especulativo y abstracto, es necesario incorporar un conocimiento descarnado y realista de nuestra constitución psíquica. Esta última es una entidad biológicamente determinada, dinámica a escala de la filogenia pero estática a nivel individual.
 
-Esta observación es certera, pero incompleta. La tríada axiológica que inspiró al Terror y decapitó a los borbones no nació de la inspirada mente de los filósofos franceses ex-nihilo. Por el contrario, son las orientaciones éticas de quienes ayer eran subordinados y hoy se alzan contra la jerarquía establecida. Psicoanalíticam. —y traigo el psicoanálisis a colación con finalidad ilustrativa solam., ya que es más paladeable para el lector promedio— es la posición valorativa de los hijos en rebeldía contra la tiranía del padre. Lo cual es una forma asequible de entender la determinación social impuesta por el Ancien Régime sobre los franceses de la época.
-
-La admisión de esta convivencia hostil entre valores como orientaciones de conducta social es un prerrequisito para generar un sistema de filosofía política realmente aplicable. Es lo que Berlin nos dice. Lo que digo yo es que, incluso antes de eso, previo al análisis en un plano meram. especulativo y abstracto, es necesario
-
----
-
-## [LLT-IB09] (28/07/26)
-
-incorporar un conocimiento descarnado y realista de nuestra constitución psíquica. Esta es una entidad biológicam. determinada, dinámica a escala de la filogenia pero prácticam. estática a nivel individual.
-
-Somos miembros de una especie primate, predeterminados para sostener una existencia comunitaria, a nivel grupal. Un grupo es una colección de personas que tienen un vínculo cognitivo y afectivo, y el rasgo definitorio en la vida grupal es que cada integrante es vivencialm. insustituible.
+Somos miembros de una especie primate, predeterminados para sostener una existencia comunitaria, de orden grupal. Un grupo es una colección de personas que tienen un vínculo cognitivo y afectivo, y el rasgo definitorio en la vida grupal es que cada integrante es vivencialmente insustituible.
 
 Berlin pasa a afirmar que la opresión no genera libertad ni la injusticia equidad, por lo que —no por vez primera en este libro, como recordará el lector— Vargas Llosa ratifica su creencia en la primacía del reformismo por encima de la revolución, olvidando que no hay nada intrínseco en el reformismo que lo haga de antemano un mecanismo exento de abusos.
 
-En efecto, si cada uno, en cuanto individuo, debe evaluar —y eventualm., cambiar— los valores que lo rigen, entonces promover la tolerancia será una estrategia práctica para la cohabitación armoniosa de una multitud de individuos. Y sin embargo, aunque esta consideración
-
----
-
-## [LLT-IB10] (28/07/26)
-
-*Nota: código escrito en el manuscrito como "LLT-1B10" (la "I" de "IB" se traza como "1").*
-
-tiene sentido, no habría nunca que pasar por alto que no es sino uno de los extremos del continuo que define la dinámica social, siendo el otro extremo la determinación cultural, social y biológica.
+En efecto, si cada uno, en cuanto individuo, debe evaluar —y eventualmente cambiar— los valores que lo rigen, entonces promover la tolerancia será una estrategia práctica para la cohabitación armoniosa de una multitud de individuos. Y sin embargo, aunque esta consideración tiene sentido, no habría nunca que pasar por alto que no es sino uno de los extremos del continuo que define la dinámica social, siendo el otro extremo la determinación cultural, social y biológica.
 
 Una de las ventajas que menciona Berlin es que, aun si —como seguramente pasará en una pluralidad social de pareceres y morales— se desata el error antisocial, este no hará mucho daño, dada la multiplicidad de credos y prácticas. Esta es una típica propuesta filosófica, que como todas —la mía incluida— no admite un contraargumento fácil pero tampoco provoca mayor persuasión emocional.
 
-Berlin aprendió el ruso, el yiddish y el alemán prácticamente de manera nativa, y de esas tres lenguas siempre se identificó más con el ruso y no dejó de practicarlo a lo largo de toda su vida. Aun cuando oficializó sus estudios de ciudadano británico, siguió estudiando formalmente no solo el ruso, sino la literatura y la filosofía en esa lengua. De hecho no solo escribió todo un libro (o mejor dicho, múltiples ensayos editados como un solo volumen), sino que llegó a visitar la entonces Unión Soviética, en su calidad de diplomático británico, por unos meses, en 1945.
+Berlin aprendió el ruso, el *yiddish* y el alemán prácticamente de manera nativa, y de esas tres lenguas siempre se identificó más con el ruso y no dejó de practicarlo a lo largo de toda su vida. Aun cuando oficializó su status de ciudadano británico, siguió estudiando formalmente no solo el ruso, sino la literatura y la filosofía en esa lengua. De hecho no solo escribió todo un libro (o mejor dicho, múltiples ensayos editados como un solo volumen), sino que llegó a visitar la entonces Unión Soviética, en su calidad de diplomático británico, por unos meses, en 1945.
 
-Boris Pasternak y, sobre todo, Anna Ajmátova, lo
+Boris Pasternak y, sobre todo, Anna Ajmátova, lo trataron por entonces y, sobre todo ella, quedaron deslumbrados con su erudición y el evidente amor que transpiraba incluso de sus giros lingüísticos rusos de la época imperial. Sin duda, Berlin era un anacronismo encarnado, y su condición de diplomático británico en medio del inmenso territorio estalinista atraía sospechas por donde fuera.
 
----
+En la posguerra trabajó, como queda dicho, para el *Foreign Office* inglés, y en esa calidad es enviado a EEUU, donde asesora a los altos círculos gubernamentales acerca de la actualidad política, así como redacta jugosos informes, que llegarían a ser muy apreciados hasta del mismo Churchill.
 
-## [LLT-IB11] (28/07/26)
+Ya en su madurez, Berlin lleva una activa vida social en la que nadie le identifica pareja. Incluso parece disfrutar mucho los eventos mundanos, de una forma quizás compensatoria, según don Mario. Lo que a mis ojos correspondería a una gran represión sexual es, para su círculo, apenas una leve excentricidad que hacía pensar a todos que sería un solterón de por vida.
 
-trataron por entonces y, sobre todo ella, quedaron deslumbrados con su erudición y el evidente amor que transpiraba incluso sus giros lingüísticos rusos de la época imperial. Sin duda, Berlin era un anacronismo encarnado, y su condición de diplomático británico en medio del inmenso territorio estalinista atraía sospechas por donde fuera, como moscas a la miel.
+## Una noche con la Ajmátova
 
-En la posguerra trabajó, como queda dicho, para el Foreign Office inglés, y en esa calidad es enviado a EEUU, donde asesora a los altos círculos gubernamentales acerca de la actualidad política, así como redacta jugosos informes, que llegarían a ser muy apreciados, hasta del mismo Churchill.
+Legendario en la historia literaria, el encuentro —que duró toda una noche en blanco— de Berlin con la enorme poeta rusa Anna Ajmátova, en el opaco e inconspicuo piso de esta en Leningrado, en noviembre de 1945, lo marcó para el resto de su vida.
 
-Ya en su madurez, Berlin lleva una activa vida social en la que, pese a todo, nadie le reconoce pareja. Incluso parece disfrutar mucho los eventos mundanos, de una forma sospechosam. compensatoria, según don Mario. Lo que a mis ojos correspondería a una gran represión sexual es, para su círculo, apenas una leve excentricidad que hacía pensar a todos que sería un solterón de por vida.
+Isaiah había sido destacado a la embajada británica en Moscú, y como suele pasar con antiguos ciudadanos que no anticipan volver al lugar donde se criaron, viaja a la antigua San Petersburgo para revivir recuerdos de su infancia. Es en una librería de la por entonces Leningrado que, revisando libros de la Ajmátova, se topa con alguien que se ofrece a llevarlo hasta la casa de esta, para que la conociera personalmente.
 
-*(Nota manuscrita: flecha marginal sin texto adicional legible al pie de la página.)*
+Ella era su mayor por dos décadas, pero conservaba un vigoroso rastro de su gran belleza de juventud. Tenía 56 años, y la desalmada y crudelísima represión estalinista apenas si le concedía malvivir. No podía publicar; no podía recitar; no podía participar en actos públicos. Aunque Stalin eventualmente la obligaría a escribir miserables ditirambos en honor suyo y de su tiránico régimen bajo la amenaza de ejecutar a su hijo, cuando se produjo el encuentro entre ella y Berlin este aún era libre y, de hecho, sostuvo un diálogo cabal con el intelectual judío.
 
----
+Claro está, a los ojos de los inspectores burócratas y espías estalinistas, la visita de un exiliado que, además de liberal, era funcionario de la *Foreign Office* inglesa no podía verse bien. Por el resto de su vida, Berlin se reprocharía  haber puesto mayor afán al sufrimiento de la poeta a resultas de esa breve estadía en su casa.
 
-## [LLT-IB12] (28/07/26)
+Pese a lo que pudiera pensarse, esas doce horas (o algo menos) que ambos pasaron a solas fueron habitadas solo por tertulia literaria; Anna llegó a sentir la confianza suficiente para desahogarse, recitándole a Isaiah algunos de los poemas de un libro que había compuesto a la sombra de su dolor y que, temerosa de las consecuencias si la KGB llegaba a hallarlo, conservaba solo en su propia memoria[^ajmat]. 
 
-**Una noche con la Ajmátova**
+[^ajmat]: Dicho sea de paso, Vargas Llosa afirma que se trata de *"Reunión"*, lo cual es una afirmación inexacta. El poema se llama *"Canción del último encuentro"*, y a veces se lo traduce como *"Final Meeting"* en las ediciones en inglés, de donde algunos editores toman el título para ciertas antologías.)
 
-Legendario en la historia literaria, el encuentro —que duró toda una noche en blanco— de Berlin con la enorme poeta Anna Ajmátova, en el opaco e inconspicuo piso de esta en Leningrado, en noviembre de 1945, lo marcó para el resto de su vida.
+Pese a tratarse de un encuentro platónico, cuando Isaiah vuelve a su hotel, escoltando a las primeras luces del día, declara ante quien quiera escucharlo, eufórico: *"¡Me he enamorado!"*. Incluso años después insistiría en que ese encuentro había sido el más importante de su vida. (Lo cual, curiosamente, no le impidió concretar luego un matrimonio estable y aparentemente feliz con otra mujer, a la cual, en su última entrevista, declara que *"le debe todo"*.)
 
-Isaiah había sido destacado a la embajada británica en Moscú, y como suele pasar con los extranjeros que no anticipan volver al país que visitan, viaja a la antigua San Petersburgo para revivir recuerdos de su infancia. Es en una librería de la por entonces Leningrado que, revisando libros de los Ajmátova, se topa con alguien que se ofrece a llevarlo hasta la casa de ella, para que la conociera personalmente.
+Según don Mario, la Ajmátova dejó el testimonio de una impresión parejamente duradera en algunos de sus poemas posteriores, a resultas de la entrevista. Sea cual haya sido el proceso afectivo en cada una de las partes, lo cierto es que a resultas del encuentro el estalinismo se volvió aún más vengativo con la poeta y eliminó la posibilidad de cualquier contacto con ella desde fuera de la Unión Soviética. Ni siquiera la embajada británica osó intentar una comunicación, sabedora de que sería contraproducente y solo desencadenaría mayores rigores sobre el ya durísimo trato que recibía la artista.
 
-Ella era su mayor por dos décadas, pero conservaba un vigoroso rastro de su gran belleza de juventud. Tenía 56 años, y la desalmada y candelísima(?) represión estalinista apenas si le concedía sobrevivir para penar a diario por la muerte de su esposo y la prisión en un gulag de su hijo. No podía publicar; no podía recitar; no podía participar en actos públicos. Bajo la amenaza de ejecutar a su hijo, Stalin la obligaba a escribir inmundos ditirambos en honor suyo y de su tiránico régimen, pero cuando le
+Esta pseudohistoria de amor —que yo me inclino a caracterizar más bien como una infatuación mutua y, en tal medida, necesariamente precaria— llega a un melancólico colofón veinte años después. Berlin y otros intelectuales afines a la causa anticomunista, logran para Anna un doctorado *honoris causa* en su bastión de Oxford. El Estado soviético, ya para entonces bajo otro líder (el mediocre y grisáceo Brézhnev, que empezaba su régimen), se muestra mucho más asequible y le permite viajar a Inglaterra.
 
----
+Pese a la existencia desalmada a la que había sido sometida, Ajmátova, aunque anciana, permanecía lúcida. Como suele pasar con los reencuentros intermediados por los años, la interacción entre Berlin y ella fue, esa vez, más bien cortésmente fría. Contemplando *Headington House* —una residencia suntuosa en la que Isaiah vivió durante todo su matrimonio con Aline Halban, hasta su muerte, y que podría considerarse, según el punto de vista, o bien como un merecido reconocimiento a un diplomático, filósofo y escritor brillante, o bien como la recompensa a quien había sabido saltar del barco comunista a tiempo y expresado la suficiente lealtad al capitalismo occidental—, Anna diría: *"Así que el pajarito vive encarcelado en una jaula de oro".*
 
-## [LLT-IB13] (28/07/26)
+## Noción de Libertad
 
-produjo el encuentro el hijo de la Ajmátova aún era libre y, de hecho, sostuvo un diálogo cabal(?) con el intelectual judío.
-
-A los ojos de los inspectores burócratas y espías estalinistas, la visita de un remitido(?) que, además de liberal, era funcionario de la Foreign Office inglesa no podía verse bien. Por el resto de su vida, Berlin se reprocharía de haber puesto mayor énfasis al sufrimiento de la poeta a resultas de esa breve estadía de horas.
-
-Pese a lo que pudiera pensarse, esas doce horas (o algo menos) que pasaron a solas fueron habitadas estrictamente por tertulia literaria; Anna llegó a sentir la confianza suficiente para desahogarse recitándole a Isaiah algunos de los poemas de un libro que había compuesto a la sombra de su dolor y que, temerosa de las consecuencias si la KGB llegaba a hallarlo, conservaba solo en su propia memoria. (Dicho sea de paso, Vargas Llosa dice en su libro que se trata de "Reunión", lo cual es una afirmación inexacta. El poema se llama "Canción del último encuentro", y a veces se lo traduce como "Final Meeting" en las ediciones en inglés, de donde algunos editores toman el título para ciertas antologías.)
-
----
-
-## [LLT-IB14] (28/07/26)
-
-Pese a tratarse de un encuentro platónico, cuando Isaiah vuelve a su hotel, escoltando a las primeras luces del día, declara ante quien quiera escucharlo, eufórico: "¡Me he enamorado!". Incluso años después insistiría en que ese encuentro había sido el más importante de su vida. (Lo cual, curiosamente, no le impidió concretar luego un matrimonio estable y aparentemente feliz con otra mujer, a la cual, en su última entrevista, declara "le debe todo".)
-
-Según don Mario, la Ajmátova dejó testimonio de una impresión parejamente duradera en algunos de sus poemas posteriores, a resultas de la entrevista. Sea cual haya sido el proceso afectivo en cada una de las partes, lo cierto es que el estalinismo se volvió aún más vengativo con la poeta y eliminó la posibilidad de cualquier contacto con ella desde fuera de la Unión Soviética. Ni siquiera la embajada británica osó intentar una comunicación, sabedora de que sería contraproducente y solo desencadenaría mayores rigores sobre el ya durísimo trato que recibía la artista.
-
-Esta pseudohistoria de amor —que yo me inclino a caracterizar más bien como una infatuación mutua y, en tal medida, necesariam. precaria— llega a un melancólico colofón veinte años después. Berlin y otros intelectuales
-
----
-
-## [LLT-IB15] (29/07/26)
-
-afines a la causa anticomunista, logran para Anna un doctorado honoris causa en su bastión de Oxford. El Estado soviético, ya para entonces bajo otro líder (el tórrido(?) Brézhnev, que empezaba su régimen), se muestra mucho más asequible y le permite viajar a Inglaterra.
-
-Pese a la durísima vida a la que había sido sometida, Ajmátova, aunque anciana, permanecía lúcida. Como suele pasar con los reencuentros intermediados por los años, la interacción entre Berlin y ella fue, esa vez, más bien cortésmente fría. Contemplando Headington House —una residencia suntuosa en la que Isaiah vivió durante todo su matrimonio con Aline Halban, hasta su muerte, y que podría considerarse, según el punto de vista, o bien como un merecido reconocimiento a un diplomático, filósofo y escritor brillante, o bien como la recompensa a quien había sabido saltar del barco comunista a tiempo y expresado la suficiente lealtad al capitalismo occidental—, Anna diría: "Así que el pajarito vive encarcelado en una jaula de oro".
-
-**Noción de Libertad:** Berlin nos propone dos versiones de la libertad: la positiva y la negativa (libertad para vs. libertad de). La libertad negativa es individual y más moderna en términos históricos, y se realiza en el escena-
-
----
-
-## [LLT-IB16] (30/07/26)
-
-*Nota: código escrito como "LLT-1B16".*
-
-rio social de una utilización relativam. avanzada y monetariamente rica. Según señala MVLL (¿y Berlín?), la libertad negativa individual, la ausencia de constricciones y cortapisas, es el motor de la inventiva humana y la única vía por la que fluye la creatividad.
+Berlin nos propone dos versiones de la libertad: la positiva y la negativa (libertad *para* versus libertad *de*). La libertad negativa es individual y más moderna en términos históricos, y se realiza en el escenario social de una civilización relativamente avanzada y monetariamente rica. Según señala, la libertad negativa individual, entendida como la ausencia de constricciones y cortapisas, es el motor de la inventiva humana y la única vía por la que fluye la creatividad.
 
 Dos puntos a este respecto:
 
-- No sé si don Mario se percata, pero los beneficios de esta "libertad negativa" se plantean en términos utilitarios y desde el punto de vista de las ECOs, más que de las personas mismas.
-- Esta "libertad ⊖" no podría ser un derecho universal, dado que la precondición para realizarse es la inserción dentro de una sociedad tecnológicam. avanzada, económicamente acaudalada, y culturalm. compleja.
+- No sé si MVLL se percata de ello, pero los beneficios de esta "libertad negativa" se plantean en términos utilitarios y desde el punto de vista de las ECOs, más que de las personas mismas.
 
-La libertad ⊕ tiene que ver con ejercer opciones reales. En el esquema de Berlin, tiene una dimensión social porque las opciones reales de los individuos colisionan con las reglas sociales de las colectividades y organizaciones. Esta libertad ⊕ podrá existir en la medida en la que la comunidad que pretende ejercerla sea más homogénea, pues la normatividad social coincidirá con el interés del individuo, en la mayor parte de los casos.
+- Esta "libertad negativa" no podría ser un derecho universal, dado que la precondición para realizarse es la inserción dentro de una sociedad tecnológicamente avanzada, económicamente acaudalada, y culturalmente compleja.
 
----
+La libertad positiva tiene que ver con ejercer opciones reales. En el esquema de Berlin, tiene una dimensión social porque las opciones reales de los individuos colisionan con las reglas sociales de las colectividades y organizaciones. Esta libertad positiva podrá existir en la medida en la que la comunidad que pretende ejercerla sea más homogénea, pues la normatividad social coincidirá con el interés del individuo, en la mayor parte de los casos.
 
-## [LLT-IB17] (30/07/26)
+Las utopías políticas se apoyan en la noción de que existen prioridades sociales, que canalizan lo que anhela cada individuo —de ahí la importancia de la homogeneidad— a escala colectiva. Si las prioridades sociales realmente expresan lo que todos o la mayoría de individuos buscan, pues entonces el sacrificio de ciertos derechos individuales se justificaría, si es funcional para la obtención de la utopía.
 
-Las utopías políticas se apoyan en la noción de que existen prioridades sociales, que canalizan lo que anhela c/individuo —de ahí la importancia de la homogeneidad— a escala colectiva. Si las prioridades sociales realm. expresan lo que todos o la mayoría de individuos buscan, pues entonces el sacrificio de ciertos derechos individuales se justificaría, si es funcional para la obtención de la utopía.
-
-En realidad, tal como lo plantean Berlin y MVLL, la libertad positiva sería la de las ECOs, la colectivista, mientras que la negativa sería la de los individuos, una especie de espacio vacío a ser llenado con las actividades y proyectos y realizaciones de cada integrante de la sociedad.
+En realidad, tal como lo plantean Berlin y MVLL, la libertad positiva sería la de las ECOs, la colectivista, mientras que la negativa sería la de los individuos, una especie de espacio vacío a ser llenado con las actividades, proyectos y realizaciones de cada integrante de la sociedad.
 
 El escritor peruano se acerca, en este acápite, a la comprensión de una de las objeciones profundas al liberalismo: a saber, que la libertad negativa implica cierto nivel de posibilidad material que el mismo modelo de mercado capitalista, por diseño y definición, les niega a la amplia mayoría de la gente.
 
-La engañifa de la libertad "negativa" radica
+La engañifa de la libertad "negativa" radica en vender la noción de posibilidad plena para el individuo mientras, al mismo tiempo, se aplica un modelo económico que necesariamente restringe sus potencialidades y lo condena a una subordinación sin escapes a las prioridades de las organizaciones corporativas.
 
----
+Bien afirma el peruano que ambas formas de entender la libertad se oponen conceptualmente. Lo que es preciso entender es que, al ser la mayoría de individuos estrechamente homogéneos (peor aún, al *querer ser* homogéneos), los proyectos organizacionales corporativos, de uno o más tipos, tendrán siempre una base psíquica en la que apoyarse.
 
-## [LLT-IB18] (30/07/26)
+Según MVLL, lo ideal es que la sociedad alcance un punto intermedio entre un tipo de libertad y el otro.
 
-en vender la noción de posibilidad plena para el individuo mientras, al mismo tiempo, se aplica un modelo económico que necesariamente restringe sus potencialidades y lo condena a una subordinación sin escapes a las prioridades de las organizaciones corporativas.
+## En la Jaula de Oro
 
-Bien afirma el peruano que ambas formas de entender la libertad se oponen conceptualmente. Lo que es preciso entender es que, al ser la mayoría de individuos estrechamente homogéneos (peor aún, al querer ser homogéneos), los proyectos organizacionales corporativos, de uno o más tipos, tendrán siempre una base psíquica en la que apoyarse.
+Berlin se casó una década (o poco más) después de su encuentro con la Ajmátova. Aline, su flamante esposa, provenía de familia acaudalada, judíos franceses. Fue el remate de un período turbulento de su biografía, en el cual el solterón que vivía hundido en la profundidad de sus libros decidió darse un reverdecente chapuzón —el primero, que se sepa— en el pantano del sexo.
 
-Según VLL, lo ideal es que la sociedad alcance un punto intermedio entre un tipo de libertad y el otro.
+A decir de don Mario, entabló encuentros de tinte romántico con mujeres casadas —algunas de las cuales lo estaban con colegas suyos—. Aline fue su última y definitiva aventura de este tipo: estaba casada con otro cuando ambos iniciaron la relación.
 
-**En la Jaula de Oro:** Berlin se casó una década (o poco más) después de su encuentro con la Ajmátova. Aline, su flamante esposa, provenía de familia acaudalada, judíos franceses. Fue el remate de un período turbulento de su biografía, en el cual el solterón mismo, que vivía hundido en la profundidad de sus libros, decidió darse un reverdecente chapuzón —el primero, que se sepa— en el pantano del sexo.
+Esta chispa sexual y romántica generó un *ménage à trois* en el que Aline veía una vez por semana a Isaiah, con el consentimiento de su esposo, un profesor austríaco visitante en Oxford[^consent]. Cuando este tuvo que volver a París —la ciudad de residencia habitual de los cónyuges— quedó claro que ella se quedaría, y se formalizó el divorcio. Poco después, ambos se casarían por fin.
 
----
+[^consent]: Según el peruano, al enterarse por primera vez del *affaire*, el marido se limitó a decir: *"Pero eso es imposible".* Pues no solo era posible, sino que Berlin eventualmente se reunió con él, y luego de una muy razonable charla, los dos hombres en la vida de Aline decidieron que Isaiah pasaría un día a la semana con él. Desde ese punto, la frecuencia y extensión de los encuentros se fueron ampliando, con el eventual resultado descrito. 
 
-## [LLT-IB19] (30/07/26)
+Ambos eran espíritus afines, con valores y gustos similares. Gozaban de la vida social, que intercalaban con periodos de retiro doméstico para el disfrute compartido de la música clásica y la rutina diaria de escritor de Berlin. Sin duda eran dos *bons vivants dilettanti*, que gozaban de la fortuna, la educación y los recursos personales para llevar una existencia que muchos otros apenas si pueden soñar.
 
-A decir de don Mario, entabló encuentros de tinte romántico con mujeres casadas —algunas de las cuales lo estaban con colegas suyos—. Aline fue su última y definitiva aventura de este tipo: estaba casada cuando ambos iniciaron la relación.
-
-Esta chispa sexual y romántica generó un ménage à trois en el que Aline veía una vez por semana a Isaiah, con el consentimiento de su esposo, un profesor austríaco visitante en Oxford. Cuando este tuvo que volver a París —la ciudad de residencia habitual de los cónyuges— quedó claro que ella se quedaría, y se formalizó el divorcio. Poco después, ambos se casarían por fin.
-
-Ambos eran espíritus afines, con valores y gustos similares. Gozaban de la vida social, que intercalaban con periodos de retiro doméstico para el disfrute compartido de la música clásica y la rutina diaria de escritor de Berlin. Sin duda eran dos bons vivants dilettanti, que gozaban de la fortuna, la ubicación y los recursos personales para llevar una existencia que muchos otros apenas si pueden soñar.
-
-No deja de admirarme cómo el liberalismo puede ser
-
----
-
-## [LLT-IB20] (30/07/26)
-
-preferido por los intelectuales bien ubicados en el mundo, honorados, ricos, y aceptados, mientras que el marxismo parecería ser el caso contrario: Marx vivió casi toda su vida adulta al borde de la mendicidad; Lenin, Trotski, Castro(?), Mao y Gramsci pasaron meses o años en la cárcel, el exilio, el combate y la pobreza.
+No deja de admirarme cómo el liberalismo puede ser preferido por los intelectuales bien ubicados en el mundo, honorados, ricos y aceptados, mientras que el marxismo parecería ser el caso contrario: Marx vivió casi toda su vida adulta al borde de la mendicidad; Lenin, Trotski, Castro, Mao y Gramsci pasaron meses o años en la cárcel, el exilio, el combate y/o la pobreza.
 
 Por supuesto, no hablo aquí de los simpatizantes o afiliados, sino de los paladines intelectuales, las mentes propositivas, los generadores y enriquecedores de las ideas.
 
-**El Erizo y El Zorro:** Según los versos del poeta griego Arquíloco:
+## El Erizo y El Zorro 
+
+Según los versos del poeta griego Arquíloco:
 
 > "El zorro sabe muchas cosas,
-> pero el erizo sabe una sola, gran cosa." (Fragmento 103)
+> pero el erizo sabe una sola gran cosa." (Fragmento 103)
 
-Esta idea fue la semilla de uno de los ensayos más célebres de Isaiah Berlin, donde propone una especie de tipología para categorizar a las personas en general, y a los intelectuales en particular.
+Esta metáfora fue la semilla de uno de los ensayos más célebres de Isaiah Berlin, donde propone una especie de tipología para categorizar a las personas en general, y a los intelectuales en particular.
 
-Los erizos son aquellos que ven el mundo según un único principio ordenador, que orienta y da sentido tanto al amasijo originalm. informe e infinito del pasado, como a los acontecimientos que transitan lo que nosotros llamamos "momento presente".
+Los *erizos* son aquellos que ven el mundo según un único principio ordenador, que orienta y da sentido tanto al amasijo originalmente informe e infinito del pasado, como a los acontecimientos que transitan lo que nosotros llamamos "momento presente".
 
-Los zorros serían, en contraste, aquellos que perciben
+Los *zorros* serían, en contraste, aquellos que perciben el mundo de forma dispersa, heteróclita y mudable, lleno de hechos interpretables desde diversos ángulos sin que ninguna de tales aproximaciones predomine definitivamente sobre las demás.
 
----
-
-## [LLT-IB21] (30/07/26)
-
-el mundo de forma dispersa, heterodita(?), y mudable, hechos interpretables desde diversos ángulos sin que ninguna de tales aproximaciones predomine definitivam. sobre las demás.
-
-Erizos son centrípetos; zorros, centrífugos.
+Los erizos son centrípetos; los zorros, centrífugos.
 
 Erizos fueron Platón, Hegel, Dante, Proust, Nietzsche.
 
@@ -267,17 +160,11 @@ Zorros: Aristóteles, Shakespeare, Montaigne, Molière.
 
 Berlin, según don Mario, se sumaría al segundo grupo, debido a su pluralismo intelectual, pero yo digo: debido también a la ausencia de una noción central rigurosa y holística. No, Berlin no era un Kant, sino más bien un anacrónico Erasmo.
 
-Para Vargas Llosa —que ni por asomo es igual de prudente que el moderno Isaías—, esta tipología es iluminadora. Yo diría que replica los afrontamientos sintético (Erizo) y analítico (Zorro), de la Grecia Clásica, y por lo tanto no es muy original ni novedoso. Por otro lado, la Psicología Cognitiva, con su dicotomía pensamiento convergente ("erizo") o divergente ("zorro"), llega a parecidas conclusiones con mucha mayor solidez científica.
+Para Vargas Llosa —que ni por asomo es igual de prudente que el moderno Isaiah—, esta tipología es iluminadora. Yo diría que replica los afrontamientos sintético (Erizo) y analítico (Zorro), de la Grecia Clásica, y por lo tanto no es muy original ni novedoso. Por otro lado, la Psicología Cognitiva, con su dicotomía pensamiento convergente ("erizo") o divergente ("zorro"), llega a parecidas conclusiones con mucha mayor solidez científica.
 
-Para el enfoque "erizo" los principios que ayudan a explicar, y eventualm. anticipar, la realidad admiten
+Para el enfoque "erizo" los principios que ayudan a explicar, y eventualmente anticipar, la realidad admiten un nivel de error, pero en su visión se trata de un error de magnitud negligible. Uno diría que necesariamente esto debe ser así, si buscamos crear un modelo razonable de la realidad. Si asumiéramos que el nivel de error es de magnitud considerable, ni siquiera tendría sentido darse el trabajo de formular una teoría.
 
----
-
-## [LLT-IB22] (31/07/26)
-
-un nivel de error, pero en su visión se trata de un error de magnitud negligible. Uno diría que necesariamente esto debe ser así, si buscamos crear un modelo razonable de la R'. Si asumiéramos que el nivel de error es de magnitud considerable, ni siquiera tendría sentido darse el trabajo de formular una teoría.
-
-Por otro lado, los "zorros" se dejan llevar por los detalles y la variedad de lo particular. Considerar el mundo de forma global no conduce, en el caso de los "zorros", a una teoría, sino a mera confusión. (Uno diría, en este punto, que de lo que hablamos no es, al fin de cuentas, más que de capacidad de abstracción.) Para Berlin, Shakespeare y Balzac, por ejemplo, son zorros porque a la muchedumbre abigarrada de sus personajes no se impone ningún patrón o regularidad que no permita encajar todas esas piezas. El dinamismo cromático de sus plumas desemboca en una rica y exquisitam. diversa descripción de la R', pero no de una interpretación de esta. Lo curioso de la visión de Berlin es que, según él, quienes intentaran entender a esos autores "zorros" en base a claves holísticas acabarían empobreciendo y traicionando la índole misma de
+Por otro lado, los "zorros" se dejan llevar por los detalles y la variedad de lo particular. Considerar el mundo de forma global no conduce, en el caso de los "zorros", a una teoría, sino a mera confusión. (Uno diría, en este punto, que de lo que hablamos no es, al fin de cuentas, más que de capacidad de abstracción.) Para Berlin, Shakespeare y Balzac, por ejemplo, son zorros porque a la muchedumbre abigarrada de sus personajes no se impone ningún patrón o regularidad que no permita encajar todas esas piezas. El dinamismo cromático de sus plumas desemboca en una rica y diversa descripción de la realidad, pero no de una interpretación de esta. Lo curioso de la visión de Berlin es que, según él, quienes intentaran entender a esos autores "zorros" en base a claves holísticas acabarían empobreciendo y traicionando la índole misma de
 
 ---
 
