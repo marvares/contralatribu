@@ -8,7 +8,7 @@ con la misma convención de niveles de encabezado (## y ###).
 -->
 ## Isaiah Berlin (1909-1997)
 
-Lo que distingue a este ensayista es que la mayor parte de sus obras solían estar dispersas bajo la forma de artículos académicos, y pocas fueron lanzadas bajo el formato original de libros.
+Lo que distingue a este ensayista es que la mayor parte de sus obras solían estar dispersas bajo la forma de artículos académicos, conferencias, y pocas fueron lanzadas bajo el formato original de libros.
 
 De origen letón y raíces judías —sí, también él—, Berlin se convirtió en británico por adopción, y llegó a ser catedrático de Oxford en la especialidad de Teoría Social y Política. (En esa casa de estudios permaneció toda su vida.) Entre mediados de los años 70 y principios de los
 2000, la obra de Berlin fue publicándose, organizados bajo la forma de volúmenes, según un criterio temático aproximado[^hardy].
@@ -164,146 +164,68 @@ Para Vargas Llosa —que ni por asomo es igual de prudente que el moderno Isaiah
 
 Para el enfoque "erizo" los principios que ayudan a explicar, y eventualmente anticipar, la realidad admiten un nivel de error, pero en su visión se trata de un error de magnitud negligible. Uno diría que necesariamente esto debe ser así, si buscamos crear un modelo razonable de la realidad. Si asumiéramos que el nivel de error es de magnitud considerable, ni siquiera tendría sentido darse el trabajo de formular una teoría.
 
-Por otro lado, los "zorros" se dejan llevar por los detalles y la variedad de lo particular. Considerar el mundo de forma global no conduce, en el caso de los "zorros", a una teoría, sino a mera confusión. (Uno diría, en este punto, que de lo que hablamos no es, al fin de cuentas, más que de capacidad de abstracción.) Para Berlin, Shakespeare y Balzac, por ejemplo, son zorros porque a la muchedumbre abigarrada de sus personajes no se impone ningún patrón o regularidad que no permita encajar todas esas piezas. El dinamismo cromático de sus plumas desemboca en una rica y diversa descripción de la realidad, pero no de una interpretación de esta. Lo curioso de la visión de Berlin es que, según él, quienes intentaran entender a esos autores "zorros" en base a claves holísticas acabarían empobreciendo y traicionando la índole misma de
+Por otro lado, los "zorros" se dejan llevar por los detalles y la variedad de lo particular. Considerar el mundo de forma global no conduce, en el caso de los "zorros", a una teoría, sino a mera confusión. (Uno diría, en este punto, que de lo que hablamos no es, al fin de cuentas, más que de capacidad de abstracción.) Para Berlin, Shakespeare y Balzac, por ejemplo, son zorros porque a la muchedumbre abigarrada de sus personajes no se impone ningún patrón o regularidad que nos permita encajar todas esas piezas. El dinamismo cromático de sus plumas desemboca en una rica y diversa descripción de la realidad, pero no de una interpretación de esta. Lo curioso de la visión de Berlin es que, según él, quienes intentaran entender a esos autores "zorros" en base a claves holísticas acabarían empobreciendo y traicionando la índole misma de su obra.
 
----
+Ahora bien, Berlin conserva que la condición de "erizo" conduce a (o eventualmente revela) cierto nivel de fanatismo, mientras que los "zorros" tenderían a ser, por naturaleza, escépticos.
 
-## [LLT-IB23] (31/07/26)
+Sin duda este tipo de consecuencialismo conceptual conlleva peligros y es un deporte de riesgo, por así decirlo. Cualquier teórico serio —en especial quienes trabajan dentro del marco científico— toma en cuenta, sin jamás perderlo de vista, el nivel de error ineludible en toda interpolación y/o extrapolación de su modelo. Sin duda, el ser humano solo puede imprimir pasión a una actividad y la teorización intelectual no es excepción, pero la diferencia entre el aficionado o *dilettante* y el practicante serio de la ciencia radica en una consciencia y vigilancia indesmayables ante las limitaciones de su teoría, y el convencimiento, al menos en lo científico, de que todo modelo es necesariamente parcial y transitorio, y solo puede aspirar, en el mejor de los casos, a ser parte integral del modelo que lo suceda, como en el caso de la física newtoniana en relación a la de Einstein.
 
-*Nota: código escrito en el manuscrito como "LLL-1B23" — errata en el prefijo ("LLL" en vez de "LLT"). Se homologa al sistema de referencia como LLT-IB23.*
+Es razonable pensar, como lo hacía Berlin, que hay ámbitos en los que el tipo mismo de actividad preselecciona personas de cierto estilo; así, en arte y literatura predominarán los zorros, mientras que en política y en ciencia los erizos son mayoría. Isaiah va más allá al afirmar en su ensayo que ambas inclinaciones pueden coexistir al interior de un único individuo, y propone a Tólstoi como ejemplo. Un novelista eximio que, en tanto que describía multitud de personajes, los inscribía dentro de una realidad ficticia que ilustraba ciertas concepciones ambiciosamente totalizadoras, como las de *La Guerra y La Paz*, y las concepciones escatológicas de su vejez.
 
-su obra.
+Don Mario, que se incluye a sí mismo entre los zorros, admite que la capacidad de observar la realidad prescindiendo de un punto de vista integrador es ciertamente atractiva.
 
-Ahora bien(?), Berlin conserva que la condición de "erizo" conduce a (o eventualm. revela) cierto nivel de fanatismo, mientras que los "zorros" tenderían a ser, por naturaleza, escépticos.
+Uno puede con mayor facilidad acceder a una sensación de trascendencia desde una mirada convergente, eso es cierto, y de hecho ello nos puede servir de faro orientador en medio del agnóstico(?) castigo de la vida. Con lo cual se llega a la idea de la existencia como absurdo, ante el cual la mejor respuesta es generar para uno mismo un sentido: ¡Sartre atacado de nuevo!
 
-Sin duda este tipo de consecuencialismo conceptual conlleva peligros y es un deporte de riesgo, por así decirlo. Cualquier teórico serio —en especial quienes trabajan dentro del marco científico— toma en cuenta, sin jamás perderlo de vista, el nivel de error ineludible en toda interpolación y/o extrapolación de su modelo. Sin duda, el ser humano solo puede imprimir pasión a una actividad y la teorización intelectual no es excepción, pero la diferencia entre el aficionado o dilettante y el practicante serio de la ciencia radica en una consciencia y vigilancia indesmayables de las limitaciones de su teoría, y el convencimiento, al menos en lo científico, de que todo modelo es necesariam. parcial y transitorio, y solo puede aspirar, en el mejor de los casos, a ser parte integral del modelo que lo suceda, como en el caso de la física newtoniana en relación a la de Einstein.
+## Personal Impressions
 
----
+El tópico de este libro de ensayos no puede ser más interesante: ¿cuál es el auténtico motor de la Historia? ¿La inspiración genial y conmovedora de ciertos individuos selectos —los *héroes* de Carlyle[^inq2]—, o las fuerzas colectivas, sin nombre ni rostro, pero poseedoras de un impulso y una lógica colosales, capaces de moldear el mundo social como ningún ser humano en solitario podría?
 
-## [LLT-IB24] (31/07/26)
+[^inq2]: Por ejemplo, en *Otras Inquisiciones*, en Borges, J. L. (1989). Obras completas (Vol. 2). Emecé Editores.
 
-Es razonable pensar, como lo hacía Berlin, que hay ámbitos en los que el tipo mismo de actividad preselecciona personas de cierto estilo; así, en arte y literatura predominarán los zorros, mientras que en política y en ciencia los erizos son mayoría. Isaiah va más allá al afirmar en su ensayo que ambas inclinaciones pueden coexistir al interior de un único individuo, y propone a Tolstói como ejemplo. Un novelista exímio que, en tanto que describía multitud de personajes, los inscribía dentro de una realidad ficticia que ilustraba ciertas concepciones ambiciosam. totalizadoras, como las de la Guerra y la Paz, y las concepciones escatológicas de su vejez.
+Berlin se decide por la primera posición, a saber, que la participación y aporte de determinados individuos —*"grandes"*, es el adjetivo que pide, a gritos, el término— son indispensables y decisivos. Cierto es que el componente motivacional, cuando es transmitido social y discursivamente, lo es a través de individuos, pero —al menos para mí— queda claro que toda prédica exitosa, por original que pueda parecer, solo es capaz de generar un efecto masivo si resuena con los resortes conductuales preexistentes en cada integrante de los colectivos. De hecho, y esto es una bella paradoja, mientras más único es un individuo, más y mejor expresa deseos, anhelos e impulsos universales, presentes al interior de cada ser humano, y soliviantados desde antes por ciertas señales de la existencia en común. De otro modo, lo que consideramos "inspirado" y "original" sería sencillamente idiosincrásico.
 
-Don Mario, que se incluye entre los zorros, admite que la capacidad de observar la realidad prescindiendo de un punto de vista integrador es ciertam. atractiva(?).
+...Y sin embargo uno estaría tentado a darle la razón a Isaiah cuando comparamos a Washington con Bolívar, a Churchill con Miguel Iglesias, Francisco García Calderón y Andrés Avelino Cáceres, o a Kandiaronk con Atahualpa. ¿Habrían sido distintas nuestra Independencia, nuestra posguerra del Pacífico o los primeros contactos de nuestra cultura originaria con los europeos?
 
-Uno puede con mayor facilidad acceder a una sensación de trascendencia desde una mirada convergente, eso es cierto, y de hecho ello nos puede servir de faro orientador en medio del agnóstico(?) castigo de la vida. Con lo cual se sortea, reveladoram. y de algún modo mágico, a la idea de la existencia como absurdo, ante el cual la mejor respuesta es generar para uno mismo un sentido: ¡Sartre atacado de
+Pero basta tratar de analizar —incluso superficialmente— los procesos peruanos con los de aquellas otras naciones para entender que ni Kandiaronk, ni Washington, ni Churchill surgieron espontáneamente.
 
----
-
-## [LLT-IB25] (31/07/26)
-
-nuevo!
-
-**Personal Impressions:** el tópico de este libro de ensayos no puede ser más interesante: ¿cuál es el auténtico motor de la Historia? ¿La inspiración genial y conmovedora de ciertos individuos selectos —los héroes de Carlyle—, o las fuerzas colectivas, sin nombre ni rostro, pero poseedoras de un impulso y una lógica colosales, capaces de moldear el mundo social como ningún ser humano en solitario podría?
-
-Berlin se decide por la primera posición, a saber, que la participación y aporte de determinados individuos —"grandes", es el adjetivo que pide, a gritos, el término— son indispensables y decisivos. Cierto es que el componente motivacional, cuando es transmitido social y discursivamente, lo es a través de individuos, pero —al menos para mí— queda claro que toda médula(?) exitosa, por original que pueda parecer, solo es capaz de generar un efecto masivo si resuena con los resortes conductuales preexistentes en cada integrante de los colectivos. De hecho, y esto es una bella paradoja, mientras más único es un individuo, más y mejor expresa deseos, anhelos e impulsos universales, presentes al interior de cada
-
----
-
-## [LLT-IB26] (31/07/26)
-
-ser humano, y solventados(?) desde antes por ciertas señales de la existencia en común. De otro modo, lo que consideramos "inspirado" y "original" sería sencillamente idiosincrásico.
-
-...Y sin embargo uno estaría tentado a darle la razón a Isaiah cuando comparamos a Washington con Bolívar, a Churchill con [nombre ilegible/tachado], o a Kandiaronk con Atahualpa. ¿Habrían sido distintas nuestra Independencia, nuestra posguerra del Pacífico o los primeros contactos de nuestra cultura originaria con los europeos?
-
-Pero basta tratar de analizar —incluso superficialmente— los procesos peruanos con los de aquellas otras naciones para entender que ni Kandiaronk, ni Washington, ni Churchill surgieron espontáneam., como imaginaba Aristóteles que surgían las moscas a partir de los desperdicios.
-
-Un Kandiaronk solo podía emerger de una sociedad tribal, y no de un macro Estado(?) como el incaico; y de un territorio extensísimo con mano de obra escasa y pocas posibilidades extractivas, como lo era América del Norte, a diferencia del Perú, donde el oro estaba literalm. al alcance de la mano y la Pachamama era pródiga para
-
----
-
-## [LLT-IB27] (31/07/26)
-
-los millones de indios que habían desentrañado sus mejores secretos.
+Un Kandiaronk solo podía emerger de una sociedad tribal, y no de un protoestado como el incaico; y de un territorio extensísimo con mano de obra escasa y pocas posibilidades extractivas, como lo era América del Norte, a diferencia del Perú, donde el oro estaba literalmente al alcance de la mano y la Pachamama era pródiga para los millones de indios que habían desentrañado sus mejores secretos.
 
 Washington era el pináculo de un sistema de creencias en el que se valoraba el sacrificio, la autonomía individual y un intenso apego a la tierra. Bolívar venía de una sociedad estamental y jerarquizada en la que, más que desmembrar la superestructura, se trataba de cambiar quién la dominaba.
 
-Churchill encarnaba un refinado sistema político con mínimas opciones de disociacionalidad(?), una sociedad altamente cohesionada y una élite que desde hacía siglos se había hecho cargo de la nación, había modelado a otra y deliberadamente su estructura, y estaba en condiciones razonables de afrontar la guerra. Mientras Miguel Iglesias venía de una élite de primera generación, que apenas conocía el funcionamiento del Estado peruano; mientras que García Calderón ostentaba un poder político precario, más nominal que efectivo, y Andrés A. Cáceres una resonancia más táctica y emocional que estratégica, huérfana de apoyo burocrático y logístico, y reducida a su mínima y patética expresión, Churchill podía encaramarse al Almirantazgo(?) de una forma tal que centralizara todas las
+Churchill encarnaba un refinado sistema político con pocas opciones de discrecionalidad, una sociedad altamente cohesionada y una élite que desde hacía siglos se había hecho cargo de la nación, había modelado activa y deliberadamente su estructura, y estaba en condiciones razonables de afrontar la guerra. Mientras Miguel Iglesias venía de una élite de primera generación, que apenas conocía el funcionamiento del Estado peruano; mientras que García Calderón ostentaba un poder político precario, más nominal que efectivo, y Andrés A. Cáceres una resonancia más táctica y emocional que estratégica, huérfana de apoyo burocrático y logístico, y reducida a su mínima y patética expresión, Churchill podía encaramarse al liderazgo de una forma tal que centralizara todas las funciones vitales necesarias para el enfrentamiento bélico. El caso peruano, con su liderazgo atomizado, fragmentario e inexperto, es solo la expresión práctica de un Estado larvario y fallido. El caso británico, la consecuencia de una línea ininterrumpida de gestión política estable y puesta a punto por un mecanismo constitucional diseñado para la mejora continua a lo largo de las centurias.
 
----
+Vemos, pues, que toda individualidad es solo la secreción de un contexto organizacional plenamente establecido, la expresión solo parcialmente novedosa de un orbe sociocultural y político que define los radios de acción y los criterios y posibilidades de éxito o de fracaso.
 
-## [LLT-IB28] (01/08/26)
+Volviendo al texto. Berlin señala que la noción de "héroes" conlleva un riesgo: endiosar a personajes de vocación autoritaria. Por eso, ensalza a personajes como Churchill, Roosevelt o Weizmann (el primer mandatario del moderno Estado de Israel), pues, según su punto de vista, se trataba de actores históricos respetuosos de la ley y de la democracia. (Habría mucho por discutir en relación a cuán fieles a los valores democráticos fueron todos, en especial el sionista Weizmann, pero no nos explayaremos aquí sobre el tema). 
 
-funciones vitales necesarias para el afrontamiento bélico. El caso peruano, con su liderazgo atomizado, fragmentario e inexperto, es solo la expresión práctica de un Estado larvario y fallido. El caso británico, la consecuencia de una línea ininterrumpida de gestión política estable y puesta a punto por un mecanismo constitucional diseñado para la mejora continua a lo largo de las centurias.
+Entre los "héroes" berlinianos prevalecen, incluso más que sus líderes políticos, los grandes científicos —como Einstein— y los grandes artistas —como Pasternak y, por supuesto, Anna Ajmátova—, que propusieron las grandes ideas y "elevaron el espíritu de su época" con sus obras.
 
-Vemos, pues, que toda individualidad es solo la secreción de un contexto organizacional plenamente establecido, la expresión solo parcialm. novedosa de un orbe sociocultural y político que define los radios de acción y los criterios y posibilidades de éxito o de fracaso.
+Queda claro, además, que para Isaiah la talla intelectual de un personaje notable no podía estar escindida de su estatura moral. Por un lado, esto nos asegura de que no estamos hablando de proezas meramente instrumentales, simples destrezas de alto nivel y grandes aptitudes para alguna actividad socialmente constructiva. Más bien nos habla de que para ser históricamente relevante, es necesaria una conducta moralmente defendible y una coherencia entre la excelencia operativa y la ética. Pero, por otro lado, nos obliga a relativizar la magnitud de sus "héroes", ya que toda evaluación moral es necesariamente subjetiva. No todos los seres humanos considerarán que alguien como Weizmann tiene los mismos kilates morales que Roosevelt o Churchill; por ejemplo, para un árabe gazatí la calificación moral será quizás distinta.
 
-Volviendo al texto. Berlin señala que la noción de "héroes" conlleva un riesgo: endiosar a personajes de vocación autoritaria. Por eso, ensalza a personajes como Churchill, Roosevelt o Weizmann (el primer mandatario del moderno Estado de Israel), pues, según su punto de vista, se trataba de actores históricos respetuosos de la ley y de la democracia. (Habría mucho por discutir en relación a cuán fieles a los valores democráticos fueron, en especial el sionista Weizmann, pero no nos explayaremos aquí
+Berlin estudia, aun más que a colegas libertarios, a quienes sostienen puntos de vista e ideologías distintas. Y no duda en contrastar sus creencias con la realidad. Todo esto nos dice don Mario, pasando por alto que, en cuestión de sistemas filosóficos e ideológicos, la apelación a hechos es casi siempre irrelevante. (De hecho, un sistema de esa índole que tambaleara o cayera ante una determinación factual no sería sólido.)
 
----
+Así, Isaiah escribió ensayos sobre Marx o sobre Joseph de Maistre, este último filósofo de vocación alarmantemente autoritaria; ambos polos del espectro político en relación a su propia ideología liberal. Berlin era un racionalista fascinado por aquellos autores, opuestos a él mismo, que reclaman la primacía de la realidad para la emoción y el instinto. Por ejemplo, analizó la obra de Johann Georg Hamann, "frenemy" de Immanuel Kant, de quien criticaba la opacidad racionalista, el idealismo de vocación críptica, y la creencia en una razón capaz de descarnarse del lenguaje como medio de actualización en el mundo. Vargas Llosa, con su viciosa y superficial tendencia a la caricatura, llamó a Hamann "enemigo mortal de la Ilustración, y portador acérrimo del irracionalismo". Por lo menos, admite que el reclamo que tal filósofo hace de una visión meramente racionalista del mundo como una óptica necesariamente incompleta es justo, así como su valentía en establecer que los recodos más sombríos de la personalidad de los individuos tienen tanto derecho a ser parte de una definición de lo humano como las acciones más nobles y los ideales más luminosos.
 
-## [LLT-IB29] (01/08/26)
+Hamann parece haber sido un pensador sobremanera interesante. A contrapelo de la tendencia general entre sus pares contemporáneos, argumentaba, desde su vena aristotélica, que la verdad última, además de Dios, radicaba en la sencilla especificidad de cada individuo concreto, y no en generalizaciones abstrusas que, por lo demás, tenían como subproducto el alejamiento del filósofo del hombre común, ese que en otras épocas aspiraba a entender y cosechar lecciones de la sabiduría de los espíritus esclarecidos. Por el contrario, y como hoy es evidente, luego de Kant y Hegel la Filosofía ha hollado trillos que demandan dedicación entera y profesionalismo eximio para quien quisiera seguirlos. No creía que se pudiera llegar a la verdad a través de conceptos globales y categorías colectivas, que al fin y al cabo solo consisten en olvidar diferencias y subsumir particularidades. Considerado con perspectiva histórica, es lógico verlo como un precursor de los románticos y, andando aún algo más lejos, de las ideas existencialistas.
 
-sobre el tema). Entre los "héroes" berlinianos prevalecen, incluso más que sus líderes políticos, los grandes científicos —como Einstein— y los grandes artistas —como Pasternak y, por supuesto, Anna Ajmátova—, que propusieron las grandes ideas y "elevaron el espíritu de su época" con sus obras.
+Aquí el peruano describe la personalidad y el carácter de Hamann: cuán hosco e ingrato era, cuán poco sociable y mal avenido con las convenciones de su mundo, incapaz de apreciar incluso a quienes se reclaman sus discípulos. No es de asombrarse que tuviera poco éxito social y fuera prontamente olvidado por el círculo reducido de sus lectores. (El ensayo que Berlin le dedica se llama *"The Central Core"*.)
 
-Queda claro, además, que para Isaiah la talla intelectual de un personaje notable no podía estar escindida de su estatura moral. Por un lado, esto no asegura que no estamos hablando de proezas meramente instrumentales, simples destrezas de alto nivel y grandes aptitudes para alguna actividad socialm. conmovedora. Más bien nos habla de que para ser históricamente relevante, es necesaria una conducta moralmente defendible y una coherencia entre la excelencia operativa y la coherencia ética. Pero, por otro lado, no obliga a relativizar la magnitud de sus "héroes", ya que toda evaluación moral es necesariam. subjetiva. No todos los seres humanos considerarán que alguien como Weizmann tiene los mismos kilates(?) morales que Roosevelt o Churchill; por ejemplo, para un árabe gazatí la calificación moral será quizás distinta.
+Hamann es original porque concibe al ser humano en cuanto entidad concreta e irracional, irreducible a lo colectivo; soberana e impenetrable por voluntad del Dios que la creó. Tiene ciertamente la razón cuando afirma que los seres humanos, más que de la Ciencia, nos guiamos de la vivencia práctica, acumulada durante la vida (de hecho, añadiría yo, de la interpretación que hace de su propia vida, más que de la memoria literal que de ella puede guardar). Como suele pasar con los filósofos auténticos, era capaz de releer el mundo de forma coherente, para revelar, a través de una lógica propia, reconfiguraciones y reconcepciones independientes de lo que piensa el común. Por ejemplo, y en consistencia con su propio planteamiento, evalúa a los enciclopedistas y filósofos "ilustrados" de su tiempo como inferiores a los mendigos y los delincuentes, porque estos últimos, en su modo de experimentar la existencia, se dan la opción de acercarse a la revelación de Dios de forma vivencial y directa, mientras que los intelectuales optimistas no hacen sino alejarse de lo real, interponiendo entre el mundo y su pensamiento una innecesaria y opaca capa de teorías y generalizaciones.
 
----
+Esta apelación a lo tangible llegaba, como se verá, a extremos. Consideraba que el pudor era una limitación innecesaria y que por lo tanto, en el terreno sexual, debía uno disponerse a todas las exploraciones de un sistema reproductivo otorgado por Dios; al mismo tiempo, abogaba por la familia, la autoridad y el orden definido en la ley como principios imprescindibles para imponer una coexistencia social viable. Sin duda, una curiosa mezcla de *avant-garde* y conservadurismo.
 
-## [LLT-IB30] (01/08/26)
+\dinkus
 
-Berlin estudia, aun más que los filósofos libertarios, a quienes sostienen puntos de vista e ideologías distintas. Y no duda en contrastar sus creencias con la realidad. Todo esto nos dice don Mario, pasando por alto que, en cuestión de sistemas filosóficos e ideológicos la apelación a hechos es casi siempre irrelevante. (De hecho, un sistema de esa índole que tambaleara o cayera ante una determinación factual no sería sólido.)
+Berlin compara el trato diferencial de Francia e Inglaterra en relación a sus grandes luminarias intelectuales (básicamente artistas, filósofos y científicos). Mientras que en Inglaterra se les otorga un tratamiento discreto, circunscrito a su ámbito de excelencia, y alejado de la mirada multitudinaria, en Francia se les impone un tratamiento casi de celebridades, se esparce su nombradía por todos los registros de la actividad social y casi se los hace íconos publicitarios.
 
-Así, Isaiah escribió ensayos sobre Marx o sobre Joseph de Maistre, este último filósofo de vocación abiertamente autoritaria; ambos polos del espectro político en relación a su propia ideología liberal. Berlin era un racionalista eventualm. fascinado por aquellos autores que reclaman la primacía de la R' para la emoción y el instinto. Por ejemplo, analizó la obra de Johann Georg Hamann, "frenemy" de Immanuel Kant, de quien criticaba la opacidad racionalista, el idealismo de vocación críptica, y la creencia en una razón capaz de descarnarse del lenguaje como medio de actualización en el mundo. Vargas Llosa, con su viciosa y superficial tendencia a la caricatura, llamó a Hamann "enemigo mortal de la Ilustración, y portador acérrimo del irracionalismo". Por lo menos, admite que el reclamo
-
----
-
-## [LLT-IB31] (02/08/26)
-
-que tal filósofo hace de una visión meram. racionalista del mundo como una óptica necesariam. incompleta es justo, así como su valentía en establecer que los recodos más sombríos de la personalidad de los individuos tienen tanto derecho a ser parte de una definición de lo humano como las acciones más nobles y los ideales más luminosos.
-
-Hamann parece haber sido un pensador sobremanera interesante. A contrapelo de la tendencia general entre sus pares contemporáneos, argumentaba, desde su vena aristotélica, que la verdad última, además de Dios, radicaba en la sencilla especificidad de cada individuo concreto, y no en generalizaciones abstrusas que, por lo demás, tenían como subproducto el alejamiento del hombre común, ese que en otras épocas aspiraba a entender y cosechar lecciones de la sabiduría de los espíritus esclarecidos. Por el contrario, y como hoy es evidente, luego de Kant y Hegel la Filosofía ha hollado trillos que demandan dedicación entera y profesionalismo eximio para quien quisiera seguirlos. No creía que se pudiera llegar a la verdad a través de conceptos globales y categorías colectivas, que al fin y al cabo solo consisten en olvidar diferencias y subsumir particu-
-
----
-
-## [LLT-IB32] (02/08/26)
-
-laridades. Considerado con perspectiva histórica, es lógico verlo como un precursor de los románticos y, andando aún algo más lejos, de las ideas existencialistas.
-
-Aquí el peruano describe la personalidad y el carácter de Hamann: cuán hosco e ingrato era, cuán poco sociable y menos avenido con las convenciones de su mundo, aun incapaz de apreciar incluso a quienes se reclaman sus discípulos. No es de asombrarse que tuviera poco éxito social y fuera prontamente olvidado por el círculo reducido de sus lectores. (El ensayo que Berlin le dedica se llama "The Central Core".)
-
-Hamann es original porque concibe al ser humano en cuanto entidad concreta e irracional, irreducible a lo colectivo, soberana e impenetrable por voluntad del Dios que la creó. Tiene ciertamente la razón cuando afirma que los seres humanos, más que de la ciencia, nos guiamos de la vivencia práctica, acumulada durante la vida (de hecho, añadiría yo, de la interpretación que hace de su propia vida, más que de la mera memoria que de ella puede guardar). Como suele pasar con los filósofos auténticos, era capaz de releer el mundo de forma coherente, para revelar, a través de una lógica propia, reconfiguraciones y reconcepciones
-
----
-
-## [LLT-IB33] (03/08/26)
-
-independientes de lo que piensa el común. Por ejemplo, y en consistencia con su propio planteamiento, evalúa a los enciclopedistas y filósofos "ilustrados" de su tiempo como inferiores a los mendigos y los delincuentes, porque estos últimos, en su modo de experimentar la existencia, se dan la opción de acercarse a la revelación de Dios de forma vivencial y directa, mientras que los intelectuales optimistas no hacen sino alejarse de lo real, interponiendo entre el mundo y su pensamiento una innecesaria y opaca capa de teorías y generalizaciones.
-
-Esta apelación a lo tangible llegaba, como se verá, a extremos. Consideraba que el pudor era una limitación innecesaria, y que por lo tanto, en el terreno sexual, debía uno disponerse a todas las exploraciones de un sistema reproductivo otorgado por Dios; al mismo tiempo, abogaba por la familia, la autoridad y el orden definido en la ley como principios imprescindibles para imponer una coexistencia social viable. Sin duda, una curiosa mezcla de avant-garde y conservadurismo.
-
-`#`
-
-Berlin compara el trato diferencial de Francia e Inglaterra en relación a sus grandes luminarias intelectuales (básicam., artistas, filósofos y científicos). Mientras que en
-
----
-
-## [LLT-IB34] (03/08/26)
-
-Inglaterra se les otorga un tratamiento discreto, circunscrito a su ámbito de excelencia, y alejado de la mirada multitudinaria, en Francia se les impone un tratamiento casi de celebridades públicas, se esparce su nombradía por todos los registros de la actividad social y casi se los hace íconos publicitarios.
-
-Para Isaiah, esto revela la vocación elitista británica, mientras que los usos franceses revelarían la tendencia democrática de la cultura de ese país. Vargas Llosa ironiza a este respecto: de haber emigrado a París en vez de a Londres, a su muerte Berlin hubiera recibido una "trompetería necrológica" como las producidas a raíz del fallecimiento de Sartre o de Foucault, en vez del entierro digno pero discreto y sobrio que en realidad se organizó cuando, a sus ochenta y ocho años, Isaiah dejó el mundo físico.
+Para Isaiah, esto revela la vocación elitista británica, mientras que los usos franceses, por el contrario, evidencian la tendencia democrática de la cultura de ese país. Vargas Llosa ironiza a este respecto: de haber emigrado a París en vez de a Londres, a su muerte Berlin hubiera recibido una "trompetería necrológica" como las producidas a raíz del fallecimiento de Sartre o de Foucault, en vez del entierro digno pero discreto y sobrio que en realidad se organizó cuando, a sus ochenta y ocho años, Isaiah dejó el mundo físico.
 
 De lo que don Mario nos cuenta acerca de su vida y sus preferencias —sobre todo la modestia casi monacal que no lo terminó de abandonar nunca en relación a sus propios ensayos—, es muy probable que Berlin hubiera aprobado el estilo de su propio entierro.
 
-Era, sin duda, un erudito, capaz de escribir, con elegancia y aportes originales, sobre una gama amplísima de materias, dominador fluido de una docena de idiomas, y para enorme
-
----
-
-## [LLT-IB35] (03/08/26)
-
-satisfacción del escritor peruano, un liberal sin ambages, aunque sí con importantes salvedades. No creía del todo en el libre mercado como condición suficiente para el establecimiento del progreso sociocultural; en esto, se acercaba más a la socialdemocracia. En su última entrevista, afirmaba que no encontraba defendible el laissez-faire económico que, en su momento, había desembocado en el trabajo infantil y otras formas de explotación.
+Era sin duda un erudito, capaz de escribir con elegancia y aportes originales sobre una amplísima gama de materias, dominador fluido de una docena de idiomas, y ---para enorme satisfacción del escritor peruano---, un liberal sin ambages, aunque sí con importantes salvedades. No creía del todo en el libre mercado como condición suficiente para el establecimiento del progreso sociocultural; en esto, se acercaba más a la socialdemocracia. En su última entrevista, afirmaba que no encontraba defendible el *laissez-faire* económico que, en su momento, había desembocado en el trabajo infantil y otras formas de explotación en varios países del mundo.
 
 El liberalismo de Isaiah Berlin tenía mucho más que ver con la cultura de la tolerancia, esa que no solo no le impidió sino que lo incentivara a estudiar incluso la obra de quienes inspiraron y ejercieron ideologías políticas opuestas a la suya.
 
-"Aburre leer a los aliados", cita Vargas Llosa al buen Isaiah. "Es más entretenido leer al enemigo, al que pone a prueba nuestras defensas." En esto coincido yo con él, y mucho. No hay ejercicio más revitalizante para nuestra inteligencia que someterla a la resistencia del pensamiento diferente; es como se desarrolla el músculo cognitivo, como el cuerpo se enfrenta al peso muerto de las pesas de hierro.
+*"Aburre leer a los aliados"*, cita Vargas Llosa al buen Isaiah. *"Es más entretenido leer al enemigo, al que pone a prueba nuestras defensas."* En esto coincido yo con él, y mucho. No hay ejercicio más revitalizante para nuestra inteligencia que someterla a la resistencia del pensamiento diferente; es como se desarrolla el músculo cognitivo, como cuando el cuerpo se enfrenta al peso muerto de las pesas de hierro.
 
-No practicó la disciplina de los proyectos largos, probable-
-
----
-
-## [LLT-IB36] (03/08/26)
-
-*Nota: código escrito como "LLT-1B36". Esta página cierra el cuadernillo de Berlin y, bajo el mismo sistema de numeración correlativa, ya introduce al siguiente pensador (Jean-François Revel). Se incluye íntegra por ser la página de transición; el contenido a partir de "Jean-François Revel" pertenece propiamente al futuro cuadernillo LLT-JFR.*
-
-mente por el convencimiento íntimo de que lo que hubiera podido decir carecía de la trascendencia necesaria.
+No practicó la disciplina de los proyectos largos, probablemente por el convencimiento íntimo de que lo que hubiera podido decir carecía de la trascendencia necesaria.
