@@ -1,8 +1,4 @@
 .Rproj.user/
-_book/
-_bookdown_files/
-*.log
-*.aux
-*.toc
 .DS_Store
-.DS_Store
+.Rhistory
+.RData
